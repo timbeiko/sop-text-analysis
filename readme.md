@@ -1,0 +1,1 @@
+Best approach seems to be Non-Negative Matrix Factorization (NMF), see `nnf-modeling.py`
