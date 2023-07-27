@@ -1,0 +1,40 @@
+﻿The Participant in a Thousand Protocol Systems - Angela Walch
+My Take on Protocols and Protocol Systems
+Protocols are sets of rules (explicit or implicit) that shape the behavior of groups of people. You can put all the other terms for rules in that bucket, too: norms, laws, standards, customs, traditions, what have you. Protocols provide signals to humans that they **should** act in a particular way – that one path of action or inaction is normatively better than another in a given situation, and there will be consequences of following or not following the signaled path.
+Rules aren’t that interesting on their own, though, as this former lawyer and any reader of the Internal Revenue Code will tell you. It’s when you mix rules with people doing things in response to them that things get interesting.
+Let’s put it in equation form:
+Protocol System = Protocol + Group of People + Group Acting in Response to Protocol
+It is the people systems that protocols enable - people interaction systems — that make them interesting to me. Systems like nations, religions, schools, professions, families, blockchains, and countless others. Systems that, through the interactions between the participants in them, can have interesting outputs and outcomes. Outcomes that would not emerge from a single party following rules. Or a mass of individuals behaving in ways not shaped by a common set of rules.
+### ***The Protocol Participation Cycle (PPC)***
+The meat of my project is mapping out the journey an individual takes through a protocol system — from entry through participation to exit (or death, I suppose). I see humans as “bundles of protocols” in that we each participate in countless protocol systems simultaneously and enter and exit them throughout our lives. I think there are key moments in our individual interactions with protocol systems that apply whether the protocol system is a religion, a nation, a blockchain, a career, or a marriage. 
+The title of my project, ***The Participant in a Thousand Protocol Systems***, winks at Joseph Campbell’s famous book, *The Hero with a Thousand Faces*, which describes how an individual (in his case, a mythic hero) goes on “the hero’s adventure”:
+<aside>
+<img src="/icons/walk_green.svg" alt="/icons/walk_green.svg" width="40px" /> A  hero ventures forth from the world of common day into a region of supernatural wonder: fabulous forces are there encountered and a decisive victory is won: the hero comes back from this mysterious adventure with the power to bestow boons on his fellow man. (3d Edition, New World Library, 2008, p. 23.)
+</aside>
+In Campbell’s vision, the hero figure could have a different face (Hercules, Buddha, Osiris, or countless others), but the model of the journey is the same. 
+In my vision, the participant travels through a thousand (arbitrary high number) different protocol systems in their life (their religion, family, education, profession, gender, etc), but the path through every protocol has similar important inflection points (entry / thriving or dysphoric participation  / deconstruction / revision of identity or protocol or exit from protocol / building new protocol system or entering another). 
+I think there are important questions raised by the way people enter protocol systems (was it with with agency, unconsciously, via coercion, etc?) and how that affects the legitimacy of the protocol system itself, as well as participants’ consciousness of the protocol system they inhabit. 
+Similarly, there are important questions raised by the identity individuals assume within a protocol system, and whether that identity is a good “fit.” I introduce the concept of “protocol identity dysphoria” to describe the angst of figuring out whether a protocol identity is right for you and what to do about it. 
+Finally, the exit of a person from a protocol system is another key moment in the journey. The stakes of leaving a protocol system may be extremely high, particularly if a person has built a strong identity within the protocol system and has many ties (social, financial, reputational) to it. An exit may mean that a person loses their protocol identity and everything tied to it, and has to begin again by entering another protocol system or building a new one. Further, a protocol system may leave an overhang even after a person’s exit, in the ways it has shaped their identity and psyche (e.g., trauma). 
+I think that the different phases of the cycle interact in interesting ways (e.g., your mode of entry may impact whether you suffer from protocol identity dysphoria), and that an identity you have built in one protocol system (System 1) may affect your choice of whether to join a different protocol system (System 2) (what I call “protocol determinism”). Protocol determinism can be highly problematic if your entry into System 1 was involuntary, and thus taints the agency of your entry into System 2. 
+At any rate, I haven’t made the Protocol Participation Cycle pretty or refined yet, but here is a very rough draft of it to give you the idea.
+![Protocol Participation Cycle - June 14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0eb5b1a7-de81-43f2-be2f-0265e3f7f489/Protocol_Participation_Cycle_-_June_14.png)
+Artifact Ideas
+I have two possibilities for artifacts currently.
+1) An aesthetically pleasing version (map? cycle?) of the Protocol Participation Cycle.
+2) A framework to help people “see” (become consciously aware) of the protocol systems they are participating in. This would likely take the form of a series of reflection questions and exercises. 
+### ***Ideas of Ways to Engage***
+-Help refine the PPC. What makes sense? What doesn’t? How would you change it? Is it a useful tool?
+-Make an artistic or software-based form of the PPC.
+-Create a mascot for the Participant in a Thousand Protocol Systems, or a representation of them in their myriad protocol systems.
+-Interrogate the Protocol Participation Cycle (PPC) or the various concepts that appear in it (e.g., Bundle of Protocols, Protocol Identity, Protocol Identity Dysphoria, Involuntary Protocol Participation, Protocol Determinism, Protocol Overhang). 
+-Explore how the different parts of the PPC interact with each other.
+-Explore legitimacy, ethical, or stability questions raised by the PPC.
+-What types of protocol systems could the PPC apply do? What types does it not work for and why? 
+-Tell one of your protocol stories, or collect the protocol stories of others (podcast? videos? other?). Does the PPC help with telling the story?
+-Apply the PPC to a protocol system (e.g., education, citizenship, fandom).
+-How does the PPC relate to theories or frameworks in a particular discipline (e.g., psychology, systems theory, anthropology, sociology, law, religious studies)?
+-Build a framework to help people determine where they are in the cycle for a given protocol they are in.
+-What other frameworks does the PPC resemble? How can the PPC be improved by these? Does the PPC add anything new? (e.g., Joseph Campbell’s Hero’s Journey? John Boyd’s OODA-Loop?)
+-How could the PPC help people in the real world? How could it be publicized or polished to make it useful? How could it go viral?
+-Whatever ideas you have! The sky’s the limit!

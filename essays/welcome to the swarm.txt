@@ -1,0 +1,727 @@
+Top Line Comments from Feedback:
+* Framework “makes sense”
+* Very insightful on the protocol encoding and relationship to different structures (encoding of social protocols changes the structure of the org
+* Overall, the piece is broader than swarms, although swarms is the primary case-study. Need to think about reframing, maybe a different title / intro ---- or need to go from swarm to broader framework instead of framework to swarm
+* Need to restructure writing since right now it’s progressively unfolding and the reader “doesn’t know what we’re going to talk about” (the flow isn’t intuitive, even if the scope is tighter than the first version)
+
+
+  
+
+
+
+~^~~^~~^~
+
+
+Welcome to the Swarm[a]
+
+
+A text message, a like, or a post on social media may appear insignificant on its own. However, these actions generate transformative waves as they converge and compound in our networked world. We are in the swarm[b], a social formation born in an algorithmic ecology. And as a result? We’re racing to create technologies to herd this collective spirit. Its power will be harnessed.
+
+
+~^~~^~~^~
+
+
+The sky turned lilac before the hurricane’s landfall; an omen of Juracán, spirits of the wind summoned by the indigenous deity Guabancex[c]. With some luck, the hurricane would have passed above or below the Island. Puerto Rico was not lucky in 2017. Hurricane María ripped straight through the Island with winds of over 200km per hour.[1] Thousands died in the aftermath. Only Juracán knows the final count.[2]
+
+
+María’s landfall was at 6:15 am local time on September 22nd, 2017. It was mythical: landfall happened one minute after sunrise. The Puertorican diaspora living around the world waited in anticipation.[3] Many watched their social feeds for posts from family and friends. But the feed was silent. There was a total communication blackout. Rumors of the damage crawled from phone to phone. Jorge, a Puerto Rican living in Berlin and working in climate technologies, imagined the challenges locals might face in the coming days and weeks. He tapped into his previous social activism experience and sought an opportunity to contribute.
+
+
+Jorge noticed in his Facebook feed that Puerto Ricans living in the US were beginning to share drop-off points for mutual-aid supplies. It seemed the diaspora’s anxiety was being channeled into support. A collective direction began to emerge: get supplies to those in need. There was no banner or organizing institution, just posts about where to go and visual memes with lists of useful supplies. Jorge’s feed became a cacophony of activity. How could he help?
+
+
+By the end of the day in Berlin, while Hurricane María was still ravaging the Island, Jorge had begun a public spreadsheet[4] aggregating drop-off points found on Facebook. He shared the link with various mutual-aid groups in the hopes of accelerating donations.[5] Immediately, Pablo Benson, a social activist and Puerto Rican, saw Jorge’s spreadsheet. Pablo forwarded the link to the spreadsheet to others in his network. A message flew from New York to Berlin via Facebook chat:  “We’re creating a team and we want to use your spreadsheet.”
+
+
+Jorge and Pablo had met briefly over a decade ago. After a quick exchange on Whatsapp, Pablo invited Jorge to join daily coordination meetings. In the following days, the spreadsheet grew to include over a hundred drop-off locations around the US. A civilian-led supply chain of aid emerged. Memes reinforced demand; lists of what to donate filled social media feeds.[d][e] Online and offline, simple memes were transforming spectators to volunteers.
+
+
+Later on, collaborations such as this one would have compounding consequences.[f] The Puerto Rican network would support the development of physical Centers for Mutual Support (CAM in Spanish) on the Island,[6] join the 2019 protests to oust the governor, and become core to the campaign for a new political party[g][h].
+
+
+A new type of networked social formation, a digital swarm, formed from the diaspora and spread beyond its origins to provide aid in response to the deadly tempest.[i]
+“The light of a candle
+Is transferred to another candle—
+Spring twilight.” 
+Yosa Buson
+________________
+
+
+~^~~^~~^~
+(in) Formations
+
+
+Groups of people, such as crowds and companies, have been extensively studied and theorized.[7][j],[8][k] Their power is well known; they shape history. Crowds demand war, address civil rights, and deliver workplace safety. Companies[l][m][n][o][p] deliver groundbreaking innovations like our global network of communication[q].[9] These social formations achieve feats far beyond the capabilities of any individual, demonstrating what is referred to as collective intelligence.[10]
+
+
+Each type of social formation is shaped by the social protocols[r] underlying its identity and collaboration mechanics. Formal organizations rely on social protocols which are explicit.[s] The protocols they adhere to are often encoded and strict, such as a chain-of-command or Git version control. A Company could be defined as a formal socia[t][u]l form [v][w]built upon a portfolio of explicit social protocols. They have a brand, adhere to regulations and coordinate production through management[x].[11] 
+[y]
+
+
+In contrast, informal social groups are defined by implicit social protocols, relying instead on[z] norms and behavioral contagion for coordination. A Crowd is an example of an informal social form, most often physical. It has common emotions shaped by peer-to-peer mimicry and aligned through ad-hoc event broadcasts.[12] Crowds and their kin are characterized by the absence of explicit social protocols; they are a world of vibes.
+[aa]
+
+
+What social formation best describes Jorge and Pablo’s experience? It’s clear they were not part of a company. They were online working together, but it wasn’t an open-source project with version control either. Some might argue that the term “social movement” is more accurate. Similar to the emergent phase of social movements, the online civilian response to Hurricane María had no holistic cooperation structure or banner under which to organize[ab][ac]. Were they part of a crowd? Some might say so[ad][ae]. However, there were two main differences: coordination was mediated by an algorithm, and there wasn’t any visible gathering.[af][ag][ah][ai]
+
+
+If the response to Hurricane María wasn’t a crowd, company, or social movement, what was it?[aj]
+
+
+The response included the diaspora but also people exposed to diffuse call-to-actions across multiple social media feeds.[ak] Participants had no consistent home or third space for gathering, physical or digital. Moreso, the response had no collective name, brand, central knowledge base, or paid software[al]. Small teams, like Jorge and Pablo’s[am], were acting independently yet in broad alignment; decoupled and attuned.[an]
+[ao][ap]
+
+
+It is now clear that the response was networked.[13] Collaboration patterns existed within and between team hubs, with broader bursts of alignment. Each team adopted its own coordination process, and teams connected with others at key handoff points. People were connected, not gathered. As we will see, Jorge and Pablo’s experience hints at the new social formations we should expect this century.[aq]
+
+
+The response to Hurricane María was, in some ways, what danah boyd described in 2010 as a [ar][as][at][au]“networked public… restructured by networked technologies… simultaneously a space and a collection of people.” The social formation was “transformed by networked media, its properties, and its potential.”[14] However, once we look at the broader landscape of group entities emerging online, the limits of boyd's definition begin to emerge.
+
+
+First, new categories of social formations must account for human(ish) and non-human agents. While true that Jorge and Pablo’s network was a “collection of people,” similar formations include autonomous and semi-autonomous participants like bots. People gathered in group messaging services, like Discord or Telegram, often include automated bots that actively participate in moderation and content creation. Now, with chatbots powered by artificial intelligence services such as OpenAI’s GPT4, the distinction between our digital avatars and bots is even more opaque. Bots, such as ones for moderation and conversational support, are already becoming proactive participants in our networks[av][aw][ax].
+
+
+Second, social formations are networks of actions and content. The term “public” [ay]suggests that the unit of participation is the agent itself. But online agents, humans, and bots alike, publish content that exists independently of themselves. Memes seem to take on a life of their own. For example, someone might post a comment about an experience at a restaurant. This, in turn, is aggregated automatically by social media algorithms and social media listening tools. The post is now part of a trend. As an observer we can ask: is the post, or the original poster[15] part of the online formation? They would be coupled if authorship was reserved, but what if it's not?[az]
+
+
+Posts are routinely downloaded, cropped, and remixed[ba]. Authorship is lost while the content travels across social media sites and personal blogs. Today, the broadcast action can be decoupled from the creator. Consequently, we should reframe social formations as action[bb][bc]-centric instead of people-centric.
+
+
+Online formations have a diversity of agents, humans and bots, co-creating a multidimensional network of content actions. It is a new social formation, unique from a networked public.[bd]
+
+
+By accounting for a plurality of agents such as humans and bots, and looking at a multi-dimensional network of actions, we can then define the new social form: an online formation[be][bf]. Unlike a networked public, the nodes of the networks are made of content actions, and the participants extend beyond human-only entities.
+
+
+An online formation is a network of actions.
+Actions are performed by networked agents, humans or otherwise.[16]
+
+
+The definition has two direct consequences. Firstly, people interacting online become a type of online formation themselves. We will call this an avatar, a term used by game designers and online researchers today.
+
+
+An avatar is a set of networked actions attributed to an agent.[17] 
+
+
+[bg]
+Secondly, broadcasted actions attributed to an agent are part of multiple online formations, depending on the observer. The relationships are relative and shaped by algorithmic aggregators–whether we intended them to be or not.
+
+
+  
+
+Image: Online formations are defined by the observer. Algorithms group together our broadcasted actions and present them to others. Each person perceives online formations differently based on the actions they encounter.
+________________
+~^~~^~~^~
+The shapes of our networked spirits
+
+
+There is ample evidence of online formations with hundreds and thousands of avatar participants. The ubiquitous scale is impressive. Millions likely spark in and out of existence every year. If we look carefully, we can get a sense of their magnitude, archetypes, and lifecycles.
+
+
+At Reddit there are >60k new subreddits created every month[bh].[18] Facebook Groups likely dwarf this volume, with over 10x the number of users as Reddit. Fandoms of super-celebrities like BTS, Taylor Swift, and OneDirection count with millions of participants each.[19] Disinformation campaigns are reported during every election campaign.[20] Crypto airdrop farms have thousands of subscribers.[21]
+
+
+Those spending too many hours on social media, the terminally online, have even developed specific language to speak about these formations, hinting at various archetypes. Terms like raids, farms, online communities, and fandoms may sound familiar.[22] And yet, many online formations go unnamed. If the response to Hurricane María was an online formation, can we define an archetype for it? If so, we could understand the source of its social power.[bi][bj]
+
+
+[ADD VISUAL: Word cloud of “very online terms” surrounding online formations]
+
+
+Echoes of these novel terms are found in the news and contemporary academic research journals. Online formations have been responsible for shaping political discourse, enacting protests around the globe, and serving as a source of credibility for misinformation campaigns. Below are a few news clips and journal entries that talk about some online formations with well-known names: Black Lives Matter, #MeToo, Occupy, QANON, and Postrats (short for post-rationalists).
+
+
+BLM
+
+
+
+
+https://www.brookings.edu/articles/how-george-floyd-changed-the-online-conversation-around-black-lives-matter/
+	#MeToo
+
+
+
+
+The Guardian: https://www.theguardian.com/world/2017/oct/20/women-worldwide-use-hashtag-metoo-against-sexual-harassment
+	Occupy WallStreet
+
+
+Academic Article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3667169/
+	QANON
+
+
+
+
+Misinformation Campaign Academic Article (Check with Renée?)
+	Postrats
+
+
+
+
+NYT: This C.S. Lewis Novel Helps Explain the Weirdness of 2023
+	Image: Collage of news and journal articles mentioning online formations
+
+
+These formations are part of a category that Peter Limberg, online culture researcher, calls “memetic tribes.”[23] Per Limberg’s research, called “Meme to Vibe: A Philosophical Report,”[24] these online formations are defined by their “living philosophies” which have a “distinct vibe, with a definite sense of ingroup.” In other words, the actions associated with these formations fall under a single identity.
+
+
+As Limberg points out, a tribe is primarily defined by its cultural lore and assets.[25] Following this, formal social protocols like managers, are either absent or ignored. Operationally, tribe participation is fluid and fragmented. Those who participate define their own way to contribute. [bk]External infrastructure, such as platform algorithms and media cycles address coordination and distribution.
+
+
+[bl][bm]
+Similar to these, but with a stronger presence of encoded social protocols are online communities. These include professional networks, fandoms, and hobby groups. Celebrity fandoms are common and studied deeply. Celebrity fandoms include Taylor Swift’s ‘Swifties’ and K-pop superfan group called the ‘BTS Army.’ Fantasy world fandoms include communities like ‘Potterheads,’ which are fans of Harry Potter.
+
+
+Communities have known influencers like the memetic tribes, but also have structured knowledge hubs, gathering spaces, and tighter scopes related to content creation. Potterheads, for example, create and gather content on specific websites about the Harry Potter universe. In many cases, communities have partially or fully documented jargon, vision statements, and codes of conduct. They also have channels of mobilization. It is not a coincidence that One Direction, a British boy band, holds the record for most Billboard awards in the Top Duo/Group category. Fans coordinated online to mass-purchase their music and stream their songs 24/7 for weeks.
+
+
+In addition, the knowledge hubs, influencers, and content canon–for example, Taylor Swift’s music, performances, and personal life events–allow communities to adopt persistent identities, sometimes outlasting the celebrity’s life. One Direction superfans, called Directioners, are still expanding their knowledge base and attending community-organized events, even though One Direction disbanded in 2015.[26]
+
+
+In recent years we’ve seen new categories of online formations become mainstream: Blockchain organizations known as “DAOs” (decentralized autonomous organizations). These might be considered a natural progression from communities, leveraging decentralized financial tools and code known as smart contracts. Unlike memetic tribes, “DAOs” and their descendants adopt uniform code-enforced social protocols. For example, they may have internal reputation scoring, fund distribution rules, and democratic governance models.
+
+
+Table: Virtual Organization Examples
+
+
+Virtual Organization
+	Gitcoin
+	Bored Ape Yacht Collective (BAYC)
+	MakerDAO
+	Friends with Benefits (FWB)
+	Organization Description
+	Protocol for funding public goods.[27]
+	Luxury brand community, similar to Supreme.
+	Decentralized finance organization managing >$4.5B in assets.
+	Online social community with over 3,000 members.
+	Participation Boundary Protocol
+	Proof of Personhood and Governance Tokens
+	Digital Membership Pass (NFT) and Governance Tokens
+	Digital Governance Tokens
+	Digital Membership Tokens and Written Application
+	Governance Protocol
+	Quadratic Governance
+	Dictatorship 
+(Parent Company: YugaLabs)
+	Democratic Governance[28]
+	Committee Governance[29]
+	
+
+As a result of the software-encoded social protocols, these virtual organizations can delineate participation boundaries[bn][bo]. For example, membership and voting power are based on digital token ownership, allowing the organization to create automated grant programs. Gitcoin, for example, uses quadratic voting[30] to distribute funding for digital public goods. In other cases, virtual organizations use governance as an entertainment process and rely on explicit creator dictatorships for direction.
+[bp]
+
+
+Besides blockchain-based online formations, we’ve also seen the formalization of digital farming activities. These include gold farming[31], social influence farming,[32] and crypto-airdrop farms.[33] All are online formations where the participants perform specific tasks, a playbook, in exchange for digital currency or the opportunity to receive them. Unlike memetic tribes and blockchain organizations, these don’t have a brand but have ongoing instructions on what tasks to complete. They are virtual farms, often surviving in grey legal areas.[34]
+
+
+But the experience of Jorge and Pablo doesn’t align with either of these archetypes: tribes, communities, virtual organizations, or farms.[bq][br][bs] They were similar to memetic tribes, but only inasmuch that participants have a large amount of agency in terms of how to participate. Unlike memetic tribes, Jorge and Pablo didn’t have “a vibe” or cultural assets such as niche symbols or influencers. Instead, they were more like gold-farming telegram groups, without an overarching collective identity[bt]. The combination of task agency and lack of identity hints at a distinct archetype, unlike the previous ones we’ve discussed. Jorge and Pablo were inside a fluid and fragmented organization–a minimally protocolized entity. We will call this a swarm[bu][bv].[bw][bx]
+
+
+Together, we can plot these five archetypes–memetic tribes, communities, virtual organizations, farms, and swarms–along two primary axes: identity persistency and collaboration structure. 
+
+
+Framework: Online Formation[by] Archetypes
+  
+
+Image: 2x2 framework used to understand online formation archetypes. There are two axes: identity persistency and collaboration sources (internal vs. external).
+
+
+In this framework, identity refers to the ability to apply a name to the formation[bz]. Persistent identities have a name that is agreed upon by internal participants and external observers alike. As the label implies, it is persistent across perspectives and over a significant time period (months, years, decades). Shifting identities refer to the opposite. It is an inability to apply a single name. This may be either due to conflicting internal factions or rapid identity evolutions.[35]
+
+
+The second axis is collaboration structure. This refers to how the online formation aligns the actions which compose them. In high-agency models, like those of memetic tribes and swarms, alignment relies on external algorithms and informal peer-to-peer agreements. It is based on pattern recognition and constrained by the ecosystem in which it lives. Here, the spread of behavior requires confirmation from multiple sources before individuals are willing to act themselves.[36] Actions are mimicked if they go viral or are approved by peers. For example, Jorge’s spreadsheet didn’t have an approval process, but others sought to mimic the success of the spreadsheet in helping others donate materials.[ca]
+
+
+Table: Online Formation Archetypes, Characteristics, and Examples
+Category
+	(1) Memetic Tribe
+	(2) Online Community
+	(3) Virtual Organization
+	(4) Farm
+	(5) Swarm
+	Identity
+	Persistent
+	Persistent
+	Persistent
+	Fluid
+	Fluid
+	Collaboration
+Structure
+	High Agency, w/ Algorithmic Alignment
+	Mixed (Some Agency, Some Process)
+	Internally Defined Processes
+	Internally Defined Processes
+	High Agency, w/ Algorithmic Alignment
+	Key Example
+	Meme-based groups, like QANON
+	Fandoms: Swifties, Potterheads
+	Blockchain Orgs: Gitcoin, FWB, MakerDAO
+	World of Warcraft Gold Farms
+	Hurricane María Response
+	
+
+In contrast, online formations with uniform and well-defined collaboration operations rely on central documentation, managerial roles, and other internal processes[cb][cc]. Their collaboration is constrained by internal preference. For example, blockchain organizations create onboarding workflows and internal reputation scoring systems. Some run a regular census and have a membership database. Similarly, influence farms have lists of specific actions which manipulate social algorithms to their advantage without being penalized.
+
+
+
+
+
+
+
+
+[PENDING PARAGRAPH DISCUSSION RANKING RE: PROTOCOL ENCODING]
+
+
+
+
+
+
+
+
+[PENDING PARAGRAPH OF CONCLUSION / TRANSITION: Focus on Swarm]
+
+
+
+
+
+
+
+
+
+
+Visual: Online[cd][ce] Formations[cf] sorted based on social protocol encoding
+  
+
+Image: Online formation archetypes can be sorted, roughly, based on the reliance on implicit and explicit social protocols for cooperation. Swarms are minimally protocolized; they are reliant on implicit social protocols. In contrast, virtual orgs have their social protocols encoded into their code infrastructure.
+
+
+________________
+
+
+~^~~^~~^~
+Swarm Power[cg][ch]
+
+
+Since the inception of their collaboration, Jorge and Pablo used what they had learned from previous online experiences. Pablo started daily coordination calls, mimicking successful behaviors that he had participated in during the aftermath of Hurricane Sandy in 2012.[37] Jorge, in the meantime, created a vetting process to ensure that drop-off points gathered in the spreadsheet were active and up-to-date: “We had to make sure the information was accurate.” It’s easy to get distorted information that’s been passed between one too many people. To ensure high-quality information, Jorge made direct calls to the drop-off organizers and received calls from supply donors. In parallel, the Facebook feed would be filled with images showing lists of items to donate, and items to avoid. These visuals, a common tactic in crowdfunding supplies, would be further shared on other social media channels: WhatsApp, Instagram, and Twitter.
+
+
+  
+  
+
+Image: Visuals of donation memes in English and Spanish. On the right, we can see the Facebook group name included in the banner: “Boricuas en la Diáspora: Alivio Post-María” (English Translation: Puerto Ricans in the Diaspora: Post-María Relief).
+
+
+
+
+The combination of public feeds, daily calls, and meme-style visuals led to the creation of a civilian-based supply chain of donations. This is a clear demonstration of power. Hundreds of volunteers across the US had successfully done what the local government couldn’t: mobilize aid supplies immediately[ci][cj]. They had neither budget, approvals, consultants, nor corporate managers. In the beginning, supplies were gathered together at the drop-off locations and shipped via mail. As the scale of donations increased, volunteers prepared them in pallets and sent them via plane. Weeks later, to ensure the supplies were not being confiscated or hoarded by government officials, the supplies were accompanied by volunteers who hand-delivered them to various locations around Puerto Rico.
+
+
+The achievement of the swarm is even more impressive when we account for internal factions[ck]. Dozens of groups emerged, complementing hundreds of Facebook groups that already existed where Puertoricans in the diaspora gathered to exchange job opportunities, sell goods, and ask for advice. Factions followed custom processes based on their priorities, resources, and experience. Jorge and Pablo’s group used daily townhall-style video calls and focused on delivering supplies without governmental support. Others, like Francisco (radio host on the Island) gathered information from phone calls and shared it with governmental emergency response organizations like the Federal Emergency Management Agency, known as FEMA. Some factions converged over time. For example, multiple civilian-led supply-gathering initiatives ended up using aid centers set up by FEMA as distribution centers.[cl]  
+
+
+Jorge went to Puerto Rico a few weeks after the initial response. What he found amazed him. He visited local aid centers to offer his help, but they were fully staffed. His help was no longer needed. Soon after that, the working group between Pablo and Jorge disbanded. But the digital relationships between them and the network of content they created would persist. Similar organizational tactics would be deployed in the following years. The power of online formations would lead to the resignation of Puerto Rico’s governor in the summer of 2019 and a new political party.
+
+
+Image: 2019 Protests in Puerto Rico, credit: Isaak Gonzalo
+
+
+~^~~^~~^~
+
+
+"Go to the ant, you sluggard! 
+Consider her ways and be wise, 
+which having no captain, overseer, or ruler, 
+provides her supplies in the summer, 
+and gathers her food in the harvest" 
+Proverbs 6:6-11, The Bible, King James Version
+
+
+~^~~^~~^~
+
+
+Social movements over the past century, such as the civil rights movements, have successfully channeled the power of the public to drive institutional changes. Researchers and theorists, such as Blume [ADD MORE REFERENCES HERE] have outlined how social movements manage momentum in two steps. First, they define objectives framed in contrast (or support) of targetted institutions[cm][cn]; they act on a political intention.[38] Then, they adopt a common organizational framework[co].[39]
+
+
+However, the power of online formations is derived from the network, not just the size and organization of a movement.[cp][cq] To understand this source of power we can look at the online formation archetype of swarms, which do not have central managerial structures[40] or objectives. 
+
+
+Swarms rely on external technologies, like social media algorithms, for the distribution of tactics and coordination. This is similar to guerrilla warfare, where coordinated cells use broadcast technologies–such as peer communication, radio, newspaper, and TV–to learn about successful strategies and tactics. In both cases–for swarms and guerrillas–achievements and blunders are reported publicly. In the case of the hurricane’s response, successful aid delivery stories were shared on Facebook and on Television. The ecosystem is the infrastructure for communication.
+
+
+Swarms share another commonality with guerrillas. They gain focus through the adoption of an emergent narrative, a plausible promise, not collective objectives. Participant actions address an associated “enjeu” (stake). Jorge and Pablo sought to get supplies to those in need. Their actions addressed the issue of Hurricane María’s devastation. As we can see, there are no metrics or objectives associated with the promise, only a direction. In addition, the promise was not understood as a collective call-to-action, but one that they, as individuals, could act on.
+
+
+In the words of John Robb, researcher of modern guerrilla warfare, “This promise is the central connection between all the members in the community. Each member can have specific motivations that are substantially different from any of the others. In the case of warfare, these alternative motivations can be patriotism, hatred of occupation, ethnic bigotry, religious fervor, tribal loyalty, or what have you. It doesn’t matter as long as they agree with the plausible promise.”[41]
+
+
+These two characteristics of swarms–ecosystem as communication, and a shared promise– provide swarms with increased maneuverability and, as a result, power.[cr][cs] They become rapid shapeshifters, adapting quickly to whatever challenges they encounter. Like a crowd, their participants have common emotions. Like a guerrilla cell, their actions are aligned, but uncoupled.[ct][cu] Unlike social movements, there are no holistic organizational protocols; the algorithmic broadcast and peer-based gossip networks are enough. Unlike a crowd, the swarm is not gathered and, therefore, difficult to contain.[cv]
+
+
+It is worthwhile to note that the frame[42] of their promise does not require an institutional backdrop. This increases the flexibility and breadth of scenarios a swarm may appear in. Swarms can emerge to address aid after a catastrophic weather event, like in the case of Hurrican María, but can also appear in far stranger scenarios.
+[cw]
+
+
+In 2022, a swarm emerged on TikTok. An unknown amount of participants, likely in the millions, started playing a decentralized game to collect imaginary coins called doubloons[cx]. Anyone could decide to participate in the game.[43] As social media users browsed short-form videos on the feed, they would encounter memes that gave them instructions to add or remove doubloons from their inventory. Participants kept track of their doubloons, as well as other game items, on their own personal notes and then created memes that others might encounter. The game lasted a few months, with various “rules” emerging to manage the supposed inflation problem.[44]
+
+
+In summary, swarms can survive and thrive despite not having internal infrastructure, uniform social protocols, or a target “them.” In other words, they are minimally protocolized entities. Those who try to control the swarm end up herding shadows.
+
+
+However, a swarm’s survival can be fragile[cy][cz]. Swarms are dependent on the two mechanisms that contribute to the alignment of participation: swarms delegate their communication reliability to the networked platforms they live in, and do not have central control of the promises they seek. [da]If either system is disrupted–communication or promise–the swarm will dissipate. On the other hand, enhancing communication or strengthening the image of the promise can lead to additional scale, and influence.[db]
+  
+
+Image: At the most basic level, online formations rely upon the infrastructure that provides their networked communication. Successfully signaling participation in the “Promise” (depicted by the various shapes) helps formations connect and act collaboratively.
+
+
+________________
+
+
+~^~~^~~^~
+Alignment Technologies
+
+
+There is a meme about the American Central Intelligence Agency (CIA) that surfaces on social media every few months. It outlines eight tactics for “General Interference with Organizations and Production.” For anyone who’s worked in a business setting, the meme often causes laughter; the tactics are experiences most employees encounter daily. For example, point number three states: “When possible, refer all matters to committees, ‘for further study and consideration.’ Attempt to make the committees as large as possible–never less than five.” Those working in corporate or enterprise companies likely remember how difficult it is to achieve anything with more than five people.  
+
+
+The common theme across all the tactics is simple: slow down the decision-making process of the organization by extending and complicating communication. This prevents the organization from taking action and achieving its objectives. It prevents the entity from maneuvering in the face of market changes or internal conflict.[dc]
+
+
+Image: Text meme focused on interfering in organizations. Shared by Martin Weigel, Head of Planning at  Wieden+Kennedy Amsterdam, tweeted the following image from “The CIA’s’ Simple Sabotage Field Manual’ (1944)
+
+
+We can consider these tactics a type of bureaucratic technology that interferes with collective behavior[dd]. Other management technologies can mitigate the risks of interference; leadership and product management playbooks increase the production and responsiveness of an organization. What other technologies could there be besides these examples of communication sabotage and management? Under this umbrella of technologies for influence, we can also include content moderation, interface design, incentive programs, as well as status games. Together they can execute strategies of influence to align the social formation.[de][df][dg]
+
+
+Alignment Technology: A technique or method to direct content creation, user behaviors, and network development.[45]
+
+
+What alignment technologies are emerging to influence online formations? Large social media platforms point the way. They have been exploring alignment technologies rigorously to fight misinformation, violence, and illegal content[dh][di]. Although the results seem dubious.[dj]
+
+
+Framework: Alignment Technologies in Social Media Today
+  
+[dk][dl]
+Note: The framework includes common interventions in social media ecosystems. A social media ecosystem may be a platform, such as Facebook or Twitter, but it may also be a private space.
+
+
+Governments, malicious state actors, and even online communities have, in turn, attempted the coopt the technologies to their advantage.
+
+
+A few months before Hurricane María, another event took place across the Atlantic Ocean. In London, terrorists deliberately drove a truck into pedestrians on London Bridge, and then began stabbing people in the popular tourist area called Borough Market. Eventually, they were shot and killed by the police. Eight people were killed. The Islamic State claimed responsibility for the attack.
+
+
+A lesser-known part of this event was the government’s social media and physical propaganda response to calm citizens and organize volunteers. The UK government has detailed plans to encourage the emergence of ‘spontaneous volunteers’ and help manage the public response.[46] This is an alignment technology as well. However, instead of relying on direct intervention, such as moderation or software policies, propaganda relies on attunement. Social media feeds would be flooded with specific messages of support and cross-cultural support. Like Jorge and Pablo’s memes about items to donate, the UK government used hashtags– #TurnToLove, #ForLondon and #LoveWillWin–to help a promise emerge and propagate across the captive audience.
+
+
+Together, we can begin to form a shape of technologies used to manage online formations, some based on direction, and others based on attunement[dm].
+
+
+Framework: Alignment Technologies of Attunement
+  
+
+ 
+Alignment technologies can stimulate the creation, direction, and destruction of online formations.
+
+
+Other Section Notes:
+* Online, the stewards of our digital spaces enact a new portfolio of design strategies. These can stimulate virality, dampen it, or flat-out destroy online formations like swarms. The strategies today include moderation, algorithmic changes, banning, and content adjustments like community notes. All in all, these are alignment technologies that ensure actions on social media do not interfere in revenue generation, such as advertisements and content sponsorships.
+* It’s important to note that these technologies can be enacted from the outside of a formation, or within it. Online formations, such as communities, virtual organizations, and farms, assign moderators and install helpful bots. It’s common, for example, to go through proof-of-humanity gates like CAPTCHA tests.[47]
+* Social media organizations have worked tirelessly to intervene with malicious actors, often acting in a swarm-like fashion. However, the interventions have been only partially effective. If we look at the two primary levers, we can understand how current technologies influence them, and where there may be opportunities for better-influencing technologies.
+* First, swarms require a symbiotic relationship with external systems of engagement. Second, swarms depend on the alignment of actions towards a uniform plausible promise. The external system serves as a broadcast communication channel and the promise as a frame to interpret how to contribute. The combination of frame and broadcast allows any observer to attune to the swarm and contribute permissionlessly.
+* A variety of technologies and software design choices have been made to avoid 
+* In Jorge and Pablo’s case, the plausible promise was achieved,[48] and social media algorithms began prioritizing other content.[49]
+
+
+
+
+~^~~^~~^~
+In the Swarm
+
+
+Over five years later, Jorge and Pablo are still browsing Facebook. They’re also on Twitter, Instagram, and TikTok. Like many of us, they are broadcasting their actions into the networked world and taking part in dozens of ephemeral online formations: swarms, communities, and virtual organizations. 
+
+
+Beyond this, Jorge and Pablo represent a new generation of leaders. They are learning about managing within the swarm and creating inspiring promises to mobilize new networks. 
+
+
+Careful attention to our environment points the way to innovative capabilities and a new generation of managerial toolkits to take on the global challenges we are encountering in this new long century.
+
+
+Together, we are in the swarm.
+________________
+Appendix / Graveyard
+List of opportunities for further research:
+* Factions and their expression in different forms
+* List of implicit and explicit social protocols
+* Process of morphing between one formation archetype and another
+* Moderation, and other technologies, as a part of protocols… or are they a means to preserve existing protocols?
+* Examples of transition from IRL crowd into online formation, and vice-versa
+* Technologies used by online formations and how they differ from previous formal organizations (e.g. companies, institutions)
+
+
+Summer of Protocols: Graveyard Draft 2 July 11th 2023
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+[1] Hurricane María was the strongest hurricane striking Puerto Rico since 1899. Public infrastructure collapsed and caused an island-wide blackout for months. According to ABC News: “it took 328 days, or roughly 11 months, for the island to restore power to all of the customers who lost it during the hurricane, which marked the longest blackout in U.S. history.”
+[2] The initial count of deaths acknowledged by the Trump Administration was initially 65. In 2018, Governor Rosselló acknowledged the results of the George Washington University study which raised the estimation to 2,975 people. Another study, from Harvard University, estimates that more than 4,645 deaths occurred as a result of the Hurricane.
+[3] As of July 2023, the diaspora population accounted for ~9M Puertoricans. About 10% of the local population, or ~400k people, emigrated from 2010 to 2020.
+[4] The spreadsheet is still publicly available here: Puerto Rico Relief / Donation Drop-off Locations (Public)
+[5]  Government officials would be informed that almost all of the local emergency supplies (83%) had already been deployed to the U.S. Virgin Islands to address issues from Hurricane Irma from two weeks prior. Pending source.
+[6] The Centers of Mutual Support provide food and other resources to local residents in need. They are an evolution of a community center, focused on scale and political activism.
+[7] Informal social formations include crowds, masses, publics, and social movements[dn]. Formal social formations[do] include, but are not limited to, teams, tribes, clans, organizations, institutions, corporations. Formal social formations[dp] adhere to specific communication, identity, and coordination protocols.
+[8] Theorists and researchers include, but are not limited to: Gustave Le Bon, Elias Canetti, Marshal McLuhan, Blumer, Jürgen Habermas, Nancy Fraser, Michael Warner, Bernays, danah boyd, Charles Tilly, Sidney Tarrow, Alberto Melucci, Alain Touraine.
+[9] Management refers to Max Boisot’s definition: “managerial coordination requires that information-bearing data flows through communication channels between centres of authority and centres of task execution.” for more information you can read “Generating knowledge in a connected world: The case of the ATLAS experiment at CERN” Management Learning 42(4) 447–457, Sage Publications
+[10] Collective intelligence refers to the ability of a group or collective to solve problems, make decisions, and generate knowledge that surpasses the capabilities of individual members. Collective intelligence can be observed in various contexts, such as social insects like ants, where the collective behavior of the colony enables efficient decision-making and problem-solving. In the context of human society, collective intelligence can be seen in collaborative projects, open-source movements, and crowd wisdom.
+[11] Pending: academic definition of company
+[12] Pending: academic definition of crowd
+[13] David F. Ronfeldt outlines the evolution into networked societies in “Institutions, Markets, and Networks: A Framework about the Evolution of Societies” (RAND, DRU-590-FF, December 1993).
+[14] For more information, you can read danah boyd’s 2010 research paper "Social Network Sites as Networked Publics: Affordances, Dynamics, and Implications." In Networked Self: Identity, Community, and Culture on Social Network Sites (ed. Zizi Papacharissi), pp. 39-58.
+[15] Original poster is a term referring to the initial person or agent who created the content. It is often abbreviated to “OP” when referenced on social media platforms and other forums.
+[16] Under this framing, the definition of a crowd becomes the accumulation of interconnected actions with a common emotion. Notice how this definition is in contrast to a group of people with a common emotion. 
+[17] The actions attributed to a person may or may not actually be theirs. The accumulation of attributed actions over time, or the avatar, becomes an interactive, social representation of a user in a virtual world or online platform. Example actions include handles (profile names), pictures, posts, and digital inventory within software like video games or social media.
+[18] Pending:  https://backlinko.com/reddit-users#reddit-statistics
+[19] Pending: Fandom sizes
+[20] Pending: Benkler Y., Tilton C., Etling B., Roberts H., Clark J., Faris R., Kaiser J., Schmitt C. (2020). Mail-in voter fraud: Anatomy of a disinformation campaign. Berkman Center Research Publication.
+[21] Pending: CryptoMama Telegram Group
+[22] Other terms include, but are not limited to: squads, virtual organizations, online scenes, Twitter neighbourhoods, vibe tribes, raids, DAOs, PFP Communities, NFT Communities.
+[23] There is a rich corpus of non-academic research regarding online formations. Examples include The Association of Internet Researchers, donotresearch.net, newmodels.io, and otherinter.net.
+[24] Peter Limberg’s research was published in March 2023 and is publicly available on Substack at https://lessfoolish.substack.com/p/meme-to-vibe-a-philosophical-report 
+[25] Cultural assets include uniform digital identifiers and memes such as hashtags, group names, digital homes, “Big Name” influencers, and ultimate aims (i.e. telos).
+[26] Add link to OneDirection wiki and fandom debates
+[27] Gitcoin has allocated more than $50M in funding since inception.
+[28] In reality this was oligarchic since there are “whales” who hold large amount of tokens
+[29] Add description of quadratic governance
+[30] Probably need to add definition of quadratic voting
+[31] Gold farming emerged in the early 2000s in response to massive-online-role-playing-games (MMORPGs), like World of Warcraft.
+[32] Social influence farming include actions by people who are paid to like, share, or reply to social media comments. It is also done without payment by fandoms in the hopes to manipulate social algorithms and increase the visibility of the content of a target celebrity. Farms often include both human and bot actions.
+[33] Crypto airdrop farms include actions by people that aim to accumulate reputation points in the hopes of a future digital asset reward. For example, users may automate a high volume of transactions in new product to fake participation, trying to be rewarded with crypto-assets by the company.
+[34] Add note on child labor, international law, and terms & conditions of social media and video games.
+[35] Beyond a name, group identity also includes common beliefs, values, symbols, rituals, language, norms, etiquette, goals, and interests. In the case of online formations we will focus on name persistence and consistency across observer perspectives.
+[36] This behavioral spread pattern is known as complex contagion. For more information I would recommend the book by Damon Centola: “How Behavior Spreads: The Science Of Complex Contagions” Princeton University Press (2018).
+[37] “The storm resulted in the deaths of 44 City residents and inflicted an estimated $19 billion in damages and lost economic activity across the New York City. Most significantly, over 69,000 residential units were damaged, and thousands of New Yorkers were temporarily displaced.” via NYC GOV: https://www.nyc.gov/site/cdbgdr/about/About%20Hurricane%20Sandy.page (Accessed July 12th 2023)
+[38] Need to add social movement theory about contrasting to institutions
+[39] Need to add note on social movement organizational structures
+[40] Managerial structures include all communication control processes. These may be hierarchical chains of command or “flat” management systems based on consensus or democracy.
+[41] From John Robbs book “Brave new war: the next stage of terrorism and the end of globalization” published by John Wiley & Sons, Inc.
+[42] Add footnote about social movement framing alignment theory: Diagnostic, Prognostic, Motivational
+[43] Hello fellow traveler, please collect 12 doubloons.
+[44] The doubloon swarm follows all the characteristics of the previously defined archetype. The main coin of the game has shifting names (e.g. not even the spelling of “doubloon” is agreed upon) and the game itself has no agreed name. In addition, the coordination happened first on TikTok but rapidly expanded to include Facebook, Twitter, and Tumblr. Exposure to social media algorithms, which were pushing relevant memes for engagement, provided the backdrop for swarm coordination.
+[45] A more comprehensive definition might be “Tools, features, systems, and methods employed to influence the formation, growth, direction, and dissipation of social groups, often with the aim to optimize participant behavior, community norms, content creation and sharing, and platform safety, all while ensuring the alignment of these behaviors with the influencer’s broader goals, such as revenue generation or political change.”
+[46] Full report from the Cabinet Office “Planning the coordination of spontaneous volunteers in emergencies” via https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/828201/20190722-Planning-the-coordination-of-spontaneous-volunteers-in-emergencies_Final.pdf 
+[47] The term "CAPTCHA" stands for "Completely Automated Public Turing test to tell Computers and Humans Apart." The program is designed to protect websites and other digital spaces against malicious bots by generating and grading tests that humans can pass but current computer programs cannot.
+[48] Mostly achieved comment. It’s not necessary that a specific objective was reached but more so that the urgency for the promise dissipated
+[49] By December 2017, the news cycle had shifted focus to what?
+[a]Swarm grabs my attention. I love this word. It is not used enough. Online formation? Stick to swarm!
+[b]Question that came up for me as I read this: Are we in "the swarm" (as in there is one primary or overarching swarm), or are we, through our social media actions referenced in the previous sentence, in "a swarm"?
+[c]beautiful illustration
+[d]These facts beg for a dangling sentence of foreshadowing analysis to me.  The compounding consequences in the next sentence didn't just come from the locations and memes, they came from the people who were empowered to engage (by locations and memes!), because .... ? It made helping easy? Fun? Exciting? How did it spread out of the bounds of the diaspora? Not all questions to answer here, but if you can allude to the mechanisms it would be satisfying. 
+
+
+"Some made helping easy, some helped easily, the rapid response channeled empathy into action" ... 
+
+
+Something like that? It isn't coming together quite right for me.
+[e]Yeah good observation. Might need to talk through it in person! You are correct tho, I feel the gap
+[f]Shout out social capital formation and its benefits! 
+
+
+The transition from initial swarm to social ties that translate into real world outcomes in this example (reading sentences ahead) is super cool!
+[g]This also suggests that constraining the purpose of swarms is inherently more difficult than in more structured organizations.
+[h]Yes. I really should do like a full research program here. Because it's like we have so many hints but limited ethnographic study / evidence
+[i]Need to rework this so that it can summarize what we're about to talk about. Missing also hints at technologies here of alignment.
+[j]Formal organizations have deliberately articulated rules. At significant scale, they tend to have a constitution delineating decision making rules, special authorities, and those subject to the organization's authority.
+[k]I would also note Buchanan, Coase, and Williamson on this list.
+[l]Company has become the more familiar vernacular term, although the private organizational literature often uses the term "firm". 
+
+
+See, e.g., Coase's "The Nature of the Firm" (1937).
+[m]What do you think in terms of the term, maybe I should say "firm" throughout
+[n]Maybe I could say "Private and public firms deliver..."
+[o]Would Organizations fit? It includes private, public, associations, etc.
+[p]Issue with "organizations" is that it's too broad -- can be almost anything (incl. a team)
+[q]should this be "communication technologies"? re: the innovation is the communication technologies that enable networks to form, or is the innovation referenced the actual network?
+[r]What is a social protocol?
+[s]"Organizations become formalized by making organizational protocols explicit." Perhaps ?
+
+
+Or is 'social protocols' a better fit than organizational protocols?
+[t]mirror the next paragraph more closely "is an example of a formal social formation" might be more readable.
+[u]formal social formation is such a mouthful. I might need to change it to something like "casual" and "structured" need to think about the language
+[v]as a type of formal social formation? (see footnote comment!) (Type here implies that company is a subcategory, seem correct?)
+[w]Yes, that's right. You also have "states" "institutions" "cooperatives" etc.
+[x]These are some of the explicit social protocols that comprise a company? So things that have a brand, regulation, management, they might equal company or always equal company? 
+
+
+"explicit social protocols such as; a brand, adherence to regulations, coordinated by management"
+[y]In my chosen vernacular, formal social groups have been explicitly constituted. Informal social groups don't have clearly articulated secondary rules, or constitutions.
+[z]Composed of? built upon?  comprised of?
+
+
+Is this a logically necessary connection / definition? If so informal social groups don't 'have' implicit social protocols they 'are defined by' implicit social protocols perhaps. 
+
+
+Building towards the great 'world of vibes' end of this paragraph, I think the logical structure is 
+
+
+Informal social groups are defined by implicit social protocols, they are comprised of normas and behavioral contagation for coordination. 
+
+
+
+
+(I am being lead that this structure, by mirroring the prior paragraph, is going to relate the following concepts to eacother intentionally: Brand & emotion, regulation & mimicry, management & broadcast (or is ad hoc doing the work?)
+
+
+So this leads me to expect more on those pairings.
+[aa]It is also much more difficult for crowds to exert control over their "members" when such members are not present in the crowd itself and directly subject to the normative response of fellow crowd members. The bonds of contract and jurisdiction have a temporal span that swarms cannot typically match...
+[ab]Social movements don't necessarily have these things either, especially when they launch. I thought social movements (BLM, occupy wallstreet) started as swarms and ossified into social movements. If so adjusting this paragraph to imply the relation might be part of a life cycle somehow seems good.
+[ac]Interestingly, from This is an Uprising, they distinguish two kinds of social movements, one more structured and deliberate and one more in the spirit of a swarm, which they call "whirlwind moments". Agree with the comment above that many social movements start as swarms and then create structures to form a cohesive movement network, primarily organized around shared purpose, explicit principles or implicit norms, and channels for communication/information sharing. Sharing an excerpt here from something I've written previously: https://docs.google.com/document/d/14B9AY7PsI7gl5Ft3i1REV6fpR1ZnARFksADm_XL1vnI/edit?usp=sharing
+[ad]Asking and answering a question in the form doesn't feel in line with the high quality of the rest of your writing.
+[ae]Such a good observation.
+[af]Is a crowd a type of swarm? A swarm a type of crowd? Are they two different things?
+[ag]I think a crowd becomes a swarm when it's networked and mediated by an algorithmic medium. So they are two different things
+[ah]Neat that you include algorithmic medium, as with animals swarms they are believed to be governed by an "instinctual algorithm"
+[ai](EDIT - nevermind - I see you get into "networked" below)
+
+
+Also, is it worth mentioning social ties here? 
+
+
+Coordination was mediated by algorithms, but also likely a good portion was mediated by existing weak and strong ties (ex. Pablo reaching out to (a presumably weak tie) Jorge and pulling him into the spreadsheet.
+[aj]Can this question appear sooner? It helps situate all the background / exploratory information you give me in the first section. Even at the risk of a little repetition tossing some foreshadowing into that first paragraph including the word 'swarm' keeps people focused on the thing they're about to learn about. That seems to draw more interest in 'what are companies' that I might be otherwise tempted to skim past because I know a comparison is coming down the pipe.
+[ak]Use the word diaspora here if you're going to use it up top. Maybe hammer down that diaspora means people with Puerto Rican heritage in that intro. 
+
+
+I think the phrase 'In terms of participation' is weak here. The work being done is to explain that it expanded and grew. The word diffuse is associated with dilute (the amount remains the same, just spread it around).
+
+
+Perhaps "The surprising cooperation lead by the diaspora rapidly grew beyond those of Puerto Rican heritage, the call to action amplified itself across social media feeds in an acceleration of impact."
+
+
+Then ditch the 'as a result' in the next sentence if so.
+[al]If at all possible this could be a great link to other work in the SOP - a google sheet is much like a wallet / signature / standard / connector / email in it's support of larger protocols that do good things!
+[am]Maybe mention shifting identity and constrained by external sources here in some covert way. 
+
+
+Small teams without an overarching identity, like Jorge and Pablo's, were acting independently yet in broad alignment; decoupled an attuned. 
+
+
+Also the previous paragraph has 'no collective name/ brand' and that is close conceptually to shifting identity, so calling it out in the same language here might be nice.
+[an]1 total reaction
+Chance McAllister reacted with 👍 at 2023-07-24 13:12 PM
+[ao]The output of these two (and their teams) depicted a swarm, but I'm wondering if their highly personal and centralized decision-making is itself also categorizable as a swarm.
+[ap]So I think they were "in the swarm" and I think, with more research haha, we will find out that participants in a swarm have a really high degree of agency and centralization in execution
+[aq]1 total reaction
+Steve Powers reacted with 😍 at 2023-07-18 11:41 AM
+[ar]Admittedly, my attention waned from this paragraph through the end of the section on Formations. I kept wanting to hear a definition of a swarm... rather than discussion on definitions of other terms as you have here and in the following paragraphs
+[as]In continuing to read, honestly feel that you could just cut straight to the next section from here, by simply (and straightforwardly) defining the term "online formations" at the beginning of the following section
+[at]Fair fair - I think I'm trying to "reference the academics" too hard haha. I think the proposal would be stronger if I just define the thing first and provide the reference as contrast instead of anchore
+[au]yes I agree!
+[av]Are the ex-ante-human-defined moderation activities of autobots sufficient to categorize a bot as "proactive"?
+[aw]I think so, they contribute content based on simple scripts but are responsive. There's conversational chat where you don't even know it's a bot today
+[ax]I wonder if there's a specific product name / ontology I can specify without calling out any company in particular
+[ay]maybe say "boyd's use of 'public'"... found myself searching back to where "public" was referenced, as it was more than a paragraph earlier
+[az]Even if authorship is preserved, how many people independently consider the identity of the reviewer once the review has auto-populated - if anything, they care about the number of other reviews as opposed to the actual identity...
+[ba]Remix culture might itself merit analysis under the analytical framework you're developing here...
+[bb]Why not content-centric? Is action-centric necessarily consonant with content-centric?
+[bc]So I'm struggling with this actually. Because technically, people take actions which may not be "content" So think about automated smart contracts that "do a thing in the future"
+
+
+So, I think technically it should be action-centric to account for content and whatever else exists. Buttttt action-centric is not as "this makes sense as a reader" as content-centric
+[bd]feels like this paragraph should go after the following paragraph, after you've already introduced the term "an online formation"
+[be]I don't have a better nomenclature per se, but online as a modifier seems to reduce the very real world impacts that a "digital swarm" can actually induce, as your motivating premise directly betokens...
+[bf]agree with the above -- online is merely where much of the communication happens, but I see these formations as spanning both online and IRL connection, communication, and action. or maybe you are trying to distinguish "online formation" as something that only forms online? In which case would be helpful to clarify this, e.g., 'online formations are those where the catalyst for organizing originates online'
+[bg]It might be interesting to in contrast consider broadcasted actions that are by definition not reducible to a single agent, even if the agents involved in the broadcast are identifiable.
+[bh]Do we know how fast they are abandoned? what's the median lifecycle length
+[bi]Is this information susceptible to a flow chart? Online formations seems to be the largest umbrella?
+[bj]Yeah! I could do like a word cloud visual. All the "Very online" jargon circling around "Online Formations"
+[bk]This seems like an essential point, it feels like it should get more treatment as a defining feature.
+[bl]I'd enjoy a paragraph here leading into the next 6 paragraphs. Perhaps a sub heading. Give me the core concepts I should be paying attention to before giving me the things that support those concepts.
+
+
+Here are some points I think could be in it:
+
+
+The combination of task agency and lack of identity hints at a distinct archetype, unlike the previous ones we’ve discussed.
+
+
+But the experience of Jorge and Pablo doesn’t align with either of these archetypes: tribes, communities, virtual organizations, or farms
+
+
+Identity and collaboration structure
+[bm]Yes - I'm glad to read this. I was re-reading this in the morning and realizing that this section needs to "tell the reader what they're about to read" more clearly
+[bn]Is it no longer a swarm if you have clear participation boundaries dictated by an organization controller?
+[bo]Yeap - under this taxonomy at least
+[bp]One of the most notable features of blockchain-enabled online organizations is the ability to create actions that require the input of more than one agent (multi-sigs). Given your framing, this innovation might merit further interrogation...
+[bq]So this comment here is the reason that the above pages exist? I feel like it should be the lead into talking about the above pages.
+
+
+Tell me what you are going to tell me. 
+Tell me.
+Tell me what you told me.
+[br]I just replied to an earlier comment that gave me the same exact feedback. Great stuff, will restructure a bit here
+[bs]See my later comment about this
+[bt]Did the participants in the Hurricane Maria swarm share an offline collective identity before the creation of the swarm? Like Puerto Rican diaspora? I wonder if the already existing shared perspective is relevant. (Apologies if you address this elsewhere.)
+[bu]So the online formation is a more general category within which swarms reside alongside other sub-category types?
+
+
+If so, this ontological move should be previewed earlier.
+[bv]Ok cool - I think you're right. It's like I need to say "welcome to the swarm" but then go up a level to social formations and say something like "but what exactly is a swarm" then, again go to online formations and say "oh and here is why its a specific thing"
+[bw]now reaching the definition for swarm 11 pages in after much curiosity and waiting, and it is derived from what it is not rather than what it is. 2 question: can you define a swarm based on what it is, rather than what it is not? And, can you get to this definition much earlier in the paper? at least as a foreshadowing for what will come next? e.g., the classic advice, "tell them what you're gonna tell them, then tell them, then tell them what you told them" -- as a reader I would have benefitted from more foreshadowing at the outset for what a swarm is and what I was going to encounter through the paper (tell them what you're gonna tell them)
+[bx]It feels like the piece is actually much more taxonomical, beyond just swarms. I think you can keep what you have without cutting anything by simply making the highest-level title and the introductory gambit *not* about swarms. The piece could be about "how protocols structure online formations (or don't)" and you can use swarms as a case study..?
+[by]are swarms only online? in other words, are swarms really a type of online formation?
+[bz]Maybe it isn't just 'ability to apply a name' but the diversity of legitimate names used, especially named used internally to the formation.
+[ca]I love this paragraph
+[cb]You tend to see a fundamental governance document (or set of documents) in order to stably obtain these outputs. Hence, formally constituting as precedent to formally organizing...
+[cc]Yeah, kinda like a start-up starts with a memorandum / GTM plan
+[cd]A-ha! It's not just exit costs for swarms - it's also ENTRY costs!
+[ce]Heh. I recall the churl who spouted this verbiage...
+[cf]https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4039320
+[cg]https://law.mit.edu/pub/governanceasconflict/release/1
+[ch]Quite enjoyed this section, would've loved to see it earlier in the piece, as whereas the previous sections were much more theoretical, this section was much more practical
+[ci]Puerto Rico isn't exactly known for high levels of government capacity. It might be useful to think through what it would have taken for a large aid organization to run this process as the counterfactual by which to assess the power of the swarm that did assemble...
+[cj]Yeah I think swarms emerge in complex environments where needs are not met / opportunity. There's like a societal arbitrage.
+[ck]Factions can carry a negative normative connotation. I lack a better word to hand, but wanted to note...
+[cl]Complementarity with an agency of the federal government is quite interesting. Are swarms more likely to be complementary to or competitive to formally constituted organizations?
+[cm]Institutions don't have a commonly accepted definition, including within the discipline itself!
+[cn]Maybe I should let the academics fight over this sentence tho :D
+[co]Do swarms thus either decohere or metamorphosize into an organization?
+[cp]Core analytical moves like this would ideally be previewed earlier to the reader.
+[cq]Ohhhh good idea, like get some foreshadowing. Maybe an exercise I could do is write out these main thesis and then cross-check they're previewed in the intro / flow
+[cr]At this level of ubiquity in human social orders, there are very rarely strict gains, but instead tradeoffs associated with a given form of organization. They offer greater maneuverability and the specific expressions of power that come with that, but clearly at some kind of cost on other margins...
+[cs]Yeah, I think the right framing might not be "increased maneuverability" but like "a different type"
+[ct]When have guerrilla movements been especially successful (Che & Castro in Cuba?)? Do we even have a clear lens on attempted and failed guerrilla movements?
+[cu]I'm relying on John Robb's expertise here, kinda building on his conclusions. So maybe let me quote him directly instead of adding a statement without my own evidence
+[cv]Are swarms therefore viral?
+[cw]BUT this makes them far harder to engineer or constructively influence once spurred into existence?
+[cx]They weren't always imaginary...
+[cy]Should I mention the ephermerality?
+
+
+Eric A. Look at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4039320
+[cz]Look at "why private firms aren't democratic but some public ones are"
+[da]this is a key sentence
+[db]https://media.giphy.com/media/DtuVm6vCmerf2/giphy.gif
+[dc]This is the corollary of one of the central premises of https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4039320
+[dd]Or simply an assault on the efficiencies of centralized decision-making for many (if not most!) organizations?
+[de]Which of these weaken the individual agency that is fundamentally a motive force for the formation of a given digital swarm?
+[df]Damn good question.
+[dg]You know, I wonder if I could rewrite the meme and close the essay with "General Swarm Enablement" and have a list of tactics, then deep-fry the meme so it looks rugged and surreal like the one at the beginning of this section
+[dh]Does your average reader think they have been particularly effective in doing so thus far?
+[di]Lol, maybe I should be a bit cheeky here. I could say "dubiously effective technologies" haha
+[dj]opportunity for cheeky opinion here
+[dk]Work in progress. This is still v0 of trying to categorise alignment technologies. However, it doesn't follow clearly from the online formation discussion.
+[dl]The thing is: "the feed" is an alignment technology, like rumors and gossip. So the "ahá" moment needs to be that we can overlay alignment technologies into our current managerial tech.
+[dm]Is the former more tractable to constructivist intent?
+[dn]not sure I'd place social movements here... I'd argue that most successful social movements are quite deliberately (formally) organized at their core. See "How Change Happens" by Crutchfield or "This is an Uprising"
+[do]could include impact networks here
+[dp]This is the root of some confusion for me. (15 minutes) Formal social formations is understandable conceptually but difficult to read. I'm left understanding the formalization process is making an implicit thing explicit, and the formation to be an 'organization type' that can be formal or informal, but the shortened use of the word form leaves me working to figure out the context. A solution that comes to mind is to use 'social formations' and steer away from 'social form'

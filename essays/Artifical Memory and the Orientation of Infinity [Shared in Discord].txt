@@ -1,0 +1,309 @@
+﻿Artificial Memory and the Orientation of Infinity
+
+
+Hundreds of years before the term artificial intelligence, debates about the development of “artificial memory” erupted. Distinguished from natural memory, artificial memory involves using aids designed to retain greater amounts of knowledge. Artificial memory meant both the development of internal memory aids, enriching personal memory through memorization techniques, and external memory aids like encyclopedias, enriching societal memory through the organization of knowledge and proliferation of media. However in these debates, not all saw the development of artificial memory as a positive thing. In 1600, the Renaissance physician Cornelius Agrippa cautioned against it:
+
+
+“Artificial memory would not be able to last for the briefest second without natural memory… [Artificial memory], by overburdening the natural memory with innumerable images of words and things, can lead those who are not content with the limits imposed upon them by nature to the point of madness.”[1]
+
+
+Worrying about madness from the experience of “innumerable images of words and things” might evoke a sardonic laugh from anyone alive today, but this disjunction between past and present perceptions of memory may be precisely why we should return in the twenty-first century to debates on the topic. A seemingly simple term used casually in daily conversation, memory reveals itself upon closer scrutiny as a surprisingly complex concept, especially when viewed simultaneously through historical, psychological, and neurological lenses. Yet both modern neuroscience and ancient literature do not consider memories static objects, but evolving and imperfect experiences that change through their mere recollection. Could we say the same of a public memorial statue? Where does a personal memory end and a public memory begin, and what is the role of new technology in all of this?
+
+
+Ultimately, how we relate to memory over time produces an interesting history of humankind, and one that could shed light on changes coming from new technologies. Philosopher Bernard Stiegler considers humans homo technics, that is, the distinguishing feature of humankind as a species lies in the creation of technology, ranging from simple to complex tools. Such an innate drive to create technology, for Stiegler, deeply relates to memory. In his books on Technics and Time, Stiegler conceptualizes three types of memory, which could be described as genetic memory, epigenetic memory, and technical memory. Technical memory plays the role of a bridge between the two other types of memory, genetics and epigenetics, or more simply put, technical memory makes more than just the genetic memory of a human available to the next generation of humans. He gives an example using the archetypal object of the anthropologist, the flint arrowhead:
+
+
+When a prehistoric man cuts flint […] obviously he doesn’t cut flint to preserve his memory. But the act of cutting the flint preserves in the stone the gesture of cutting, permitting the inscription of his gestures on the flint, and in fact, constitutes a new memory support.[2]
+
+
+The construction of every tool also constructs a “memory support”, not only for those using it but for the generations to follow. In this sense, changes in the production of technology could be seen inherently as changes in the production of memory. Our technical archives shape the paths our descendants walk. Our language tools carve the way they think, the tools they will create. When all tools on some level convey artificial memory, Agrippa’s caution in the seventeenth century against pursuing artificial memory seems futile. However, examining what we traditionally consider memorization techniques can reveal more implicit models of how technology operates. Perhaps even desire for changes in how we relate to memory could be seen as an animating force behind the production of technology itself. 
+
+
+Shy of such monumental claims yet, undoubtedly a resemblance exists between models of memory and models of technology. For example, computational models of the brain provide both empirical and metaphorical grounding for what “memory” means today. [Examples and metaphors here.] Looking at how different societies relate to memory throughout history shines light on a side door through which a different mode of analysis of technology can be entered.
+
+
+  
+
+[More on this diagram]
+“Places are like matter and images are like form”: The protocolization of memory[3]
+
+
+
+
+A traditional Western history of memory usually begins with a Hellenic lyric poet sometime around 500 B.C. As the story goes, Simonides recounted an epic poem at a dinner party and stepped outside, shortly after which the banquet hall collapsed. The guests, deceased and disfigured, could only be identified by Simonides’ memory. In his imagination, he walked through where each guest sat at the dinner table, one by one. This memorization technique would go on to be known as the method of loci: placing facts at specific locations one remembers. Such was the popularity of the method of loci that it became one of the five pillars in the rhetorical arts established by master orator Cicero in XX AD. Memory, alongside pillars such as X and X, could be practiced through a clear procedure. First, one should choose a “formal structure”, such as a church, school, or other familiar place, and then, within the formal structure, establish a number of “memory-places”.[p. 19] In each of these places, a memory “image” could be stored. For example, if one wanted to learn the list of the planets, one could recall their childhood church and use each alcove in the church as a memory “place” to store a memory “image” of a planet, including its name and related facts. Each time one wanted to recall the list of the planets, one could imaginally stroll through the church, facts coming to mind about a specific planet while passing each alcove. 
+
+
+[Diagram explaining formal structure, memory place, and memory image relationship]
+
+
+This surprisingly effective memorization technique would have hundreds of pages devoted to improving it throughout antiquity. Several canonized Western philosophers, from Aristotle to Aquinas, would articulate some variation of the practice. Advice varied but often suggested choosing a “medium-sized” formal structure without too many people passing through it, such as, for example, not using a public square.[18] Interestingly, it did not matter whether this formal structure actually existed, only that the practitioner could recall it vividly in imagination. The overall imaginative quality played a key role in this memorization technique, as a popular pamphlet wrote: “That which is extraordinary impresses the memory better than the ordinary. For this reason [...] the first philosophers composed poetry, because fables, which are composed of marvelous things, leave a greater impression on the memory.”[p. 10-11] The emphasis on using “extraordinary” and “marvelous” memory places and images would continue throughout the memorization technique’s popularity from 500 BC to 1500 AD among Hellenic societies. It is more than coincidental that the story passed down describing the memorization technique itself had macabre and extraordinary tones in Simonides’ extremely fortuitous survival leading to elucidation of the method. Would the story and technique have survived with a less somber tale? Thus it was recommended not only the memory places that should have highly emotionally charged content, but that the connections between the memory places themselves also be embedded within a compelling story.
+
+
+Scholar Johannes Ravenna would carry Cicero’s torch that established the method of loci, and memory more broadly, as a pillar of rhetoric. Its light would burn steadily for the next 1400 years, as a practice passed down, changed, and revived over time, being taught in most formal academies as they multiplied. The method of loci’s durability lies in how it provided a developing system encompassing a universal procedure for the recollection of a particular experience. Its formulaic nature, following the simple steps of choosing a formal structure, memory places, and memory images that can be embellished over time, allowed its gradual adaptation and continued use. But also, its formulaic nature gave way to an incredible personal relation to the facts such a method sought to remember, “marvelous” and “extraordinary” for each practitioner in highly individualized ways. With this combination of the universal procedural and the affectively personal, the method of loci marks what could be the first successful protocolization of memory in the context of the Western philosophical tradition, evinced by its ability to withstand the inevitable evolutionary pressure of a rapidly changing culture while retaining the basic structure of the memorization technique.
+
+
+  
+
+
+
+In the classic Rhetorica ad Herennium, Cicero distinguished between natural memory and artificial memory as the latter being that which uses “places and images” . Thus the realm of artificial memory, as the term was constructed, primarily referred to the specific practices and techniques, sometimes referred to as “mnemotechnics”, which followed a universal procedure with a highly individualized and affective outcome. In this sense, we could understand artificial memory to refer to memory as protocol, a regime that produces serendipity rather than certainty, by employing formal aids to achieve informal, personal recollection. This protocolization would go on to deeply influence the traditional Western canon’s thinking on memory for the next millennia, convincing scholars that highly formulaic techniques, reproducible across media, could elicit highly personalized results that still articulated an image of the world.
+A diagrammatic theory of mind
+Another influential practice in this history of memory would come in the twelfth century from Raymond Lull. Lull was on a mission to convert others to Christianity. In his vision and intolerance, he developed his main work Ars Combinatoria, the combinatory arts, which he would sometimes refer to simply as Ars, the Art. He took an approach to try to unify several strands of disciplines toward explaining God. Sometimes framed as question and answers (Does good? A: )[x], sometimes framed as lists, Lull sought to develop a method beyond simply textual, narrative descriptions of his vision of faith. Such a list might include: X, Y, Z. Such categorical endeavors eventually led Lull to create “memory wheels”, an artifact that would become synonymous with Ars combinatoria. These memory wheels tried to explicate moral frameworks within diagrammatic form, creating spatial relationships between related values. For example, from the X:
+[X image of wheel from video]
+Each time the inner wheel turned, a new relational concept emerged. Such as [x[. While Lull’s work did not enjoy immense popularity in his lifetime, it would go onto influence other thinkers for the next several centuries, with his work sometimes even receiving credit for early theories of computation.x][ However, Lull’s zealotry is of less interest than what his successors did, in particular one successor named Giordano Bruno. A defrocked monk, Giordano Bruno gives the impression that he consistently considered himself the smartest person in the room. Sometimes he might even have been, at least until his death from being burned at the stake in YEAR after a five year trial in Florence for challenging the church. Bruno’s heretical ideas included considering the universe infinite and the earth not at the center of it. Throughout his life, he wrote a series of arcane texts on whatever subjects he liked, often presenting them to capricious heads of state. One such book, the joyfully enigmatically titled De umbrias ideareum, or On the Shadows of Ideas, dealt in memory. Its opening sentence promised to reveal secrets to the reader. Dedicated to King Henri III of France, such opportunities would grant Bruno the opportunity to develop this work in the following years including several books on memory seals, statues, and images respectively from the years 1583 to 1591. In his eclectic memory work, Bruno sought to combine traditions. He explored thThe compulsive desire for a universal languagee work of St. Thomas Aquinas, whom Bruno admired as an ex-Dominican monk himself, through Lullian wheels. Aquinas worked firmly within the Aristotelian and rhetorical approach to memory practices, which espoused a certain instrumental utilitarianism in their application, even if they quested for greater knowledge of God. Lull also had theological aims, and his work perhaps only came to sit staunchly within the tradition of memorization techniques retrospectively, largely through the later work of Bruno. Bruno is as Bruno does, however, and in combining the work of Aquinas and Lull, he transformed them both.
+
+
+  
+`
+
+
+Narrated by the scholar Frances Yates in the absolutely seminal The Art of Memory published in 1966, Bruno’s work demonstrates the practice of not only techniques for changing memory but techniques for changing consciousness. It could be said Bruno recognized memory as one of the dominant constituents of consciousness itself, echoing earlier thinkers like the eleventh century physician and philosopher Avicenna who encouraged the therapeutic potential of examining memory.[X] In On the Shadows of Ideas, Bruno adapts the Lullian wheel to include thirty segments with letters on its outermost circle, sometimes with several concentric circles inside, all also with thirty segments. His book also contains several lists of memory images, each with 150 images given in five sets of thirty. In perhaps her greatest discovery or most unscholarly failing, though I tend to side with the former, Yates takes the liberty to place these memory images on a Brunian wheel, with the incredibly detailed result:
+
+
+[X]
+
+
+Why Yates pursues this bold move lies in its perfect exposition of Bruno’s theology. Taking the phrase “As above, so below”, Bruno continually explored the connection of humankind and the cosmos, the potential reflection of both in each. Through creating this diagram, Yates places human images on the outermost circle with astronomical images on the innermost circle, and as one turns the wheels, one reflects on, in fact recalls, new combinatorial possibilities of the cosmological divinity of humankind. This example of reflecting on the divine exists in Bruno’s later memory works, which less overtly reference Lullian wheels but, of course, take them further. In Bruno’s book Thirty Seals, he also lists memory places and images, beginning with the “Field” and the “Heaven”, both of which contain advice for memorization techniques, and moves onto the “Tree” and the “Wood”, tropes representing all knowledge in the work of Lull. Diagrams accompany each of these thirty seals listed in the book.
+
+
+[X][X]
+
+
+With each of these diagrams, one memorizes the concepts associated with each, as in the Field, where one recalls how it’s best to use memory images with a “striking and unusual” character. But it’s important to note that more than memorizing concepts, one also deeply internalizes the diagrams themselves and a larger relation of the concepts to one another. As Bruno’s work suggests:
+
+
+        Black diamond doors of psyche quote
+
+
+Just as in David Lynch’s Dune when Paul Atreides realizes during a fantastical montage scene that worms are, in fact, spice, in Bruno’s approach to memorization techniques, diagrams are the concepts. What ever could this mean? As Frances Yates writes, “These pages of [Bruno’s] are a kind of manifesto of the primacy of the imagination in the cognitive process which he refuses to see as divided among many faculties but as all one.”[251] It means, in one sense, that contemplating a concept cannot be superficially divided from the formal qualities that convey that concept, such as in this case, diagrams. What seems as needless and anachronistic esotericism in Bruno’s work actually echoes premier media scholar (and it’s worth noting, theologian) Marshall McLuhan’s popularization of “The medium is the message”. Put in even more popular terms, ripping off classic dietary advice, you are what you think. For Bruno, artificial memory does not mean solely following a universal procedure to recall particular experience, but instead, following a universal procedure to recall particular experience that is in itself a procedure to change consciousness. The diagrams do not simply point to the cosmological divinity of humankind, but they help to produce it through their contemplation. Insistence on this point could actually be considered radical amidst the intellectual environment of the preceding millenia, in which many scholars occupied themselves reproducing manuscripts about Aristotle’s five senses or their increasingly encroaching compulsion to exhaustibly catalog the inexhaustible nature of life in the universe through tables and taxonomies, a tendency which would gain its full momentum by the next century. For Bruno, artificial memory is not necessarily about cataloging concepts, but becoming them. This intuition about memory becomes more clearly captured by the arts, as Prousts writes:
+We find a little of everything in our memory; it is a sort of pharmacy, a sort of chemical laboratory, in which our groping hand may come to rest, now on a sedative drug, now on a dangerous poison.[X]
+The memory resembles a pharmacy, like Philip K. Dick’s Dial-a-Mood machines in which you enter a number into a jukebox-like contraption and an emotion comes out. However, amidst everyday memory we usually have far less agency. As Proust writes “our groping hand may come to rest” on different memories, accidentally stumbling upon them and their narcosis. While on one hand, Bruno’s approach to memorization techniques closely resembles wishful thinking on the road to madness, as though belief produces truth, on the other hand, Bruno’s approach resembles a form of acknowledgement, a form of agency, that memory, while often involuntary, when cultivated can produce different consciousness. Modern therapeutic regimes fall within this approach, seeking to reorient relationships to emotional memories, and even in some cases like EMDR therapy, to overwrite emotional memories.[x] And of course, here surfaces the metaphor of computational models of the brain, that memories could be overwritten like zeroes and ones. In the glow of the LED screens so prevalent today, the traditions of artificial memory as diagram, consciousness, and pharmacy contain a key insight relevant for us now. One that waited in relative obscurity during the five centuries that followed Bruno as the more official Western canon of artificial memory took its course.
+
+
+Keys, patterns, and the encyclopedic impulse 
+Clavis et normae, keys and patterns, created the foundations for the praxis logica formulated by a relatively unknown artificial memory scholar Johann Heinrich Bisterfield.[Logic 143] These keys and patterns consisted of definitions of concepts. Not just any concepts, these were primary concepts, transcendental, perhaps at the root of all concepts themselves. In order to know these concepts, one needed a dictionary of them. In order to parse this dictionary, one needed an encyclopedia through which such dictionaries could be organized. Artificial memory would be transformed by this compulsive desire to organize knowledge, and its compulsions, often helpful, pervasive, and extremely normative, guide us today in the form of the encyclopedia. However, it’s worth tracing how artificial memory, protocols consisting of universal procedures for recollection of particular experience, became a public practice. That same Johann Heinrich Bisterfield wrote about the aim of his encyclopedic project to create the “pictorial amphitheater of the world”.[Ibid/143] This metaphor of memorization techniques as theaters has a longer history.
+
+
+As the method of loci instructed, memory could be achieved through choosing a formal structure, memory places within that structure, and memory images within those memory places, and then walking through them imaginally for recollection. These formal structures sometimes took the form of a church, sometimes the form of a childhood home. Their popularization as the form of a theater would begin in Renaissance Italy. Though never completed, ultimately remaining more of a legend than a realized location, the memory theater of Giulio Camillo in the early sixteenth century would capture a certain zeitgeist. Said to contain “many images”, “full of little boxes”[136 AoM], the memory theater initiated by Camillo with ascending rows corresponding to the seven visible planets would “locate and administer all human concepts, everything which exists in the whole world”, such as facts about natural sciences and the aspirations of art.[X MoM] Through memory theaters, inspired by Camillo and others, Renaissance era philosophers constructed what could be considered virtual architecture, explicitly combining the notion of public space, a cosmological orientation, and a knowledge system. While the suggestion that memory theaters may administer knowledge of “the whole world” smells of hubris, not unlike the scenario modeling of RAND Corporation today, still their claim that such virtual architecture gives us an image of a world can be recognized as a moment in which the Western canon of artificial memory took a collective turn: the particular recollection becomes a public space with purportedly universal knowledge for others to traverse, internalize, and recollect.
+
+
+Camillo’s memory theater predated Bruno, and it would find influence within Bruno’s approach. Where the Western canon of artificial memory follows this collective turn, however, could be traced to the encyclopedic impulse, under the influence of scholar Petrus Ramus and evident in the work of people like Bisterfield. In the X century, Ramus would become known as his work as an early logician, suggesting the bifurcation of rhetoric into two distinct fields: rhetoric and dialectic. More familar today, dialectic approached knowledge [x]. Like each approach to artificial memory, dialectic cultivated mediums key to its expression, such as the table:
+
+
+[Image] 
+
+
+As a medium, the table clearly delineates hierachical, categorical relationships between concepts. No longer the revolving memory wheels of Bruno’s art, tables expressed an empiricism present through their static quality: the relationship between concepts became fixed in time, only ameliorated by thesis, antithesis, and synthesis in forward progression. The dialectic approach enlivened what could become the great encyclopedic impulse of the eighteeneth century. Remembered through figures like [full name] Alstead and exponentiated through typesetting, suddenly the quest to unite the knowledge of the world on the printed page replaced a generational search for the Holy Grail. 
+
+
+* Alstead encyclopedias
+
+
+While some historians such as Pierre Gasendi insist Ramus placed artifical memory neither within rhetoric or dialectic but apart within psychology[102], in Logic and the Art of Memory Paolo Rossi suggests how situating artifical memory within the the practice of logic might be the most lasting influence of Ramus. As Rossi writes, for Ramus memory took on a “ordering function”, defined as a method of “systematic and ordered disposition of notions”, which in Rossi’s opinion “abosorbs many of the ‘rules’ of mnemotechnics”.[101] This perhaps even over- “idenfitication of memory and method” placed artifical memory squarely within the practice of logic as Ramus defined it, using memory sometimes interchangeably with the terms judgement and disposition, both core to the practice of logic.[100-101] Such positioning, Rossi argues, would make artifical memory a fundamental element in the forge of thought leaders to come.
+
+
+The compulsive desire for a universal language
+Rene Descartes, that lingering thought leader of the X century, could not escape having an opinion on artifical memory. Openly critical, Decartes in Discourse on Method described an older man versed in artificial memory who “spoke without judgment” to “explain to others what they already knew”, having memorized topics more than he had learned them.[104 LoM] Francis Bacon and others mirorred such dissapointment in their public texts, but not without picking up the discplinary shift cued by Ramus, that beyond its supposedly superficial practice within rhetoric, wheels, or palaces, artificial memory could be redeemed and in a way lay at the core of a practice of logic. Instead, the logicians preferred, for instance, stakes and ladders. As Decrates muses, the “true art of memory” consists of “reduction of things to their causes”, as “one should not just consider the nearest [memory] image when copposing a new image, but also the others in the series, so that the fifth is connected to the first by [...] a stake [...], the image in the middle by [...] a ladder” [113]. Rehabiliating artificial memory, Descartes preferred more complex signications between memory images, rather than the linear stroll though the memory palace. However, such complex relationships do clearly exist in Lullian wheels and the Brunoian art. For Descartes, the important difference seems to lie in what the memory images must represent, which he stresses as primary “causes” with deductive logic between them rather than mere snippets of trivia for superificial oratory. With this intention in mind, both Descartes and Bacon rehabilitate the idea of “memory aids”, Bacon wrote…
+
+
+* Bacon and Descartes “memory aids”
+* Leibniz’s universal language
+
+
+* Bacon and Descartes “memory aids”
+* Leibniz’s universal language
+Memory as orientation
+* Computer memory and random access memory history
+* Chaotic storage and memory through automation and “just-in-time” logistics
+   * Procedural logic that produces results not predictable to humans
+* Warburg and Mnemosyne Atlas, how Warburg’s abstract, associative connections prefigured the modern shift to memory as orientation
+   * Pathosformel
+   * Diagramaka
+* Bruno’s great return!
+* Lukasa board
+* Songlines
+
+
+  
+
+* These are all evident of a more understandable nature of memory, despite being led astray in the 17th century, of memory as orientation: an affective sense-making tool that takes the place of deductive logic in the face of contemporary technology
+The interruption of infinity
+* Memory is not the infinite replication of digitized data but incisions in space, relations between mediums
+   * Interruption of infinity vs infinite data-fication
+* Traditionally memory perceived as recording, whereas knowledge is perceived as synthesis and comprehension, with new tech these functions are reversed because strict recording no longer required or even feasible to expect of memory – it becomes a process of orientation in infinity of “innumerable images and words” of our media and experience 
+* AI resembles memory more than traditional memory aids because of its ability to make connections and produce relative novelty from them
+* From here we can understand digitization, database-ifcation, and on-chain maximilaism to be in response to a misunderstanding of memory
+* Memory as protocol, not object familiar refrain
+
+
+When Tobias a￼sked the angel if he knew
+The way to the city of Media, he responded
+By saying he often walked there, through its streets,
+Among the plenitude of things. The angel
+Was not in a place as we are, but the place
+was in him - intuitus, whole - as he was not
+passing through time - beginning to end -
+but held all of it everywhere-happening
+And though he sat to eat with men
+And took food into the mirror of his body
+he had no need for memory.
+“The Art of Memory”, Jemma Borg
+
+
+Footnotes
+
+
+[1] Agrippa, De vanitae scientiarum, cap. X (‘De arte memortativa’), Opera (Lyons, 1600), II, p. 32. Also page 67 in logic and art of memory[2] Bernard Stiegler, The Ister, 2004
+[3]: Logic and the Art of Memory, page 10
+________________
+
+
+
+
+OLD DRAFT 
+
+
+—-
+Artificial Memory and the Interruption of Infinity[a]
+
+
+Hundreds of years before the term artificial intelligence, debates about the development of “artificial memory” erupted. Distinguished from natural memory, artificial memory involves using aids designed to retain greater amounts of knowledge. Artificial memory meant both the development of internal memory aids, enriching personal memory through memorization techniques, and external memory aids like encyclopedias, enriching societal memory through the organization of knowledge and proliferation of media. However in these debates, not all saw the development of artificial memory as a positive thing. In 1600, the Renaissance physician Cornelius Agrippa cautioned against it:
+
+
+“Artificial memory would not be able to last for the briefest second without natural memory… [Artificial memory], by overburdening the natural memory with innumerable images of words and things, can lead those who are not content with the limits imposed upon them by nature to the point of madness.”[1]
+
+
+Worrying about madness from the experience of “innumerable images of words and things” might evoke a sardonic laugh from anyone alive today, but this disjunction between past and present perceptions of memory may be precisely why we should return in the twenty-first century to debates on the topic. A seemingly simple term used casually in daily conversation, memory reveals itself upon closer scrutiny as a surprisingly complex concept, especially when viewed simultaneously through historical, psychological, and neurological lenses. Yet both modern neuroscience and ancient literature do not consider memories static objects, but evolving and imperfect experiences that change through their mere recollection. Could we say the same of a public memorial statue? Where does a personal memory end and a public memory begin, and what is the role of new technology in all of this?
+
+
+Ultimately, how we relate to memory over time produces an interesting history of humankind, and one that could shed light on changes coming from new technologies. Philosopher Bernard Stiegler considers humans homo technics, that is, the distinguishing feature of humankind as a species lies in the creation of technology, ranging from simple to complex tools. Such an innate drive to create technology, for Stiegler, deeply relates to memory. In his books on Technics and Time, Stiegler conceptualizes three types of memory, which could be described as genetic memory, epigenetic memory, and technical memory. Technical memory plays the role of a bridge between the two other types of memory, genetics and epigenetics, or more simply put, technical memory makes more than just the genetic memory of a human available to the next generation of humans. He gives an example using the archetypal object of the anthropologist, the flint arrowhead:
+
+
+When a prehistoric man cuts flint […] obviously he doesn’t cut flint to preserve his memory. But the act of cutting the flint preserves[b] in the stone the gesture of cutting, permitting the inscription of his gestures on the flint, and in fact, constitutes a new memory support.[2]
+
+
+The construction of every tool also constructs a “memory support”. In this sense, changes in the production of technology could be seen inherently as changes in the production of memory.[c] Our technical archives shape the paths our descendants walk. Our language tools carve the way they think, the tools they will create. When all tools on some level convey artificial memory, Agrippa’s caution in the seventeenth century against pursuing artificial memory seems futile. However, by looking at what we traditionally consider memory techniques can reveal more implicit models of how technology operates. Perhaps even desire for changes in how we relate to memory could be seen as an animating force behind the production of technology itself. 
+
+
+Shy of such monumental claims yet, undoubtedly a resemblance exists between models of memory and models of technology. For example, computational models of the brain provide both empirical and metaphorical grounding for what “memory” means today. [Examples and metaphors here.] Looking at how different societies relate to memory throughout history shines light on a side door through which a different mode of analysis of technology can be entered.
+
+
+  
+
+[More on this diagram]
+“Places[d] are like matter and images are like form”: The protocolization of memory[3]
+A traditional Western history of memory usually begins with a Hellenic lyric poet sometime around 500 B.C. As the story goes, Simonides recounted an epic poem at a dinner party and stepped outside, shortly after which the banquet hall collapsed. The guests, deceased and disfigured, could only be identified by Simonides’ memory. In his imagination, he walked through where each guest sat at the dinner table, one by one. This memorization technique would go on to be known as the method of loci: placing facts at specific locations one remembers. Such was the popularity of the method of loci that it became one of the five pillars in the rhetorical arts established by master orator Cicero in [X] AD. Memory, alongside pillars such as [X] and [X], could be practiced through a clear procedure. First, one should choose a “formal structure”, such as a church, school, or other familiar place, and then, within the formal structure, establish a number of “memory-places”.[19] In each of these places, a memory “image” could be stored. For example, if one wanted to learn the list of the planets, one could recall their childhood church and use each alcove in the church as a memory “place” to store a memory “image” of a planet, including its name and related facts. Each time one wanted to recall the list of the planets, one could imaginally stroll through the church, facts coming to mind about a specific planet while passing each alcove. This surprisingly effective memorization technique would have hundreds of pages devoted to improving it throughout antiquity. Advice varied but often suggested choosing a “medium-sized” formal structure without too many people passing through it.[p. 18] Interestingly, it did not matter whether this formal structure actually existed, only that the practitioner could recall it vividly in imagination. The overall imaginative quality played a key role in this memorization technique, as a popular pamphlet wrote: “That which is extraordinary impresses the memory better than the ordinary. For this reason [...] the first philosophers composed poetry, because fables, which are composed of marvelous things, leave a greater impression on the memory.”[10-11] The emphasis on using “extraordinary” and “marvelous” memory places and images would continue throughout the memorization technique’s popularity from 500 BC to 1500 AD among Hellenic societies. It is more than coincidental that the story passed down describing the memorization technique itself had macabre and extraordinary tones in Simonides’ extremely fortuitous survival leading to elucidation of the method. Would the story and technique have survived with a less somber tale? Thus it was recommended not only the memory places that should have highly emotionally charged content, but that the connections between the memory places themselves also be embedded within a compelling story.
+
+
+Scholar Johannes Ravenna would carry Cicero’s torch that established the method of loci, and memory more broadly, as a pillar of rhetoric. Its light would burn steadily for the next 1400 years, as a practice passed down, changed, and revived over time, being taught in most formal academies as they multiplied. The method of loci’s durability lies in how it provided a developing system encompassing a universal procedure for the recollection of a particular experience. Its formulaic nature, following the simple steps of choosing a formal structure, memory places, and memory images that can be embellished over time, allowed its gradual adaptation and continued use. But also, its formulaic nature gave way to an incredible personal relation to the facts such a method sought to remember, “marvelous” and “extraordinary” for each practitioner in highly individualized ways. With this combination of the universal procedural and the affectively personal, the method of loci marks what could be the first successful protocolization of memory in the context of the Western philosophical tradition, evinced by its ability to withstand the inevitable evolutionary pressure of a rapidly changing culture while retaining the basic structure of the memorization technique.
+
+
+In the classical text Rhetorica ad Herennium, Cicero distinguished between natural memory and artificial memory as the latter being that which uses “places and images”. Thus the realm of artificial memory, as the term was constructed, primarily referred to the specific practices and techniques, sometimes referred to as “mnemotechnics”, which followed a universal procedure with a highly individualized and affective outcome. In this sense, we could understand artificial memory to refer to memory as protocol, a regime that produces serendipity rather than certainty, by employing formal aids to achieve informal, personal recollection. This protocolization would go on to deeply influence the traditional Western canon’s thinking on memory for the next millennia, convincing scholars that highly formulaic techniques, reproducible across media, could elicit highly personalized results that still created an articulate version of the world, a cosmos, a world image.
+A diagrammatic theory of mind
+
+
+* More on Aquinas and the connection between memory places
+* Continuation of Cicero’s work through the work of Ravenna
+* The method of loci and its embeddedness in rhetorical arts in the first millenium AD marks what could be considered the first (remembered) explicit “protocolization” of memory in the West, i.e. developing a universal procedure for the recollection of a particular experience
+* Method of loci, as a protocol, was simultaneously highly formalized as well as highly adaptable to suit any given practitioner
+* Cicero Rhetorica ad Herennium distinguished between natural and artificial memory
+* Artificial memory was highly protocolized as an explicit tool
+* This protocolization of memory would go on to influence all thought surrounding the topic in its wake
+A diagrammatic theory of mind
+* Raymond Lull and memory wheels
+* Bruno as early consciousness studies
+* A diagrammatic theory of mind, in which the structure or phenomenology of memory retained becomes one's consciousness itself
+* Proust and memory as pharmacy
+   * We find a little of everything in our memory; it is a sort of pharmacy, a sort of chemical laboratory, in which our groping hand may come to rest, now on a sedative drug, now on a dangerous poison. Marcel Proust, In Search of Lost Time
+* Contemporary pharmaka and 11th century Avicenna on the therapeutics of memory
+* However, this intuition lost out to a more rational compulsion…
+Keys, patterns, and the compulsive desire for a universal language
+* The lineage chosen by the West
+* Ramus dialectics
+* Alstead encyclopedias
+* Ramus positioning memory as logic
+* Bacon and Descartes “memory aids”
+* Leibniz’s universal language
+Memory as orientation        
+* Computer memory and random access memory history
+* Chaotic storage and memory through automation and “just-in-time” logistics
+* Warburg and Mnemosyne Atlas, how Warburg’s abstract, associative connections prefigured the modern shift to memory as orientation
+   * Pathosformel
+   * Diagramaka
+* Bruno’s great return!
+* Lukasa board
+* Songlines
+
+
+  
+
+* These are all evident of a more understandable nature of memory, despite being led astray in the 17th century, of memory as orientation: an affective sense-making tool that takes the place of deductive logic in the face of contemporary technology
+The Orientation of Infinity
+* Memory is not the infinite replication of digitized data but incisions in space[e][f], relations between mediums
+   * Interruption of infinity vs infinite data-fication
+* Traditionally memory perceived as recording, whereas knowledge is perceived as synthesis and comprehension, with new tech these functions are reversed because strict recording no longer required or even feasible to expect of memory – it becomes a process of orientation in infinity of “innumerable images and words” of our media and experience [g]
+* AI resembles memory more than traditional memory aids because of its ability to make connections and produce relative novelty from them
+* From here we can understand digitization, database-ifcation, and on-chain maximilaism to be in response to a misunderstanding of memory
+* Memory as protocol, not object[h][i]
+________________
+Footnotes
+
+
+[1] Agrippa, De vanitae scientiarum, cap. X (‘De arte memortativa’), Opera (Lyons, 1600), II, p. 32. Also page 67 in logic and art of memory
+[2] Bernard Stiegler, The Ister, 2004
+[3]: Logic and the Art of Memory, page 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Outtakes 
+
+
+How we relate to memory could form a history of humankind. In ebbs and flows, its definition sometimes coincided with knowledge and sometimes strayed. 
+
+
+Both memory and knowledge often imply initiation, transmission, and revelation. Such as more precise knowledge of when the Nile may flood, revealed by inscriptions only visible when its water lowered, and then only to priests who could access these inscriptions.[x] 
+
+
+Memory implies something lived, stored, or transmitted through time.
+
+
+Always adjacent but slightly different from knowledge, memory often implies something that requires revelation.
+
+
+   * The Western history of memory often begins with the Hellenic lyric poet Simonides, who used places and images in the imagination for recall. This practice could take the form of walking through one’s first home in one’s imagination and remembering, at each familiar alcove, a line from an epic poem. Known as the “method of locii”, this practice acted as a universal protocol an individual could use for the recollection of particular memory, and it continued to be taught as a memory protocol within the field of rhetoric for the first millennium C.E. The next millennium, however, saw greater divergence in protocols for memory. In one direction, building on the work of Raymond Lull, Renaissance polymath Giordano Bruno took the method of locii further, emphasizing the use of places and images, with deepened affect and abstraction, as a memory protocol that would reorient one’s perception of the world. In another, perhaps more familiar direction, scholars like Petrus Ramus took the emergent encyclopedic impulse toward knowledge further, integrating protocols for memory into the field of logic. Influential thinkers like Frances Bacon and Rene Descartes followed this latter direction, and as a result, protocols for memory became subsumed by protocols for organization, in which remembered knowledge, when externalized and categorized, supposedly promised to take on a unifying and universal character. From this tradition, one sees its natural continuation in contemporary filing cabinets, databases, and taxonomies. However, a curious shift in protocols for memory may be subtly afoot today.
+   * [a]Nice
+[b]Makes me think about what happens with actions and gestures which are not inscribed, the are forgotten.
+[c]Makes me wonder about the feasibility of increasingly complex technology as memory supports... A Macbook, for example, contains the inscriptions of millions of gestures. Do you have thoughts on that?
+[d]I think this is what Sherlock Holmes used to do as a character. At least in the show:
+
+
+“You’re most certainly going to die, so you need to focus,” Hooper says. “It’s all well and clever having a mind palace, but you only have three seconds of consciousness left to use it.” Holmes discovers the answers to staying alive are indeed in his brain.
+[e]Makes me think about inscriptions on the blockchain, which has a sense of physicality to it. When Folklore "acts onchain" there seems to be more memory to it, than when it's just "saved" to a computer archive. Unsure if there's a difference tho. Might just be semantics.
+[f]Ha, just read the next one on onchain maximalism as misunderstanding of memory.
+[g]Have you come across ways to "record an orientation" ?
+[h]I like this frame. 
+
+
+One thing I missed in this draft is how I first heard you explain external memory - how for humankind to understand ("remember") the information stored on a stone tablet from 5,000 BC., for example, we would need to continually interact with the tablet. You also mentioned that we store stuff digitally, assuming that it will be accessible in the future.
+
+
+I'm paraphrasing and might be missing the nuance, but that really struck a chord with me when I first heard it.
+[i]+1 -- similar comment, I really liked the concept of having to "revisit" to keep the memory "alive" of sorts.

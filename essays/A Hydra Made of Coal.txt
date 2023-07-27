@@ -1,0 +1,474 @@
+﻿A HYDRA MADE OF COAL
+
+
+“One observer writing in the 1830s called this new class of workers “but a Hercules in the cradle,” brought together into dense masses by the steam engine...”
+-Barbara Freese, quoting Elizabeth Gaskell
+
+“What would have become of Hercules do you think if there had been no lion, hydra, stag or boar - and no savage criminals to rid the world of? What would he have done in the absence of such challenges?
+
+
+Obviously he would have just rolled over in bed and gone back to sleep. So by snoring his life away in luxury and comfort he never would have developed into the mighty Hercules.”
+ -Epicticus
+Safety After the End of History
+From 1900 to 2017, the fatality rate in the American coal mining industry fell by 97%.[1] How was this change possible? How did it affect society? Will it continue?
+
+
+Despite a neverending supply of new hazards, the world  of commerce[a] has become increasingly safe. This can be partly explained by advances in technology, legislation, and/or wealth. However, these explanations favor macro-level factors to the detriment of the human element. 
+
+
+The missing part of the story: workplace safety protocols – constraints set on human behavior in order to reduce work-related injury, disease, and death. These protocols have emerged, evolved, and expired in step with changes in the industrial environment. Using the coal mining industry as a case study, I propose i) a theory of protocolization (figure 1) and ii) a theory of protocol evolution (figure 2).[2]
+i)   ii)  
+
+
+Why coal? By venturing into the coal pits, we kicked off a world-changing process. On the one hand, coal “would raise up not only our civilization but our very souls.”[3] and on the other hand, coal “helped create a new kind of savage existence not controlled by nature but virtually severed from it.”[4] 
+
+
+Human ingenuity has solved problem after problem in the coal mining industry. But these solutions create their own problems. Technological advances in coal extraction “reduced some risks while increasing others”.[5] Like how the electrification of coal-cutting machinery reduced the number of dangerous mechanical parts but increased the risk of electrocution.[6] Risks like that were perhaps predictable, but at many points we did not know – nor could we afford to care – what we were getting into. How were early coal miners supposed to know that burning coal would lead to the accumulation of atmospheric carbon dioxide? How could 18th-century laborers have avoided fatal levels of air pollution if their survival depended on burning coal for warmth? [7] 
+
+
+The effects of technologies are unpredictable. It’s easy to anticipate some of the health and safety problems (hazards) that they eliminate and create, but it’s impossible to predict all of them. Our predictions can either contain errors, be ignorant, or be superseded by our more immediate interests in survival or profit.[8] It takes time to uncover new hazards through experience, knowledge, or shifting cultural norms. The mix of hazards that we must mitigate continually waxes and wanes in different directions. To deal with this unstable mix, humans need a reliable source of short-term solutions.
+
+
+Protocols emerge as a first line of defense against newfound hazards. To do so, protocols limit the scope of human behavior in some way. Social distancing in the office during a pandemic, for example, requires no technology[b], significantly limits human behavior, and reduces workplace injuries and fatalities. Norms, distributions of authority, and hierarchies emerge to enforce such constraints – resulting in a new ‘protocol-based social order’[9]. Organizations built upon dangerous technology have clear, protocol-based social orders. Nuclear power plants, commercial airlines, and railroad companies[10] are all built upon powerful technologies, which require protocols, which often require a change to the social order. Atom-splitting (nuclear) technology begets a centralized, authoritarian social order to tightly control its downside risks.[11]
+
+
+We have been in a centuries-long battle against the externalities of rapidly evolving technology. Over time, the protocolization of the coal industry led to the near-total elimination of fatal workplace incidents. This success is a testament to the power of protocol. 
+
+
+In the conclusion of the essay, I make a case that we are overdue for a shift of focus in the area of safety. There are diminishing returns to safety protocols. Several strong cases have been made arguing that the pursuit of absolute safety is economically unoptimal[12] and morally suspect[13]. 
+
+
+I believe the obsession with an antiquated view of workplace safety is costing many people their lives. There is an absence of workplace health protocols that address the top causes of workplace fatalities in the 21st century: Chronic Obstructive Pulmonary Disorder, Ischaemic Heart Disease, and Stroke.[14] After the end of history of safety, health should be the new focus.
+
+
+Key Points
+1. Technological progress is the main driver of protocol creation and destruction; technology and protocols are entangled at a deep level.
+2. Protocols evolve via meme-like replication errors and environmental selection pressures. 
+3. We are approaching the “end of history” for safety – health should be the new focus.
+4. Protocol tinkering is more effective than protocol design.
+5. Safety protocols often decrease the safety of an adjacent outgroup.
+6. There are diminishing – and eventually negative – returns to safety protocols.
+7. There is a specific set of environmental factors that allow safety protocols to compete, including wealth, low social tolerance for risk displacement, and a dense social network.
+Unanswered Questions
+1. Is there a perceived decline in safety? What are the implications of that?
+2. How quickly do we adapt our expectations when objective levels of safety increase?
+3. What are the negative externalities of health protocols? How can we avoid risk displacement?
+4. Is worker insurance a protocol?
+5. Could, and should, liability for workers’ long-term health rest with heir employer(s)?
+6. What is the nature of the entanglement between protocols and technology?
+Safety as a Dynamic[c] Non-Event[15]
+Our brain has finite bandwidth. To deal with limited memory and processing powers, we get used to things going well. So, over time, we only notice when things go wrong – when there is an ‘event’. We do not notice the ‘non-events’ (i.e. the status quo, situation normal, the day-to-day). But events and non-events are both consequences of human actions. No actions, no events. Action performance varies, putting the ‘dynamic’ in “dynamic non-event”. Safety is a dynamic non-event. It can be difficult to talk about safety (and health) because safety is an absence of events, not an event itself.
+
+
+When you use a stapler it is highly unlikely that you will stick yourself. In safety terms, stapling yourself is the event. Stapling the paper without stapling yourself is the non-event. The risk of an event is always there – you might even get really close to stapling your own thumb to that freshly printed pdf. Hence, the action is dynamic; you never do it precisely the same. But you probably won’t notice these near misses[d]. We only detect outcomes that fall below the “limit of unacceptable performance”[16] (see figure 3).
+
+
+We can count how many times we’ve stapled ourselves by accident (the event), but we can’t count how many times we haven’t stapled ourselves (the dynamic non-event). The process remains above the limit of unacceptable performance – and therefore our awareness – due to “moment-to-moment adjustments and compensations”[17] thanks to you, the operator of the stapler. Ultimately, you don’t notice when you’re safe.
+  
+
+For that reason, the benefits of safety protocols are often taken for granted. We tend to pay attention to the cost of following protocol. It can be tiresome and appear inefficient. This is because the benefits – the dynamic non-events that safety protocols create and sustain – fall below our radar. 
+
+
+Safety protocols don’t just benefit individuals. They also benefit peers and groups. Reducing the rate of disease and injuries reduces the societal burden of grief [citation], improves our ability to create knowledge, and increases economic productivity. In other words, “The less energy expended merely in keeping a society alive, the more is available for change…”[18]
+
+
+A few examples of workplace safety protocols, and their individual and emergent benefits:
+
+
+
+
+
+
+Mining Safety Protocol
+	Individual Benefit
+	Emergent Group Benefit
+	Group meeting and risk review before entering mines[19]
+	Increased knowledge of risks and how to avoid them
+	Reduced chance of one member compromising group safety
+	Annual Mine Emergency Response Development exercise[20]
+	Faster and better response to well-known types of mining emergencies
+	Reduces the total harm in the case of an emergency
+	Reporting workplace accidents and near misses[21]
+	Root cause of the incident is fixed
+	Enhanced ability to allocate investments 
+	Proactively alerting coworkers of your presence
+	Many potential accidents (collision, exposure) are averted
+	Operations are uninterrupted due to lost time
+	Using signs to indicate the presence of a hazard
+	Worker can rely less on memory
+	First-timers know to avoid area
+	Rotating inspection and monitoring duties
+	Workers spend less time on cognitively draining tasks[22]
+	Performance goes up as a result of heightened attentiveness[23]
+	
+
+Reporting accidents and near misses improves the safety of a worker by being the first step to eliminating a hazard from their workplace. The emergent effect is the accumulation of data that can be used to pool investments and direct them toward preventing the top causes of worker fatalities, such as chronic obstructive pulmonary disorder. 
+
+
+Safety protocols are also a part of everyday life:
+
+
+Safety Protocol
+	Individual Benefit
+	Emergent Group Benefit
+	Looking both ways before crossing a street or railroad
+	Potential collisions are averted
+	Traffic flow is uninterrupted; infrastructure is undamaged
+	Hiking in a group rather than hiking solo
+	Injuries affecting mobility are less likely to result in death
+	Decreased cost of search and rescue operations
+	Using “bear bins” to while camping.
+	Reduced risk of bear encounters
+	Avoids sensitizing bears to human presence
+	
+
+These protocols all directly benefit individuals. But they have positive emergent effects on safety as well. Using bear bins keeps bears from coming to your campsite and ruining your trip. This is great – and it’s a public service![e] Bears that have eaten human food are more likely to harass future campers. By preventing an initial encounter, you are improving the safety of campers whom you might never meet.
+
+
+Health vs. Safety
+Occupational health and safety are often bunched together under the acronym OHS. But why aren’t public safety and public health bunched together? Health, like safety, is a dynamic non-event. Why do we talk about health and safety separately in our day-to-day lives?
+
+
+The most obvious difference between safety and health is the timeline in question. A coal miner not using a hardhat is doing something unsafe. A coal miner inhaling silica dust is doing something unhealthy. A rock wall won’t gradually fall onto one’s head over the course of 10 years. It happens in a moment. Inhaling silica dust won’t kill you instantly, but the damage is cumulative. 
+
+
+In both situations, the long run outcome is the same – fatal. Long enough exposure to either unsafety or unhealth will result in the death. Safety is about avoiding risks of instant injury or death. Health is about avoiding cumulative damage. Being unsafe is like having a pet rattlesnake. Being unhealthy is like having a stressful job. 
+
+
+Health is also about avoiding cumulative risk factors that increase your overall chances of mortality (such as muscle loss, high blood pressure, insulin resistance, obesity, smoking, a sedentary lifestyle, etc.)[24]. In that sense, safety and health overlap. Healthier = safer. Getting injured can destroy your ability to lead a healthy lifestyle. So, safer = healthier.[25]
+
+
+The same memory mechanics that makes safety (and non-events in general) difficult to notice are even more pertinent when it comes to health. Because health often deteriorates slowly, it’s hard to be aware of changes. The limit of acceptable performance drifts downward as we adjust our expectations to new average levels of wellbeing. 
+
+
+Because the benefits of health and safety protocols are unseen, it can be difficult for such protocols to be adopted. From my experience, we operate more proactively when the risk is obvious, probable, and has the possibility of immediate harm. 
+
+
+This subtle nature of health had consequences with issues like black lung[26] and asphestos. There were several sources of friction to problem solving in both cases. First, medical knowledge takes time to develop. Second, the scientific community can be captured. Corporations funding scientific research might have an interest in suppressing certain findings, as happened with miner’s silicosis.[27] Third, causality is difficult to prove given i) long timespan between exposure and disease (asbestosis has a latency period of 15-30 years[28]), and ii) a mechanism of harm is often below the level of human perception. We can see someone lose an arm in a gearbox, but we cannot use our bare eyes to observe cancer form in someone’s lungs.
+
+
+Today, we face a similar set of problems. According to the World Health Organization and the International Labor Organization, in 2016, only 25% of workplace fatalities globally were caused by accidents.[29] The rest were caused by diseases. Today, the top three causes of death globally are the same top three work-related causes of death.[30] Chronic obstructive pulmonary disease, stroke, and ischemic heart disease account for ~63.6% of work-related causes of death in 2016.[31] Long working hours alone were estimated to account for 39.5% of workplace fatalities in 2016.[32] 
+
+
+Emotional Ergonomics
+Human safety and health are generally understood to be physical phenomena, governed by the same laws as the world and technology. “How do we preserve our biological constitution?” is a difficult problem, but it is tractable. Safety protocols, in conjunction with technological progress, have come a long way toward solving that problem. For that reason, the United States has observed a near-total elimination of fatalities from occupational incidents (a 90% reduction from 1933-1997).[33]
+
+
+However, what we consider to be safety is changing. Our standards – minimum levels of acceptable performance – have gotten higher. In about two hundred years, the bar has been raised from “don’t die” to “don’t get hurt” to “don’t burn out” to “love your job”. One of the difficulties faced by occupational health and safety professionals today is how to protocolize emotional health. Issues like depression, anxiety, and PTSD in the workplace comprise another head of the hydra. While treatments are available, Western societies do not yet have consensus on the best protocols prevent these issues[34]. 
+
+
+Increasing minimum levels of acceptable performance indicate that the protocolization of industrial safety was a success. We are beginning to see a distinct shift from safety to health. A short history of the coal mining industry illustrates how protocols took us from A to B.
+
+
+Case Study: The Protocolization of Safety in the Coal Mining Industry
+Pre-Industrial Safety Protocols (< 1700 A.D.)
+As early as the 13th century, Europeans started to mine coal in bell pits[35]. Bell pits were only a few feet wide at the mouth, then dug out wider underground – up to about 30 feet below the surface.[36] They were typically operated by a serf family, and owned by a lord.[37] It’s hypothesized that a bell pit would be excavated until the walls or roof appeared to be unstable, then it would be abandoned.[38] The family would then dig a new shaft nearby to access the same coal vein.[39] Here we have one of the first records of a workplace safety protocol, more or less: establish a sufficient distance between bell pits so that the structural integrity of one bell pit doesn’t affect the other.[40]
+
+
+Drift mines were another early method of coal extraction.[41] A coal vein would be accessed from the side of a bank or cliff, rather than by a vertical shaft. This allowed a mining family to move coal with less effort. Dragging coal up or down a slope was probably safer than hauling it up a ladder. The first drift mines were uncomplicated and shallow.[42] As they were sunk deeper into the earth, coal miners began to encounter a new killer: gas. Methane is the most well-known. There were all kinds of gas. Miners at the time might not have known the chemical compounds of these gasses, but each gas was identified by how it killed, giving them a series of grim names.[43]
+
+
+* Chokedamp a.k.a stythe, damp, or blackdamp (carbonic acid gas): an asphyxiant gas.
+* Firedamp (methane gas / carburetted hydrogen): a highly explosive gas.
+* Afterdamp (a mix of carbon monoxide, carbon dioxide, firedamp, and nitrogen): an asphyxiant and poisonous gas.
+* Stinkdamp (hydrogen sulfide): a poisonous gas.
+
+
+The discovery and understanding of these gasses led to new safety protocols. Chokedamp is heavier than air; miners would hold a candle near the floor. If it dimmed or went out, it was time to go. Firedamp was “solved” by preemptively igniting buildups. This was initially done by a ‘Penitent’ – a convict– who, instead of going to jail, assumed an extremely dangerous job igniting gas build-ups before the other miners went into the cave.[44] Miners also tried to find nonflammable ways of illuminating their workplaces – they “even experimented with bringing phosporescent fish”.[45] Birds, such as canaries, were used to detect Afterdamp and Stinkdamp. They would die sooner than a miner, giving the miner a heads up that there was an asphyxiant or poisonous gas. Hence, “canary in the coal mine,” was an early detection protocol.
+
+
+Pre-industrial mines were powered by humans and animals. Because iron was expensive, cranks, pulleys, tools, wheels, and carts were made primarily from wood. The available materials imposed limits on the scale of mining operations. Things changed dramatically with the introduction of steam engines and with the societal changes harkened by the industrial revolution. 
+
+
+The Big Bang (1700 - 1850 A.D.)
+With the industrial revolution came steam engines, massive boilers and coal furnaces, new machinery, and a greater supply of steel. These technologies enabled a new flywheel of productivity in the coal industry. Pulley systems operated by steam engines and cheaper steel rails could move coal faster. Steam engines were powered by coal furnaces. The demand for coal skyrocketed and new technology improved access to the supply. Things started to move very quickly. Britain’s annual production was about ~3 million tons of coal in 1700. About 200 years later, U.S. annual production hit 680 million tons.[46]
+
+
+Mines were worked near-constantly and miners were often paid on a piece wage[47] – by the amount of coal they produced, rather than the time they spent mining. In North America, coal mines were shallow and workers were highly distributed across a large area.[48] For this reason, supervision was logistically challenging and expensive. Because of a lack of supervision and the incentive of being on a piece wage, coal miners regularly traded off safety in exchange for productivity. (We see similar issues today with semitruck drivers falling asleep at the wheel as a result of trying to finish their routes faster – necessitating the need for rest protocols.)
+
+
+With the increased rate of production, dust became a greater issue.[49] Air in mines became saturated with coal dust, which is flammable, and silica dust, which has been long known to cause tuberculosis.[50] Boilers, furnaces, and explosives like dynamite and Emulex were also extremely hazardous. Heavy steel rail carts and locomotives could crush coal miners. Personal protective equipment (PPE) was virtually nonexistent by today’s standards.[51] 
+
+
+After several hundred years of incremental development, the coal industry had a big bang. The combination of these factors would lead to disasters like the Monongah mine explosion in 1907, killing tens or hundreds of miners at a time. Respiratory diseases were rampant. Workplace safety protocols were not yet keeping up with the pace of the industry. Workers were highly replaceable, and unions were illegal in most of the West until at least the late 1800s.[52] Thus, workers couldn’t afford to take sufficient precautions in their jobs. 
+
+
+Peak Employment (1850 - 1950 A.D.)
+I could not find evidence of coal mining safety records prior to about 1850 in the United States. In the mid-late 18th century[f], municipal and state governments began collecting data on fatalities.[53] Fatality records are grim but tell an important story about how the philosophy of accidents has changed over time. The first recorded deaths didn’t even consider responsibility – accidents were considered inevitable; a cost of doing business.[54]
+
+
+The late 1800s to early-mid 1900s saw great changes in occupational health and safety. These years coincided with two early peaks in US coal production.[55] This time also coincides with peak employment in the coal industry.[56] The interaction between technological development and safety protocols was rapid and productive. Mining ventilation standards were established by MSHA.[57] Mines had to ensure that the presence of particulate and gas fell below a certain threshold. Unionization was legalized.[58] Equipment was designed with operator safety in mind and safety protocols around training, ventilation, and explosives became widespread.[59] Despite this, terrible workplace accidents like Monongah happened.
+
+
+The Monongah disaster in 1907 killed at least 362 men and boys.[60] Despite being touted as a “model mine”, it exploded. Rescuers’ attempts were stalled because the collapsed mine had filled with chokedamp (carbonic acid gas). And because of the newfound scale, complexity, and interdependence of mining operationsT, the cause of the accident was not determined.
+
+
+Events from this era highlight the political nature of safety and health. It might seem obvious to someone today that smoking in an active coal mine is a dangerous thing to do. But in the early 1900s there were several labor strikes when the U.S. government sought to ban smoking cigarettes in coal mines.[61] Mark Aldrich hypothesized that this was a byproduct of the traditional view of coal miners’ role and responsibilities, saying that miners were viewed as “craftsmen” and “independent contractors” who were “responsible for their own safety”.[62] This social status, combined with a piece wage, suggests that there was both an economic incentive (revenue) and a social incentive (valor) to value productivity over safety.
+
+
+Production Peaks, Complexity Accumulates (1950 - 2000 A.D.)
+From 1950 to the early 2000s was peak production in the U.S. coal industry.[63] At the same time, fewer and fewer people were employed.[64] New technology enabled per-worker productivity to rise quickly, but it increased the complexity of operations. In a few hundred years, the industry went from pickaxe-wielding families to multinational megacorporations.
+
+
+Accident and fatality rates in the industry plunged.[65] Ventilation, detection, and respiration equipment became more effective, and protocols regarding their use ensured that dust and gas levels were kept at benign levels. From the 70’s onwards, mining companies used atmospheric monitoring systems and automatic alerts to prevent build-ups of methane, carbon monoxide, and dust. The protocol for deploying these systems was to space the units fewer than 2,000 feet apart, and as high in the tunnels/chambers as possible. This protocolization reduced the likelihood of explosions, cave-ins, and the burden of common mining-related diseases, like black lung.[66]
+
+
+But with so many moving parts, operations became unpredictable in and of themsleves. Weather, human behavior, geography, and geology were no longer the sole sources of uncertainty. Technology had become engineered to be safe, but some accidents still occured. This had implications for for how safety was managed, and new approaches were rapidly deployed. 
+
+
+First, root cause analysis led safety experts to assume incidents were being caused by human error.[67] After a couple decades of trying, it was discovered that eliminating human error was basically impossible.[68] The focus then turned to sociology instead of psychology. Protocols around improving “safety culture” came about.[69] Safety First, Take Five, Safety Walk, etc. emerged as a way to fight the diminishing returns on traditional approaches to safety.
+
+
+Finally, systems theory[70] came along – theorizing that “unexpected interactions”[71] between “tightly coupled”[72] components within a system caused accidents, and that these accidents very unpredictable. Charles Perrow argued that a certain number of accidents are “normal”.[73] No matter how hard we try to stop all accidents, some will happen. It is simultaneously true that i) all accidents are preventable, and ii) we cannot prevent all accidents. Safety is full of beautiful and tragic paradoxes.
+
+
+By the year 2000, improvements in coal mining safety began to plateau. The protocolization cycle of mining safety had run its course and was, as we will see, at risk of being taken too far. Demand for coal would soon start to decline, and competition would increase.
+
+
+The New Heads of The Hydra (2000 A.D. - Present
+A 2006 study on the U.S. Mine Safety and Health Administration (MSHA) concluded:
+
+
+“Almost 700,000 life years could be gained for typical miners if a quarter of MSHA’s enforcement budget were reallocated to other programs (more heart disease screening or defibrillators at worksites).”[74] 
+
+
+With increased life expectancy and increasingly sedentary jobs, workers today face a new set of hazards, like heart disease. One of the problems with safety institutions is that their existence depends on them pursuing problems far beyond pareto optimal solutions. 
+
+
+We’re reaching the end of safety, and the dawn of “health”. Highly social, communicative, administration-based companies seem to be generating a new set of protocols that are directed at sustaining and scaling the dynamic non-events of psychological safety and mental health. These areas don’t benefit from the same scientific basis as biological safety.
+
+
+That being said, safety is still an issue in many places. Declining demand for coal in the Western world will generate (and perhaps already has) safety issues as companies seek to cut costs. Global capitalism still has pinchpoints. Industries in less-developed economies are not as safe.[75] But when the top work-related causes of death are health issues, a focus on safety can be deadly. It’s time to focus on creating and spreading new workplace health protocols. To do that, we need a better understanding of what protocols are and how we can manipulate them for good. 
+
+
+The Role of Protocol
+In the coal industry, protocols emerged as a first response to newfound hazards. Cave-ins were met with minimum spacing protocols. Gasses were met with detection protocols. Explosive dust and substances were met with ventilation protocols. These protocols provided the basis for “harder” defenses of safety, such as personal protective equipment, engineering, and legislation. 
+
+
+Protocolization of the coal industry led to the near-total elimination of fatal accidents. Accelerating the process of protocolization in future industries could save many lives. In order to accelerate the cycle, we need to understand two things. First, the high-level dynamics (protocolization) we seek to influence. Second, the low-level mechanics (protocols) which we can directly influence. Therefore, we need i) a grand theory of protocolization and ii) a practical theory of protocol evolution. 
+
+
+In the next section, I make an early attempt at formulating each of these things. Because this theory of protocolization is derived from industrial safety protocols, it has a narrow scope. However, if it is true that, “The chief motive of all human action is the desire to avoid anxiety,”[76] this theory is a promising starting point for a more general model.   
+
+
+A Grand Theory of Protocolization
+Summary
+This model is meant to explain the process of how industrial safety becomes protocolized. Protocols are born as a first response to new hazards, which arise from several sources (technological progress, environmental change, and changes to the social order). Because protocols limit human behavior in some way, protocols that catch on influence social hierarchies, soft power gradients, norms, and values. The social order affects the direction of technological progress. Technological progress changes the environment. And so on. This is my proposed model of the grand theory of protocolization.
+
+
+Underlying this model is a theory of protocol evolution, which is based on principles of natural selection and mimetic theory. “Fitness” is approximated to protocol usability. Poor usability, which is usually determined by environmental factors, leads to rejection by agents. Protocols change as a result of two forces: i) Mutation, which is primarily caused by memetic error, and ii) Selection Pressures, imposed by the environment, which include social, technological, physical, and computational factors. 
+
+
+A complete theory of protocol evolution must provide mechanisms for four processes: Birth, Mutation, Selection, and Death. 
+
+
+Process 1: Protocol Birth
+Safety protocols emerge directly as a response to the discovery of hazards. Protocols are, first of all, a means of self-preservation. They protect individuals from hazards. When new hazards are created or discovered, new protocols are made. 
+
+
+New hazards are created all the time. The first source of hazard creation is environment change, like natural disasters, which can constitute a dramatic change to the set of hazards present in a workplace. Heavy rains create structural instabilities in the landscape. Landslides and floods become hazards.
+
+
+Another major source of hazard creation is technological change. Having evolved with the experience of constant environmental change, we are somewhat better adapted to handle those hazards. Technological change, on the other hand, creates a tremendously wide, potent, and novel set of hazards.[77] Steam engines created a fantastic variety of hazards, like mechanical machines which could harm workers’ ears, locomotives which could crush workers, and water pumps, which allowed coal mines to be dug deeper, exposing workers to risks like gas, explosions, and cave-ins.
+
+
+A third source of hazard creation is changes in social order. Safety protocols can arise as a response to shifts in hierarchy, power distribution, or social network size/density. If an elite class in an economic system begins displacing risk onto the working class, collectivist protocols like unionization, labor strikes, and collective bargaining can emerge to correct this behavior. Another example could be workplace hazing or initiation rituals, which create hazards unrelated to environmental or technological change.
+
+
+The final source of hazard creation is changes to the definitions of health, safety, or hazard. For example, the recent addition of emotional health to the domain of occupational health and safety. It’s likely that this was not a concern worth discussing much 200 years ago. However, today, preventing illnesses like post-traumatic stress disorder, anxiety, and depression now falls under the mandate of some health and safety teams. 
+
+
+To sum up, safety protocols are created as a reaction to hazards arising from four different sources:
+* Environmental change,
+* Technological progress (including increasing knowledge),
+* Societal change, and
+* Changes to the definition of health, safety, or hazard.
+
+
+Process 2: Protocol Mutation
+The main way that protocols mutate is via mimetic error. To follow protocol is to perform two or three unique actions: i) perceive another person following protocol, ii) store the protocol in memory, and iii) replicate the protocol. This is a process of mimicry. Errors can occur during any one of three actions.
+
+
+  The other two ways that protocols mutate is through tinkering and design. To tinker is to intentionally mutate a protocol in some way. For example, one could add an extra step to a workplace inspection checklist. Because it is an intentional process, the pace of mutation by tinkering is slower than by mimetic error. But it is faster than protocol design, which is creating or changing a protocol so that it is substantially different from existing protocols. Because selection pressures are so strong, there is a very limited ability to design protocols. The strength of mutations from design easily launches protocols into the realm of unfeasibility, where they will be rejected by participants. For example, I have seen a corporate health and safety team design an incident reporting protocol, which was ignored by departments on account of the time-consuming nature of the reports. The designed protocol landed outside of acceptable efficiency-thoroughness selection pressures… Suffering an embarrasing and ignoble death.
+
+
+The three sources of protocol mutation can be characterized by their pace and strength:
+
+
+  
+
+
+
+The differences between these sources are critical for application of protocolization theory, especially if we want to accelerate the process. This is discussed in more detail in the conclusion.
+
+
+Process 3: Protocol Selection
+
+
+If protocols merely mutated, there would be no progress. However, we saw protocols improve in the coal mining industry alongside technological development. Early anti-explosion protocols like candle-based detection were replaced by preventative protocols, like maximum thresholds for dust and gas in mines. This didn’t happen immediately. Environmental factors had to change for more effective safety protocols to emerge. In the table below, I describe what I believe are the strongest protocol selection pressures.
+
+
+Selection Pressure
+	Description
+	Efficiency-Thoroughness Trade-Off[78]
+	Safety protocols that greatly reduce accidents will be more likely to propagate. Safety protocols with steep efficiency costs face more resistance to propagation. 
+	Power/Influence
+	High-power actors can coerce other actors into following a protocol that benefits them. Low-power actors cannot.
+	Agency/Freedom
+	High-agency actors can easily opt-in and opt-out of protocols. Low-agency actors cannot.
+	Bandwidth (Cognition, Memory, Physical)
+	Agents’ abilities to perceive, remember, and replicate protocols are limited by cognition, memory, and physical bandwidth. Protocols typically compete for these resources in a zero-sum fashion. 
+
+
+This selects for protocols that are time-efficient and easy to mimic accurately.
+	Technology
+	Technology pressures selection in several ways:
+
+
+First, it can augment worker bandwidth by encoding protocols into technology, thereby freeing up bandwidth for other protocols. Gas detection using candles was an active protocol, which was encoded into passive Atmospheric Monitoring Systems. More tech = more protocols.
+
+
+Second, technology can create hazards that change the ETTO (cost/benefit) of existing protocols. More effective insulation for residential houses led to problems with radon, which increased the value of radiation detection protocols.[79]
+
+
+Third, technology can allow us to discover and understand new hazards, like the role of lipoproteins as a risk factor for heart disease. 
+
+
+
+
+	Benefits 
+* Immediacy
+	
+
+Protocols with immediate benefits are more likely to replicate. Short-term interests, like survival and status games, select for protocols with immediate benefits. Health protocols face lots of competition from immediately beneficial protocols.
+	* Legibility
+	Protocols with benefits that are clear are more likely to replicate. In the case of safety protocols, obvious cause-and-effect makes some protocols easier to follow than others. 
+	* Generality
+	Protocols that benefit a larger variety of workers are more likely to replicate. 
+	Ethics
+	The ethics of an individual affect their acceptance or rejection of protocols. E.g. Early 20th century coal miners, viewing themselves as entrepreneurs, might have had a work ethic that favored risk taking.
+	Horizon of Concern
+	Longer horizons of concern, unlocked by longevity and or wealth, allow protocols with non-immediate benefits to compete. Workers focused on meeting near-term needs like food, water, and shelter don’t have the luxury to focus on protocols that will benefit them only in 20+ years. 
+	Wealth
+	The level of wealth in an industry will affect workers’ horizons of concern and the amount of time and other resources that can be reasonably spent of safety protocols. As the value of a human life increases, so do the value of accident prevention measures.
+	Displacement
+	Some safety protocols displace costs from one group onto another. E.g. SUV’s are safe, but reduce safety of other drivers and pedestrians. The more risk a protocol displaces, the more power its participants need.
+	Public Attention
+	Protocols that target well-publicized risks might replicate better. For example, concerns over consumer food poisoning led to improvements in factory sanitation protocols, achieving the target objective and reducing the rate of occupational disease at meatpacking plants in the process.[80]
+	
+
+Protocol Expiration (Death)
+The “birth” and “death” of protocols are intimately related. The same forces that drive protocol creation drive protocol destruction. New technologies can quickly make old protocols obsolete. Many protocols will experience slower “deaths”, however. If a protocol doesn’t have a favorable set of characteristics relative to its surrounding environment, the protocol could die. For a protocol to die, it simply needs to not be used. Protocols are similar to muscles in this sense; without use, they will atrophy away. 
+
+
+Generalizing the Protocol Cycle
+When we create new technologies or decommission old technologies, that has unanticipated or unintended consequences. There can also be willful ignorance of the consequences, as with the DuPont corporation’s use of ethyl lead[81] to reduce engine knock or the Monsanto corporation’s use of Roundup.[82] New health and safety issues arise all the time. The speed at which we can protocolize solutions affects how many lives are saved.
+
+
+To accelerate the process of protocolization, we need to increase the volume and pace at which we tinker with existing protocols. Designing new protocols has a high failure rate. It probably makes sense only in extreme situations, because designed protocols have a high probability of being in conflict with existing norms and habits. Therefore, they require enforcement, which is expensive in many ways. Tinkering, on the other hand, is cheaper and can be done at a faster rate. 
+
+
+Tinkering with protocols along the various contours of the selection pressures listed in this article is a start. Notice a helpful protocol? How can it be adjusted to be simpler? Can it be augmented by information technology? Is there an existing dense network that it can be introduced to?
+
+
+
+
+
+
+Bibliography
+
+
+Index
+
+
+
+
+________________
+[1] Mining Safety and Health Association (2018) ‘Coal Fatalities for 1900 Through 2017’. https://www.msha.gov/coal-fatalities-1900-through-2017
+[2] If you want to skip to the theoretical component, see page 12. :-)
+[3] Coal: a human history page 11
+[4] Coal: a human history page 72
+[5] Safety First page 58
+[6] Safety First
+[7] Coal: a human history
+[8] Merton
+[9] Nathan Schneider https://beta.briefideas.org/ideas/7c294f66fae2352765ec79bf5b0c7966
+[10] The Whale and the Reactor
+[11] The Whale and the Reactor
+[12] Searching for Safety
+[13] Searching for Safety
+[14] ILO WHO joint report
+[15] Weick, K.E. (1987) 'Organizational culture as a source of high reliability.' California Management Review, 29: 112-127. AND Hollnagel
+[16] Hollnagel - diagram is also from Hollnagel
+[17] Ebrary ‘A Dynamic Non-Event’. https://ebrary.net/29719/sociology/dynamic_event
+[18] Boulding and Waldavsky (see Searching for Safety, double reference)
+[19] Peabody Energy Company (2021) ‘ESG Report’: page 26.
+[20] Arch Resources (2023) https://www.archrsc.com/sustainability/safety/
+[21] Government of Yukon, Transportation Maintenance Branch
+[22] Ironies of Automation
+[23] Ironies of Automation
+[24] Attia: https://peterattiamd.com/peter-on-the-four-horsemen-of-chronic-disease/
+[25] However, Safety and Health are not perfect substitutes. Becoming completely safe will not make you completely healthy. In the absence of external stressors (negative events) internal feedback loops will destroy a system (you).
+[26] https://www.sunnisidelocalhistorysociety.co.uk/bellpit.html
+[27] Source: A short history of occupational health
+[28] https://scdhec.gov/environment/your-home/asbestos/asbestos-effects-health
+[29] ILO WHO Report
+[30] ILO and WHO Joint Report 
+[31] ILO WHO report
+[32] ILO WHO report
+[33] https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4822a1.htm &&& National Safety Council. Accident facts, 1998 edition. Itasca, Illinois: National Safety Council, 1998.
+[34] World Health Organization https://apps.who.int/iris/bitstream/handle/10665/42539/9241562161.pdf
+[35]  https://www.sunnisidelocalhistorysociety.co.uk/bellpit.html
+[36]  https://www.sunnisidelocalhistorysociety.co.uk/bellpit.html
+[37] Coal: a human history
+[38] Durham Mining Museum http://www.dmm.org.uk/pitwork/html/history1.htm
+[39] Durham Mining Musuem http://www.dmm.org.uk/pitwork/html/history1.htm
+[40] Bob Bradley http://www.healeyhero.co.uk/rescue/individual/Bob_Bradley/Bk-1/1300.html
+[41] Encyclopedia Brittanica https://www.britannica.com/technology/coal-mining
+[42] The Age and Depth of Mines, Department of the Interior https://www.science.org/doi/pdf/10.1126/science.60.1541.viii.s
+[43] https://www.healeyhero.co.uk/rescue/individual/Bob_Bradley/Bk-1/1300.html
+[44] https://www.healeyhero.co.uk/rescue/individual/Bob_Bradley/Bk-1/1300.html
+[45] Coal: a human history
+[46] Bruce C. Netschert and Sam H. Schurr, Energy in the American Economy, 1850-1975: An Economic Study of Its History and Prospects. pp 60-62.
+[47] Safety first, a short history of occupational health
+[48] A Short History of Occupational Health
+[49] Safety first
+[50] A short history of occupational health
+[51]National Museum of American History, Smithsonian https://americanhistory.si.edu/collections/object-groups/mining-lights-and-hats
+[52] https://www.britannica.com/topic/history-of-Europe/The-rise-of-organized-labour-and-mass-protests
+[53] Registers of Mine Accidents (PA) for the Anthracite Districts, 1899-1972
+[54] Registers of Mine Accidents (PA) for the Anthracite Districts, 1899-1972
+[55] https://en.wikipedia.org/wiki/Coal_mining_in_the_United_States
+[56] https://en.wikipedia.org/wiki/Coal_mining_in_the_United_States
+[57] Safety First
+[58] https://en.wikipedia.org/wiki/Labor_unions_in_the_United_States
+[59] Safety First
+[60] MSHA: https://web.archive.org/web/20061229061425/http://www.msha.gov/DISASTER/MONONGAH
+[61] Safety First
+[62] Safety First
+[63] https://en.wikipedia.org/wiki/Coal_mining_in_the_United_States
+[64] https://en.wikipedia.org/wiki/Coal_mining_in_the_United_States
+[65] https://en.wikipedia.org/wiki/Coal_mining_in_the_United_States#/media/File:Coal_Fatalities_-_US.png
+[66] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885287/
+[67] Hollnagel
+[68] Hollnagel
+[69] Hollnagel
+[70] Hollnagel
+[71] Weick
+[72] Weick
+[73] Perrow
+[74] https://www.jstor.org/stable/41761169
+[75] From Searching for Safety: “”In summary,” Sagan and Afifi conclude, “economic development has been shown to add approximately 30 years to life expectancy.””
+[76] Ibn Hazm / erikhollnagel.com
+[77] Coal: A Human History
+[78] https://en.wikipedia.org/wiki/Efficiency%E2%80%93thoroughness_trade-off_principle
+[79] Searching for Safety page 227
+[80] A Short History of Occupational Health, page 49
+[81] Cautionary Tales, The Inventor Who Ended the World
+[82] Cautionary Tales, The Inventor Who Ended the World
+[a]commerce? or industry? or economic activity? or the workplace? or life?
+[b]inclined to say here that social distancing *is* the technology (to the extent it can be written down and reproduced elsewhere) but requires no additional technological apparatus
+[c]also "sustained"
+[d]may be interesting to make a tangential remark on the aviation near-miss database in relation to the actual accidents
+[e]the emergent socialized benefit is a really interesting point that I want to keep in mind as I take another look at the other drafts. Certainly it bears some relevance to the commons management literature
+[f]19th?

@@ -1,0 +1,157 @@
+﻿Emoji Legend
+📝 = section that needs further prose development.
+🧩 = piece of the argument. current length is a result of ordering the argument, not necessarily how long the section needs to be.
+🐍 = needs evidence, do not trust! prioritize getting evidence for these points above other tasks.
+Brown text = tentative points that are unfinished, includes commentary.
+________________
+
+
+📝 Introduction
+* The internet has yet to produce communities of scientific and intellectual inquiry that rival legacy knowledge institutions
+* But because new information behaviors on new media layers do not interface well with older institutions, there is increasing conflict and pressure for reconciliation between these two knowledge environments
+* In this paper we’ll look at some of the features that make existing knowledge institutions successful, and compare them to the new institutions emerging on the internet
+* Through this inquiry, we identify what we call a “credit culture”: a set of protocols that define a community of knowledge over space and time
+* What can we observe about the nascent “credit cultures” that are forming on the internet? How is power accruing to different knowledge communities in similar or different ways? What could make internet knowledge communities more successful?
+Part 1
+* The institutional repository of the world that internet migrants were born into: law, academia, science, medicine, business, trades.
+* 🧩 The importance of institutions
+   * institutions form the bridge between past, present, and future
+   * institutions constrain and supply certain forms of human behavior [North]
+   * communities of practice know how to get stuff done and train people to do it [Wenger & Lave]
+   * Give some examples of both civilization-critical and life-enriching legacy institutions throughout
+* 🧩 Defining scope: which institutions do we care about? Knowledge communities
+   * knowledge communities generate questions and answers that embed wisdom and drive progress
+   * These communities are responsible for shaping the world of thought and intellectual inquiry via philosophy, and share extensions into the world of practice
+   * Discuss the relationship of knowledge communities to communities of practice. E.g. theoretical psychology and clinical practice
+   * We aren’t interested in communities of pure practice which persist through the reproduction of tradition. In short we care about communities which persist over space and time through using written or recorded media.
+   * Discuss formal properties of the types of knowledge communities we’re interested in
+   * 🐍 Maybe something about how written / print media has shaped knowledge communities over time, and or shaped today’s institutions. This could start with Plato’s Phaedrus, or could be the link to some of the “bureaucracy” references [von Mises, Weber, Castells, Graeber]. This part sets up the introduction of “credit culture.”
+* 🧩 The idea of “credit cultures”
+   * We are proposing a name for the protocols that define a community of knowledge over space and time and allow for its continuity: a “credit culture.”
+      * 📝 Unpacking and justifying use of the term “credit.”
+      * Philologically, the “cred–” root is at the heart of many of the salient features of knowledge communities that persist: credentials, credibility, crediting, credence
+   * Explanation of the components of credit cultures. We will dig into each in turn in a later section.
+      * Certifying and legitimating knowledge
+      * Assessing progress
+      * Preserving and maintaining knowledge practices
+      * Assigning reputation, codifying provenance and propriety
+Pivot
+* 🧩 Why focus on credit cultures?
+   * successful institutions are definitionally those which obtain resources and achieve entrenched privileges. the most successful are able to rewrite themselves - legally and behaviorally - into society’s definition. Eg: In the way that it is hard for us to imagine a world without the banking and credit money system.
+   * Just as credit cultures form a part of sustained institutions, institutions that entrench themselves entrench credit cultures as valid ways of producing knowledge. An entrenched institutional ecology = an entrenched epistemology
+   * 🐍 shifts that involve new institutions coming into power often ((result from, produce, or coincide with?)) significant epistemological crisis
+   * describing the current moment
+      * new technological media layers are causing new information behaviors that do not correspond to the credit cultures of existing institutions. this itself is causing epistemological crisis and the rise of uncorrelated institutions
+      * At the same time, we see a big shift in the material conditions for intellectual work. This point requires further development. Historically this has produced dynamic periods of intellectual creativity, at least in philosophical fields [collins]
+      * However, this change is also challenging some of the core components that made prior credit cultures viable.
+   * Therefore, we think it’s important to take a deep look at the composition of a credit culture. What makes specific knowledge communities work over decades? And what kind of institutional ecology does that lead to? What can we observe about knowledge communities that are forming on the internet?
+   * So we will look at new types of institutions that are evolving in tandem with recent technologies, what can we observe about the “credit cultures” that are forming? How is power accruing to different “knowledge communities” in similar or different ways?
+Part 2 - Comparing old & new
+* Let’s look at some already-institutionalized (legacy) knowledge communities
+
+* 🧩 LKIs as communities of practice [wenger & lave]. We start with the CofP framework because it introduces the contextual matter of knowledge institutions as essential to the social practice and the reproduction of the institution
+
+* 🧩 What does this context consist of? An institutional description of university knowledge work with examples woven in. The entire right column of the research questions chart goes here. In order of most local to most abstract:
+
+   * the local specificity of the collaborative “work site” [garfinkel]
+   * shared types of questions, shared types of tools, shared language worlds [kuhn, Williams]
+   * regular in-person meetings and scientific cabals [collins, price]
+   * shared social practice and constant learning process toward identity of mastery [wenger & lave]
+   * Discrete boundaries between individuals and organizations [ong, stanley]
+   * funding mechanisms and shared objectives which strengthen these “lanes” [stanley]
+   * 🧩 Epistemology and the construction of (knowledge) fields
+
+      * 🐍 How does—or did—an epistemology arise from the legacy institutional ecology?
+      * 🐍 Something about the premier status of “scientific” knowledge
+      * rise of the royal society and then what replaced the royal society?
+      * science and industry?
+      * 📝 Return to the notion of “credit cultures” and show how the evidence supports our definition
+
+      * 🧩 What institutions are “native” to the internet?
+
+         * New, different types of media—social media, forums, algorithms, and networked publics [boyd, kelty]
+         * New, different types of organizing logic—peer production, fandoms, and swarms. [benkler, jenkins etc, rafa]
+         * Here we can introduce a few of the IKCs as examples that we’ll go through in more detail later
+         * EA as an example of an IKC that effectively maintains knowledge and a shared canon to its benefit
+         * Briefly cite a few fandom related examples
+         * [reference] “Points of Contact Between Activism, Populism, and Fandom on Social Media” for #freebrittney
+         * [reference] “Exploring The Dynamic Between Online Social Infrastructure and Online Community of Practice in Social Media Fandom” for general discussion of how fans develop communities across online social infrastructure
+         * Internet-native institutions assume their shape by embracing the most obvious formal properties of the web: speedy distribution, replication, scalability, user-generated content
+         * brainstorming
+         * there wasn’t tooo much that was useful from the “how do intellectual communities progress” paper but I thought it was interesting they discussed discrepancy between theories of progress that prioritize novelty vs theories of progress that prioritize convergence [passage below]
+
+            * “Next, one difference in emphasis between debates about scientific and philosophical progress is the importance accorded to novelty and convergence.
+            * Philosophy of science shows a preoccupation with discovery. Conversely, regarding philosophy, the focus is on consensus on the correct views. A comprehensive theory of progress will do justice to the importance of both novelty and of convergence. And finally, progress seems to be a gradable notion—intellectual communities can make partial progress (and regress) relative to some intellectual end. More precisely, progress is gradable both with respect to the scope of novel contributions and to convergence. Some novel discoveries contribute more than others, and an intellectual community can converge on the truth to greater or lesser extents. Each of these thoughts should be accounted for in the framework we use to think about progress.”
+
+            * Made me wonder about internet-specific determinations of what information is important (emphasis on spreadable and repetition over lineage progression and novelty) and if that leads to emphasis on convergence as part of what “progress” looks like
+
+               * 📝 Brief comparison again to the “legacy” institutions.
+               * these differences can be only partially accounted for by technological “structuring” or determinism [winner, turner, i forget who my favorite references on this are]
+
+               * 🧩 Brief discussion of technological vs social determinism. what is our perspective on this?
+
+               * 🧩 Information behavior of knowledge communities
+
+                  * LKIs deal with knowledge in a qualitatively different way than internet knowledge communities (IKCs)
+                  * LKIs: enshrined and certified knowledge, synthesized and published.
+                  * IKCs: diffuse knowledge that people attach themselves to in brief affiliational ways, ongoing and in-process. Work and ideas are published and given a false sense of finality, creating a sense that things are “always-in-progress”
+                  * “Languaging” into existence and creative misprision (Striphas, boyd, warner, Williams)
+                  * Infrastructure: what kind of media support the work in distributed contexts?
+                  * Collapsed knowledge contexts: the opposite of a functioning community of practice [boyd, meyrowitz]
+                  * Identity: no milestones, no identities of mastery, issues of “blocked access” (wenger & lave)
+                  * 🧩 What sort of institutions can be built? Other types of knowledge communities and why they only comprise some ingredients
+
+                     * 📝 Swarms [rafa], Open source [kelty], Fandoms, Wikis, Algorithmic similarity clusters, “Big accounts”.
+                     * Alt: what is the design space for a new credit culture?
+                     * What are the ingredients of a credit culture within this new space (especially ones that differ)
+                     * The role of lifestyle philosophies [collins], and what else is close to evolving?
+                     * Open areas for new research to go on
+                     * Some examples of organizations that are trying to build proper institutional KCs today
+
+                        * DeSci, Progress Studies
+                        * Despite successes in peer production institutions, IKCs have not succeeded in creating robust credit cultures, with one or two notable exceptions. We will explore why and how that might be corrected
+
+                           * when we say robust do we mean their outputs can compete for legitimacy w those of legacy institutions
+Case Studies
+                           * Rationalism and the rise of effective altruism
+                           * Counter case study: accelerationism
+                           * I currently think we should do the case studies first so we have better examples to work through when we discuss IKCs properly. But not entirely convinced
+                           * might be cool to talk to more web 1.0 communities about communities that didn’t survive
+                           * there’s probably some chartmaking we can do depending how many we collect
+📝 Conclusion
+                           * Toward an internet-native credit culture, and random prognostication and commentary
+
+                           * We want new credit cultures to emerge. It would be good if this were to happen. However, the new credit culture is undergoing a break with previous knowledge cultures, because print media publications and archiving are being superseded by different forms of media
+
+                           * The current historical moment is an impasse because the epistemology of the older credit culture is being actively challenged, but the new infrastructure has yet to develop ways of certifying knowledge. In the absence of this, only the instrumental reasoning of tech companies seems ‘valid’
+
+                           * There are attempts to take over older credit cultures and their attached institutions - but not yet formal knowledge validating systems of their own
+
+                              * they can also attempt backwards-compatibility with legacy institutions to leverage legacy influence
+                              * Building this may at first seem like endeavoring to build “useless” knowledge - in the way that “science” was originally seen as a gentlemanly activity performed by civilized men, not a profession to itself. It may seem useless to begin with. But it’s necessary for the other benefits it may later provide
+
+                              * AI is not a solution* this is a footnote
+
+                                 * LLMs have the power to consolidate … they basically produce things that feel “legitimate” through breadth of inputs but is really no better a mishmash than a human could produce
+                                 * only statistically meaningful not semantically meaningful ***
+                                 * chatgpt can’t use epistemic status tag that rationalists came up w
+                                 * the way the gpt UIs are designed make it seem like the knowledge is static or reproducible
+                                 * mcluhan argument we like - there are faster forms of media
+
+                                 * epistemological crisis being the imperative for change
+
+                                 * baconian science - bacon invented current scientific method. has to be based on in the world evidences vs other types of scientists wanting to base it on logical inference
+
+                                    * this was a shift that had nothing to do with the shift in media technology
+                                    * Evan… protocol labs efforts, they’re an interesting player because they’re implicitly interested in building a new credit culture on new media rails (desci culture)
+
+                                       * eth foundation same level as protocol labs
+                                       * desci question….. we’re talking about “science” but science is different from other types of intellectual inquiry. it operates pretty differently. social sciences bears more resemblance to philosophy than to science. We shouldn’t necessarily exclude science as a theme from this work, even though the requirements for validating scientific knowledge are more strenuous than other types of intellectual production
+                                       * (also code)
+                                       * the desci question could be an interesting case study. its the most direct attempt to do what we’re talkimbout
+                                       * see researchhub drama
+                                       * noodling on… ethereum foundation, the funders of this program - what they’re hoping to get out of it. we’re not really answering their questions of “how do we steward the protocol and understand what it’s for” we’re most suited to comment on the project and the ethereum foundation’s role
+
+                                          * what do we want to communicate to them? what is their strategic position as funders of an intellectual culture through ppl getting rich on crypto
+                                          * they’re foundation level stakeholders who we have more leverage with than we do with a traditional foundation.
+                                          * how should they be thinking about fostering intellectual work that contributes to their overall goals

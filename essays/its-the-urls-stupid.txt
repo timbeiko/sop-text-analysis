@@ -1,0 +1,726 @@
+
+
+    Motivation & Rationale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    false 2023 05 03T05 19 07Z
+
+
+
+
+
+              Summer of Protocols  Retrofitting the Web
+
+
+
+
+              Technical Note 1
+
+
+
+
+
+
+
+
+      The problem that I'm trying to solve or at least contribute in some
+      small way to a solution has been notoriously hard to articulate
+      I've narrowed it down to not one  but three points of departure
+
+        Repairing a medium Hypermedia has been an object of both theory
+        and practice for decades preceding the Web and even before
+        computers  The Web now ubiquitous traded off a lot of really
+        powerful ideas in return for not only easy implementation and
+        deployment but also easy  instantaneous  global  publishing
+        plus one key capability the others categorically lacked  links
+        that cross both system and organizational boundaries  But  there
+        is nothing in principle preventing those powerful ideas from
+        earlier hypermedia systems real and imagined from being grafted
+        back onto the Web  It just needs a clear vision and a little
+        elbow grease Kicking off a Jevons Paradox
+
+          If that proposition isn't valuable enough on its face  consider
+          the problems early  and proto   hypermedia pioneers were trying
+          to solve
+
+            1895  Paul Otlet wanted to organize the world's knowledge 1945
+            Vannevar Bush wanted to supercharge individual intellectual
+            pursuit 1960  Ted Nelson wanted and still wants  among many
+            other things to open up an entire new dimension of creative
+            expressivity  and get authors paid for their work 1962
+            Douglas Engelbart literally wanted to augment human intellect
+
+          All of these goals are contingent on making it super cheap to
+          marshal lots and lots of tiny little pieces of information
+          connected to one another by an even bigger number of links
+          and this is important links of all different kinds  Compared
+          to its predecessors as a specimen of hypermedia  the Web  at
+          least out of the box  ranks mediocre to poor  Without help
+          the Web is limited in its range of expressivity as a medium
+          because the cost of managing tiny pieces densely linked is
+          prohibitive  and so it reverts back to the page being the basic
+          unit of discourse  Again  nothing in principle prevents this
+          from changing  so the question is  what could we make if the
+          econophysics of the Web were dramatically altered
+
+        Empowering people  platforms can fend for themselves
+
+          And if that appeal isn't  well  appealing  consider that
+          there is an entire class of tools that exist or would exist
+          just beyond the reach of a spreadsheet  That is  they do very
+          little besides afford data entry into some intricate structure
+          or other  do some trivial manipulations  and then represent
+          that information back to you or perhaps somebody else  Many of
+          the needs for these tools come from professionals in various
+          niches often very close the places such tools would be produced
+          The overhead  however  is still so high  that they need to wait
+          for a vendor to come along and make an app for that Personal
+          knowledge management tools are beginning to fill this gap  but
+          in my opinion they fail irretrievably in one important way or
+          another  One such failure mode is platforms  the integrity of
+          your content depends on paying regular tribute to some company
+          or other  Notion  Roam  in perpetuity  In systems where you
+          own your data  Obsidian  Logseq   its disposition is ad hoc
+          In either case  you lose a piece of what makes the Web what it
+          is  a set of open standards and protocols that provide a single
+          common interface  that doesn't have to be tailored to a single
+          vendor  no matter how progressive they turn out to be The idea
+          behind this initiative is to set a new floor  where the little
+          guy has some bargaining power  not only because they own their
+          data  but that data doesn't favour any particular vendor  This
+          is about addressing a bottleneck to getting important work
+          done as much as it is about addressing a power disparity
+
+
+
+
+
+        Repairing a Medium The Web left a set of powerful capabilities
+        on the table  Let's put them back
+
+      The Web  out of the box  is a system for creating what I
+      characterize as sparse hypermedia  long documents pages with few
+      links connecting them  If you were to take a typical website and
+      strip off the navigation bar and footer  the result may as well
+      be a collection of Word documents or PDFs in other words  print
+      era documents  In my opinion  one of the main value propositions
+      of hypermedia is being able to spare people the need to read  or
+      watch  or listen  any more than they have to  You accomplish that
+      by breaking up the content into little pieces and making them
+      subject to activation by the reader  I call this  by contrast
+      dense hypermedia  Dense hypermedia is what we had before the Web
+      from Hypercard and StorySpace  all the way back to the experimental
+      systems and the original visions of hypermedia pioneers  What these
+      systems had in common  though  is that they were all monoliths
+      hermetically sealed environments  What the Web did was make
+      hypermedia permeable  able to cross administrative boundaries with
+      no more effort than it takes to access a local resource  It is also
+      characteristically easy to deploy  with the heavy lifting hived
+      off to the poles of browser and server  the part in the middle
+      instantaneous global publication can be had practically for free
+      The Web did these unique and powerful things at the expense of
+      capabilities present in its predecessors  as well as introducing
+      some problems of its own
+
+        Backlinks On the Web  links go forward only  You can't tell what
+        links to a particular resource  That's extra work   This is one
+        of Ted Nelson's original beefs with the Web Transclusion and
+        the general problem of content reuse On the Web  you can embed
+        images  audiovisual content  and even entire other documents
+        into a document  and you can reuse scripts and presentation
+        information  but you can't seamlessly integrate an arbitrarily
+        narrow excerpt from some other source without resorting to one
+        of a zillion clunky ad hoc solutions  This leads to a dynamic
+        where it's easier to copy information than it is to reference
+        it  which in turn leads to additional overhead of keeping said
+        content up to date  and the inevitable failures to do so Other
+        linking mechanisms left unexplored On the Web  you have arcs
+        whether ordinary safe links or state modifying ones  such as
+        form submissions   and you have what I characterize as naïve
+        embeds basically just a rectangle of remote content plunked down
+        wherever you put it  In addition to proper  seamless  transclusion
+        earlier hypermedia systems had stretchtext  telescopically
+        expanding detail   conditional display  e g   Choose Your Own
+        Adventure   and view control  different representations of the
+        same content   among other interesting and powerful specimens
+        of rhetorical  didactic  and literary value left on the table
+
+      Again  the Web can do all these things in principle  and ultimately
+      does accomplish many of them in practice   but the solutions are
+      ad hoc  one off  and mutually incompatible  We're looking for a
+      principled approach to restoring these lost capabilities  so they
+      span organizations and implementations  as the Web does with its
+      off the shelf repertoire
+
+        It's The URLs  Stupid After decades of experience with this medium
+        I conclude that much of what ails the Web can be traced back
+        to the inherent tensions around URLs  HTTP URLs were initially
+        derived from file paths  File systems themselves come from an era
+        when storage was scarce and computers were typically not networked
+        As such the naming and locating of computer files a necessary
+        precursor to saving anything at all wasn't something one did very
+        frequently  and in any case  what you chose to name a given file
+        and where you located it  was typically nobody else's business The
+        cardinal sin of the Web was to attach public consequences to what
+        had until then been a largely private affair  The state of the art
+        is that URLs are shamefully unreliable  because there's nothing
+        making them be  Link rot  and its subtler relative  content drift
+        is so bad  the median survival time of a URL is something like
+        three months  Decades into this technology and there's still
+        thin  if any meaningful  systematic support for the continuity
+        of Web resources and the URLs that identify and locate them
+
+          The Web's inventor is aware of the situation  and tried to
+          absolve himself of the issue 25 years ago   Maybe we can
+          forgive him  it seemed like a good enough idea at the time
+
+        The tensions I alluded to have to do with diverging interests
+        around the content of the URL string beyond its bare technical
+        function  For one  URLs are important user interface elements
+        they lend themselves to being made intelligible  memorable  even
+        guessable and or inferrable  They telegraph information about the
+        topological structure of the website  and they provide an entry
+        point to the Web from any other  typo graphical medium  URLs are
+        therefore potentially valuable symbolic real estate  which gets
+        even more valuable as they diffuse out into the environment  The
+        tension  precisely  is that choosing a good  intelligible  future
+        proof URL takes considerable editorial and curatorial attention
+        At the same time  there is demand to pick one quickly  since
+        you can't refer to  or even save   the document until it has a URL
+
+          It has been common for some time for URL slugs to be derived
+          from document titles  but if you change the title  you change
+          the slug or maybe you don't  So then you change the title but
+          the URL doesn't change along with it  Again  from a technical
+          perspective this doesn't matter  but if you want slugs to track
+          titles  something  somewhere has to store that naming history
+
+        The elephant in the room for URL continuity is other people's
+        websites  The solution in principle is obvious  you can't trust
+        other people's websites so you will have to police every outgoing
+        link your website makes to ensure it continues to represent the
+        same thing it did when you linked it  This is an easy  if labour
+        intensive  engineering problem in theory but a hard design problem
+        in practice  so hard I am officially declaring it out of scope
+        for this project  I do  however  endeavour for this project to
+        demonstrate a model citizen on the Web that is  one you can depend
+        on its constituent URLs pointing to the same thing in perpetuity
+
+            That is  as long as the domain and Web server  cloud
+           lambda  whatever  bills get paid  I have considered what
+           happens after the sunset of DNS and single point of hosting
+           but the best I am willing to do at the moment is design a
+           system that contemplates these possibilities and leaves the
+           door open to them  without trying to tackle them directly
+
+
+
+
+
+        Kicking Off a Jevons Paradox What could we make on top of a
+        substrate of dense hypermedia
+
+      The introduction of the spreadsheet contributed to the M&A boom of
+      the 1980s  and eliminated an entire class of journeyman accountant
+      It achieved this by shrinking the problem of financial scenario
+      planning to a point  45 years later  spreadsheets are used for
+      everything  they are a veritable Swiss army knife of computing In
+      fact  to date  the spreadsheet remains the only viable fully self
+      serve programming environment available to the general public  The
+      problem is that there is a gulf between what can be accomplished
+      with a spreadsheet  and what merits an entire team to be spun up
+      to deliver an entire product  The gap is sparsely flecked with
+      solutions like R and Jupyter Notebook  but they still require
+      learning how to code  Merely knowing how to code isn't enough though
+      because of the colossal step change in effort once you exit the
+      spreadsheet capability envelope  Many such targets aren't viable
+      unless you divert your energy into creating a product  This of
+      course is another entire universe of effort on top of what it would
+      take to make a tool just for yourself  What this means  in the first
+      place  is that a lot of problems simply aren't going to get solved
+
+        I may as well preemptively state my position that I am less
+        sanguine about the potential of statistical methods of computing
+        than many  Arguments have been floated about the benefits of so
+        called generative AI for code  but if you don't understand it
+        well enough to write it yourself  how are you going to understand
+        it if the machine generates it for you  What makes spreadsheets
+        successful is that they are like Duplo blocks  pure functional
+        language  batteries included  no messy variables to worry about
+        In other words  they are intelligible General purpose programming
+        languages have so many degrees of freedom  to say nothing of
+        copious housekeeping minutiae  that being able to tell when
+        a large language model generates a subtle but consequential
+        error will still require a considerable amount of programming
+        expertise  You can't trust an LLM for anything that has to be
+        genuinely load bearing  and I doubt more parameters will make a
+        difference  I do nevertheless believe that there are many roles
+        for machine learning in software development  but facilitating
+        programming neophytes by magicking up entire production ready
+        apps is not on my list
+
+      The most significant advancement in spreadsheets in decades was
+      putting them on the Web  That was actually a genuinely good idea
+      Same with the implicit version control and collaborative editing
+      capability that came along for the ride  That said  I suspect
+      people are finally outgrowing the fundamental constraints that
+      make a spreadsheet what it is
+
+        The data types are hot garbage  insert joke about Excel trying
+        to turn everything into a date there are no composite data
+        structures beyond row or column vectors  or otherwise entire
+        rectangular regions there are no cycles  nesting  or recursion
+        there are limited means of hiding how the sausage is made  like
+        you can with the various notebook products and so on
+
+
+        Consider the following pedestrian example of the limitations
+        of a spreadsheet  a humble contact list  one person per row
+        Now  suppose some people have more than one address  or even
+        simpler  more than one phone number or e mail  To capture these
+        values you'll need as many columns for each as the person with
+        the most of either  This situation can be palliated somewhat by
+        concepts like home phone or work email  but what if somebody has
+        more than one job   Or home  for that matter   Contrast with a
+        dedicated contacts app  which is record oriented  you can have
+        as many phone numbers or e mail addresses  each tagged with its
+        respective qualifier  per person as you like
+
+      The existence proof that people want more can be observed in the
+      proliferation of general purpose products from AirTable to Notion
+      to Roam  to specialized products  bug trackers  CRMs  even tip
+      calculators  too numerous to list  I submit that each one of these
+      is nevertheless missing at least one piece of the  second  brain
+      What makes these products viable is that unlike a spreadsheet
+      shaped problem  individuals can't fashion their own solution or if
+      they can  their solution is cumbersome enough that they prefer the
+      niche product Imagine spreadsheets didn't exist and you needed a
+      vendor to show up and make a separate app for every trivial little
+      thing you use a spreadsheet for  What I'm arguing is that this
+      is in fact the situation  just a little bit farther up a gradient
+      of  not complexity per se  but let's call it perhaps intricacy of
+      structure  There simply isn't enough software development capacity
+      for there to be An App For That   for every that
+
+        Even if there was  the apps would be walled off from one another
+        as apps are wont to do  As primitive as spreadsheets are  they
+        are at least permeable  the CSV file format is the de facto
+        lingua franca of structured data  for some value of the term
+        Which is depressing  but at least it's something  Try making
+        adapters for every pair of APIs under the sun assuming their
+        respective apps even expose them
+
+
+         DIAGRAM TBD
+
+          Once I figure out how I want to draw this spectrum lookin' thing
+
+            not even worth the trouble of a spreadsheet use a post it or
+            calculator or whatever well within spreadsheet rubric at the
+            edge of spreadsheet capability envelope  no macros  if you
+            are using macros you are Actually Programming can't be done
+            with a spreadsheet but worth writing code for assuming you
+            can code can't be done with a spreadsheet but categorically
+            not worth writing code for worth writing code for  but only
+            if you can productize it serious software product need a
+            whole team company to support it
+
+          The idea is to move the line of what can be achieved by an
+          individual  and is furthermore worth doing  to the right  and
+          even fill out the left a little bit
+
+
+      I posit that if we had  at the core  a way of entering  representing
+      and exchanging structured data not to mention its global
+      instantaneous publication plus a handful of sundry computations
+      we could dramatically extend the capabilities of an individual
+      knowledge worker  before they had to touch anything that looked
+      like conventional  imperative code  A number of the problems that
+      aren't worth solving because they currently require a lot of time
+      to program if not spinning up an entire team and company and capital
+      to tackle will be within reach  This implies that the companies who
+      currently occupy this zone will have to move up the effort gradient
+      Some will go the way of those journeyman accountants  Oh well
+
+        To set my argument apart from the current profusion of no code
+        low code systems  what I still don't see a lot of again  having
+        spent my entire adult life and then some in this industry are
+        ways for ordinary people to enter  by hand or programmatically
+        arrange  and represent structured data  That is  notwithstanding
+        the 45 year old spreadsheet  and all its limitations
+
+      Two decades ago  the media theorist Lev Manovich posited that
+      the database by which he meant navigable hypermedia environments
+      would be the transformative medium of the 21st century  just
+      as film transformed the 20th  I submit that we feel the effects
+      of databases on us  like victims ultimately of governments and
+      corporations but we still can't afford our own  After 25 years
+      immersed in this industry and I showed up late in the game it's
+      still a serious project to do anything on a computer that is more
+      sophisticated than a spreadsheet  and waiting around for a vendor to
+      serve my niche  esoteric needs especially without onerous strings
+      attached is a laughable proposition  So what would happen if the
+      unit economics of the database or more appropriately  the knowledge
+      graph were to get dramatically cheaper
+
+
+
+
+        Empowering People
+
+
+        Who owns your attention
+
+      there isn't enough software development capacity to do all the
+      things  and the capacity that is present extracts a shitton of
+      rent i'm basically arguing that the hole between spreadsheet and
+      software that genuinely merits a company to be built up around it
+      is bad for society gotta talk about the intersection of
+
+        climate change increasing wealth inequality misinformation
+        disinformation eroding democracy
+
+
+        Climate Change While the germ of this project goes all the way
+        back to 2006  I got a boost in 2015 when I read Bret Victor's
+        sprawling essay on climate change  I was particularly moved by
+        the chapter called Media for Understanding Situations  in which he
+        argued for the use of models and data in interactive simulations
+        to inform public policy discourse  It was enough of a lift for
+        Victor to do all he did to make the argument  we shouldn't also
+        expect him to figure out how one would pull it off at scale
+        although he did put a dent in it  What got me interested was
+        that the technical problem of marshalling data and computational
+        models and making them available is one I actually know something
+        about The complicating factor here is that Bret Victor wrote his
+        essay in 2015  when it was still possible to believe that if you
+        just gave people good information  they would make good decisions
+        That is  before the bullshit renaissance that was in full swing a
+        year later  I nevertheless believe the technical problem is still
+        worth solving  just perhaps not for the exact original reason
+
+
+        Increasing Wealth Inequality Climate change is obviously Bad®
+        and We Should Do Something  about it  The We in this case is
+        typically shorthand for citizens of democracies  Except our
+        governments only do what rich people want  and the things rich
+        people want are typically good for them and bad for everybody
+        else   Or  if it is any good for us  it's better for them somehow
+
+          You don't have to even posit some grand conspiracy for this
+          mechanism  enough of it can be accounted for with boring old
+          availability bias  rich people and politicians have a lot of
+          access to each other  even if those interactions were completely
+          benign In democracies you can think of this as part of the game
+          rich people and politicians collude in the gaps  on everything
+          that isn't acutely invidious enough to get the latter voted
+          out  Sometimes even that isn't enough  in Canada right now we
+          have a government in its third term a minority at that pushing
+          through bill after bill that nobody  well  somebody  wants  and
+          they keep getting re elected because the voters understand the
+          other guys would do the same  but worse Presumably how you keep
+          this behaviour in check is an engaged citizenry who has a set
+          of baseline expectations across the board  and a list of things
+          that nobody  regardless of who they vote for  will tolerate
+
+        As wealth inequality sharpens  the dynamics produce a decreasing
+        headcount of individuals  each with an increasing quantity of
+        resources at their disposal  Everybody else is distracted with
+        their own affairs  many of which are economic in nature  Too
+        busy putting out fires to do things like participate in civil
+        society  Now  when people write on inequality they usually mean
+        income inequality and remark about how unfair it is  I'm not
+        particularly interested in questions of fairness  rather I view
+        extreme wealth inequality  when there are eight billion people
+        on the planet and counting  as hazardous to human civilization
+
+           LORENZ CURVE SIMULATION GOES HERE
+
+            I don't love Lorenz curves because they represent perfect
+            equality as not only normative but somehow achievable  Perfect
+            equality in an economic system is an unstable equilibrium
+            that disappears the instant agents start interacting  And
+            even if it was somehow stable  perfect equality would amount
+            to political gridlock  What you're going to see instead is
+            something power law ish  and the question to ask is what
+            is the value of the parameter  Represent that as a Gini
+            coefficient and the higher number corresponds to fewer people
+            in charge of more resources each  which you can interpret
+            roughly as how much of other people's attention can one of
+            these individuals divert
+
+
+
+        My thesis is essentially that people lose resolution as the
+        pool of resources under their control increases  as the pile
+        gets bigger  they just round off at bigger orders of magnitude
+        When individuals are in control of vast quantities of resources
+        even the smartest  most well meaning person will make what are
+        effectively targeting errors  What we're more likely to get
+        though  are people who are not well meaning  nor even especially
+        intelligent  This happens irrespective of whether those resources
+        are yours  The difference with private wealth is it's your money
+        so you're only accountable to yourself
+
+          When you don't have a lot of money  you have to think
+          scrupulously about how you allocate every penny  When you have
+          more of it  there comes a point and it doesn't take much where
+          you can afford to be sloppier  Not only that  you kind of have
+          to be sloppier  because if you acted the way you did when you
+          didn't have any money  you'd have all this money left over
+          and no time to enjoy it  So you allocate bigger and bigger
+          chunks at once  Eventually  you hire someone to do that for
+          you  and they hire someone  and so on  and that's basically
+          the economy in a nutshell
+
+        The reason why I focus on wealth and not income is because wealth
+        represents how much of other people's attention you can divert
+        at any instant  Income is at best a derivative of that   If you
+        want you can think of net  of course income as in the limit what
+        you get for your attention and wealth as how much attention you
+        can command
+
+
+        Strategies for getting stupendously wealthy  feel free to mix
+        and match
+
+          find some activity that reliably earns you a dollar in profit
+          repeat a billion times play a sequence of super convex
+          compounding parlays externalize costs and risk  heads I win
+          tails you lose  etc own something that enables you to extract
+          economic  rent
+
+        Software systems contain these ingredients in unprecedented
+        abundance
+
+        When you're poor you can't speculate cause you can't afford to
+        lose anything  ever  When you're rich  you can make tons of risky
+        bets with huge antes and way way bigger upsides relative to any
+        conceivable downside  lose most of them  and still come out on
+        top  because and this is true for everybody but it takes being
+        rich to really leverage it your adventures only have to pay off
+        on average  There's also a huge chunk you can just burn without
+        any expectation of return  That means copious vanity projects
+        and white elephants  lavish consumption  wild speculative bets
+        and unending rivalries with peers  Rocket to Mars  indoor ski
+        hill  solid gold toilet  giant limestone pyramid  ultra super
+        megayacht  whatever  Do you really want the attitude of the
+        people setting the global agenda to be I'll be fine regardless
+        of the outcome  so YOLO
+
+        the final remark i'll make before i close this section out is
+        wealthy people get a lot of leverage  that only becomes more
+        pronounced under conditions of extreme inequality
+
+        human civilization has laboured under much more extreme wealth
+        inequality than we see today but that was before the anthropocene
+        pick your favourite emperor  they could command entire nations
+        but couldn't put a scratch in the planet's ecosystem no matter
+        how hard they tried
+
+        climate change is a problem of the modern era basically a side
+        effect of us being really successful as a species  of business as
+        usual but also a story of people who knew and sold that existence
+        to us anyway
+
+        if we want to survive as a civilization we have to evolve new
+        ways of organizing and people who do well with the current way
+        of organizing are always going to get in the way of that
+
+
+        The sharpness of the inequality curve is going to track with
+        the topology of the economic network  sharper reflects one that
+        is more concentrated and centralized  blunter is more peer
+        to peer and distributed  A gentler wealth distribution curve
+        means the people at the top can't divert as much of everybody
+        else's attention for their dumb bullshit  To blunt the curve
+        you have to be able to cut these entities out of your economic
+        interactions  You have to be able to deny them your attention
+        In Bruce Sterling's words  keep more of the money yourself
+
+
+        Misinformation & Disinformation One evolution in my own thinking
+        over the last several years was a Copernican inversion in
+        how I conceptualize information  belief  rhetoric  and reason
+        okay what exactly do i want to say about this something like
+        more information means more misinformation most instances of
+        misinformation are barely consequential  people absorb a loss
+        that amounts to a minor inconvenience and carry on
+
+           at least the consumers of that information  misinformation
+           about a person can be seriously harmful to that person
+          so you have a cipolla stupidity area effect there
+
+        corollary  you can believe a lot of wrong shit and it doesn't
+        matter ooda loop is not natural  it's something you have to train
+        into people aren't looking for facts to integrate into a model
+        to make decisions  they're looking for stories that justify what
+        they're already motivated to do
+         or what they've already done
+        okay but what if you actually wanted accurate information
+        how would you get it trusted sources  including identifiable
+        authors   receipts  full bibliography  tamper resistant  expiry
+        date also wait to respond  unless the outcome is worse if you
+        don't may need to pay for good information if misinformation is
+        sufficiently consequential will need some kind of pricing model
+        for that  ie how much is appropriate big thing though is people
+        who want good information should be able to get it hypothesis
+        is they will outperform the ones who insist on bad information
+        albeit subject to certain conditions
+
+
+
+        The Erosion of Democracy the whole thing about voters getting
+        the governments they deserve
+
+          At this point I should address the well maybe we need to get
+          rid of democracy crowd  I submit that democracy is a handbrake
+          on the really  really bad outcomes  at least when it functions
+          Also note I'm not American  so my experience is different
+          from them The point is that there are limitations on what
+          individual human beings can address and coordinate around
+          Also  if you're holding out for a world order presided over
+          by a benevolent AI dictator à la Culture series  the planet
+          will probably be a cinder by then
+
+
+
+        How Anything I'm Doing Could Possibly Help i'm not pretending i'm
+        saving the world here radically more powerful ways of authoring
+        consuming  verifying information radically more powerful ways of
+        communicating facts radically more powerful ways of storytelling
+         sorry  the information density of substack blows
+
+        XXX THIS IS RIPPED FROM ABOVE SO REWORK IT LOL The problem with
+        these niche products is that they are sold as subscriptions  and
+        so the intricate memory palaces we create with them are contingent
+        on plugging some meter in perpetuity  It would be one thing if
+        it was just a matter of money  but there are mounting qualitative
+        concerns with SaaS platforms that are becoming apparent as we gain
+        more experience with them  To hedge against platforms  we need
+        to be able to possess our own data but the data is worthless if
+        it can't be used outside the particular platform that disgorged it
+
+          Platforms leaving aside the cornucopia of self dealing
+          they engage in with your data have outages and data loss
+          incidents  they get hacked  and they go out of business  Or
+          they get acquired  and the new owner shuts down the product or
+          changes its policy  Or they just change their policy anyway
+          to whatever they like  whenever they feel like it  Consider
+          how certain platform companies responded to the war in Ukraine
+          by denying service to otherwise uninvolved Russians who were
+          literally minding their own business  One could argue that's
+          an appropriate response  but if some company you depend on
+          decides without warning that for whatever geopolitical reason
+          they're no longer going to serve you  you're screwed if you
+          can't take your business elsewhere
+
+
+
+
+
+      The problem that I'm trying to solve or at least contribute in some
+      small way to a solution has been notoriously hard to articulate
+      Some prior art I can draw on for part of  an explanation is the
+      independent researcher Bret Victor's 2015 climate change essay
+      because climate change is one possible point of departure
+
+        The essay itself is on the order of 12 000 words  and richly
+        illustrated with animations and interactive demonstrations
+        Victor said he took over two months to write it
+
+      The essay is an exhortation to people trained in various technical
+      disciplines  about specific things they can do to address climate
+      change  In it is a chapter with the somewhat obscure title
+      Media for Understanding Situations  Victor uses as his example
+      the situation of public policy discourse where quantities are
+      involved and what public policy doesn't involve  at least monetary
+      quantities  He remarks that it's possible to use the same data to
+      argue either for or against a given policy prescription  simply
+      by tweaking some of the variables  The conventional op ed format
+      Victor argues  simply doesn't have the bandwidth to communicate this
+      nuance  because it has to set the dials somewhere  His solution
+      hand said dials over to the audience  so they can determine where
+      if at all  is the sweet spot of parameters that intersects plausible
+      acceptable  and effective
+
+        Major media outlets like the New York Times and Washington Post
+        produce these kinds of interactive features from time to time
+        but they tend to be big budget  one off endeavours  Victor is
+        calling for this capability to get cheap enough to do everywhere
+
+      This essay was written a year before what can charitably be
+      described to use a technical term as a bullshit renaissance  Its
+      rise highlights a closely related problem  it is manifestly no
+      longer sufficient assuming it ever was to simply give people
+      information  though accurate information has scarcely never been
+      more necessary  To animate the facts  there needs to be a narrative
+      and not every audience either understands or is motivated by
+      the same story  A superposition of stories that hopefully all
+      draw the same conclusion has to exist all at once  The medium
+      for understanding situations therefore has to understand not
+      only the situation that needs to be communicated  but also the
+      various overlapping constituencies to whom a given situation must
+      be communicated  and what their often diverging  if not outright
+      conflicting expectations are Climate change  moreover  is a prime
+      example of a global  existential  wicked problem
+
+        there is no correct solution  only better and worse ones there
+        are numerous stakeholders involved  with diverging  if not
+        outright conflicting interests most  if not all solutions will
+        have identifiable winners and losers most solutions involve most
+        constituencies giving something up there is often disagreement
+        about what the problem even is and in the extreme case  whether
+        it even exists
+
+      So it is with climate change  there are people who have demonstrated
+      that they are perfectly content with the prospect of living on a
+      cinder  as long as they're in charge of it
+
+      support communicators to communicate accurate information
+      persuasively you don't need accurate information to communicate
+      persuasively  but if you're going to claim accuracy you'll need
+      to cite your sources and those sources will have to be legitimate
+
+        Arguably a structural basis for the bullshit asymmetry principle
+        that bullshit costs an order of magnitude more effort to refute
+        than to create stems from the fact that non bullshit has to cite
+        and just as if not more importantly  vet its sources Worth noting
+        as well that bullshit just got at least another order of magnitude
+        cheaper to produce with generative artificial intelligence
+
+
+      the state of the art of scientific communication sucks basic unit is
+      the paper  only just starting to make data available no publication
+      conventions for data replication is in the toilet Scientists don't
+      need publishers as much as they need a publishing function science
+      journalists often misinterpret results
+
+      we can posit a certain category of tool it isn't really a tool as
+      much as a thin wrapper around data really just a way to create
+      a constellation of small  structured  highly connected chunks
+      of information  and navigate around in it plus a handful of ways
+      to manipulate how said information is represented plus a handful
+      of other operations besides the pulverized bits are addressable
+      meaning they can be referenced and reused pkm  tools for thought
+      second brain  are in this category add collaboration support and
+      message queue task scheduling and you net most groupware  which
+      also means  modulo scaling  you net most social networks a big
+      subcategory is niche tools for professionals
+
+
+

@@ -1,0 +1,368 @@
+﻿DRAFT NOTE: This is an early draft. It’s missing citations, footnotes, and references which will all be added shortly. Please let me know what parts work, what don’t, and whatever else I’m missing. 
+-DL
+
+
+Standards Make the World
+
+
+“Now there is a popular fallacy about this business of setting standards. It is the belief that it is inherently a dull business. One of the reasons that I am glad to see the present history appear is that I believe it will help to dissipate this misunderstanding. Properly conceived the setting of standards can be, not only a challenging task, but an exciting one.” 
+
+- Vannevar Bush, 1966
+MEASURES FOR PROGRESS: A HISTORY OF THE NATIONAL BUREAU OF STANDARDS
+
+
+Everything in the built environment is touched and shaped by standards. These nearly invisible rules establish trust between engineers and give rise to commerce, industry, and possibilities. Even now, just by reading these words, you are relying on dozens, if not hundreds, of guiding technical standards. Some of them might be familiar, like the World Wide Web (WWW) or the Internet Protocol (IP) that deliver packets of information to your device. What about the standards that went into manufacturing it, like the allowable Radio Frequency Interference (RFI) and Electromagnetic Interference (EMI) limits for that device? What about the shipping and transportation standards that brought it across oceans? Would you know where to find the spec? What about the group that created them? Or who maintains them?
+
+
+The rabbit hole of questioning extends to most every object in our lives. Technical standards form the foundation of our modern world. They're often mistaken as limits or boundaries to creativity, which can happen when they're poorly implemented. But if they're well designed by engineers on the front lines, standards can become enabling technologies: the internet, shipping containers, time.
+
+
+Techno-competition—startups, companies, and new products—get all the attention, but techno-cooperation—standards and protocols—drives an equal measure of civilizational progress.  
+
+
+Despite their importance, standards get little attention or appreciation. Most people, if they're aware of them at all, think they’re boring and overly bureaucratic. This is partially due to the word itself—standard. It sounds basic and is broad enough to cause constant confusion. A standard could refer to anything from the Unicode system that approves new emojis to the bacteria levels allowed in pasteurized milk. The name is just a small part of the problem. Another issue is first impressions.
+
+
+For many, the first and only exposure they have to standards is as a cursory hurdle. They encounter them as a constraint on the way to some other goal. For example, a product designer runs into several safety and interoperability standards through the course of making a new product. An architect is bound by building codes in designing a new home. Even managers are guided by standards—ISO 9000—when they try to add quality assurance measures to company processes. Then, when they peek behind the curtain—when they start asking why that standard is the way it is—they find a committee or a consortium or some other process that seems impenetrable. 
+
+Understandably, this is where most people stop thinking about standards. They adhere to their basic legal obligations and they move on.
+
+
+This is unfortunate. A deeper understanding of standards-making—and how that process has evolved over time—creates a healthy respect for the scale of influence. Standards are some of the most powerful tools we have to affect our world. And here’s the kicker: you can make them. 
+
+
+I tried it. And the experience changed what I thought possible with technology. I played a small role on a team that made a new ocean connectivity standard.[1] The process was surprising in many ways, perhaps mostly in how it provided us with an entirely new canvas for creative invention.
+
+Standards are not divine rights. They are made and remade by (usually small) groups of people and projected into the world through various means and with varying effectiveness. And that process is dynamic. Standards are something that anyone can engage in, even though almost no one thinks to do it. But they should. You should. Too often, better societal outcomes —overcoming technological bottlenecks or ensuring new tools are safely deployed—are held back through poorly-designed or missing standards. 
+
+Shedding light on the gritty process of standards-making is a promising first step, but more could be done. There are new philosophies and approaches emerging about how better to support and sustain this important work: tending and mending the technological commons. 
+
+
+Down the Rabbit Hole
+
+
+Kids don’t grow up with dreams of becoming standards makers. I certainly didn’t. Standards were an unplanned pursuit. 
+
+My journey[a] started more than a decade ago when my friend Eric Stackpole and I were building an underwater remotely operated vehicle (ROV) in his garage. With little money and big dreams of a low-cost device, we shared the project designs online in the hopes we’d get help from others. We called it OpenROV–an open source underwater robot design. Our design goals were a 100m depth capable robot for less than $1,000 (the average market price when we started was closer to $20,000). We were modeling our effort on other open hardware projects that we had seen, like the RepRap 3D printer or the Arduino microcontroller, who themselves were inspired by open source software projects like Linux. We thought sharing the design would allow us to crowdsource ideas for an ever-improving design. 
+
+
+The project struggled and succeeded in ways we didn’t intend. The openness helped us meet new people and gather a few contributions, but not nearly as many as we’d hoped. And compared to the speed of open source software development, the iteration cycles were painfully slow. Moving physical atoms compared to digital bits proved logistically more complex.[b]
+ 
+Despite the challenges, OpenROV was effective in changing the economics of micro-ROVs. Thousands of people bought and built our initial OpenROV kits. Dozens of spinout projects and companies started from those designs, and you can now find several capable ROVs that meet our initial specs. Small ROVs got good and cheap, just as we’d hoped and not at all how we’d planned. It seemed almost an accidental outcome. 
+
+
+The experience left me with more questions than answers. Open source hardware had been a well-intentioned mirage, but there were lessons worth salvaging. As OpenROV wound down as a project and evolved as a company, I began trying to piece together what worked. I found answers in a missing history lesson. 
+
+
+A Short History of Standards
+
+
+In 2019, researchers JoAnne Yates and Craig Murphy published Engineering Rules: Global Standard Setting since 1880 where they tell the long story of standards-making. They write alm[c]ost spiritually about the role and mission of standards entrepreneurs (or "standardizers" as they call them), the unsung heroes who convene and build consensus amongst engineers and organizations. They suggest viewing the process as “an entirely different realm with a very different logic from either commerce or politics, something that developed in response to the greater social complexity that accompanied the pressure toward the greater economic integration of industrial capitalism.[d]”
+
+
+Neither state nor market, but essential to both. [e]
+
+
+According to Yates and Murphy, standards are good for three main purposes: safety, interoperability, and performance. They use the history of the early standardization efforts of steam boilers (safety), screw threads (interoperability), and steel rails (performance) as examples of each. Exploding steam boilers on riverboats caused engineers and policy makers to rally around standards for design, construction and maintenance. Screw threads were a matter of obvious convenience; standard designs would make lost screws easily replaceable by local shops. Steel manufacturers needed a way to quantify their durability and justify higher prices over iron rails, but they didn’t have an easy way to convince buyers. Performance standards—industry-wide assurances of quality—helped facilitate commerce. [f]
+[g]
+
+
+While the purposes are different enough to justify different names, they’re still all lumped into “standards”. The commingling of terms hides their utility. 
+
+
+The diffuse definition begs the first question in standards-making: What's the goal? Safety, interoperability, or performance? 
+[h][i]
+
+
+The categorization of standards is relevant for many major challenges facing society. Take the debate and discussion around AI regulation and alignment, which is fundmentally a question about missing safety standards. Holden Karnofsky and Open Philanthropy recently put up a bounty to source more case studies of effective safety standards in the hopes of gathering insight. Or take the growing demand for carbon offsets, which has shown the need for effective performance standards. The carbon market simply cannot operate without a trusted mechanism for verification. The recent exposure of fraudulent carbon credit reporting has rattled confidence and left the entire industry grasping for how to move forward.
+
+Gleaning the right lessons is predicated on a good taxonomy and a new vocabulary.
+
+
+We should have started here with OpenROV. We could have saved ourselves years of work. It wasn’t until much later that we came to the right conclusion: ocean technology was being hindered by the lack of interoperability standards. It was Eric’s insight: “Everybody wants custom shit.”[j]
+
+
+No matter what we built, our customers and partners always needed some other sensor that we hadn’t accounted for. This was a costly proposition, as every new configuration would require software, electrical and mechanical engineering reviews to ensure compatibility. There was no plug-and-play connectivity between sensors (dissolved oxygen, conductivity, pressure, etc) and platforms (buoy, robots, ships). A custom need translates to custom (and expensive) budgets[k]. Modular components and a simple, universal interface would be a better situation, but the industry hadn’t settled on any one design. The Universal Serial Bus (USB) and the other terrestrial analogs stand no chance against the corrosive ocean environments and the underwater connectors that did exist were too valuable for any of the private manufacturers to consider sharing. [l]
+
+
+Standards problems often manifest in this form, not as a tragedy of the commons, but as a failure of the commons to materialize in the first place.[m][n] The economic forces placed on individual actors create just enough friction to leave the problem unsolved, even though addressing the common challenge would benefit everyone. Technology standardization, in the words of Stephen Walli, is the art of “commercial diplomacy” and very few companies have trained or appointed diplomats. 
+
+Identifying the type of standards problem is only the first step. Then what? Again, a history lesson helps.
+The How of Standards-Making
+
+
+Standards end up as outcomes—agreed-upon specs and rules—but standards-making always involves a process, too. Yates and Murphy separate the major standards movements into three distinct waves, each with unique operating modes.
+
+
+The first wave occurred between the 1880s and 1920s[o]. The standards-making process was mostly straightforward: groups of interested parties made the case for a shared design and convinced others to join. Working groups of engineers, interested business leaders, and relevant government officials formed to oversee their adoption. Organization followed function.
+
+
+The gradual adoption of Greenwich Mean Time (GMT) is a good example, one that impacted the railroads and beyond.[2] It started as a maritime tool. British mariners kept one chronometer at Greenwich time in order to keep track of their longitudinal position. The British railways adopted GMT in the 1840s to keep the trains running on time, and other uses in Britain quickly followed. Following the British lead, engineers and scientists representing American and Canadian railways met in 1883 to create a standard railway time across the continent along with established time zones based on GMT. The adoption and implementation by the railways set the stage for the International Meridian Conference in 1884, organized at the behest of President Chester Arthur, which formally established Greenwich as the prime meridian and set the standard for global, universal time. Pragmatism ruled the day. 
+
+
+After the successful standardization work of the late 1800s, the idea coalesced into a recognizable social movement by the 1920s. Standards entrepreneurs like Charles Le Maestre, head of the British Engineering Standards Association, gained status and influence through their commitment to the common project. However, this was not usually a profession or job in itself. Rather, it was “largely made up of men who volunteered to work on technical committees because that was something they believed professional engineers should do to serve the public good.”
+
+
+They had adopted an ethic and a commitment to advancing progress through cooperative design, and were busy proselytizing the benefits to the engineering masses.
+
+
+The second wave of standards entrepreneurs went much bigger. The world wars had slowed momentum. As countries focused inward, they became wary of cooperation. But the standards pioneers had left the blueprint: network effects ruled. Le Maestre and others had shown the value of strong national standards bodies, and provided a glimpse of how international standards could go even further. The second wave started in the 1950s and thrived from the 1960s-1980s. Globalization was the story, and associations like the International Organization for Standardization (ISO) were formed to facilitate trans-national adoption.
+
+
+The momentum of ISO was buoyed by new, global industries like air travel and freight shipping, as well as a convergence of political interests. The defining standard of the era—intermodal containers—literally connected the world. Developing countries saw standards adoption as the easiest path to international markets, whereas more powerful developed countries, like the U.S, recognized the importance of standards-setting as a way to sustain trade advantages. Most countries, from Japan to Sweden, fell in between, adopting the standards that made sense from a cost saving or political perspective. Standards had gone global, with all the associated network effects and layers of bureaucracy.
+
+
+The third wave of standards entrepreneurs grew alongside the development of computers and computer networking. As engineers and companies quickly innovated, the need for standards outpaced the capacity of the international, multi-stakeholder consensus process, and a new model emerged in response. Yates and Murphy called this a “consortia-based” model, where the parties most closely involved in development (companies, engineers, etc.) self-organized to create standards that worked for their purposes. The process of formalizing these standards happened later. I call this process “disruptive standards-making” because of the close resemblance to Clayton Christianson’s model of disruptive innovation–unassuming outsiders breaking through with ever-improving technology. 
+
+
+The Internet Protocol was the pioneering third wave standard. DARPA didn’t set out to create a new type of standards-making process. The ARPANET program was created to solve a practical problem in the cheapest way possible. Vint Cerf, a key member of the ARPANET program and Network Working Group team, understood the basic motivations of the agency. From an interview with the Charles Babbage Institute in 1990:
+
+The INTERNET, which was spawned out of this conglomeration of different packet technologies that DARPA initiated, has already had a pretty dramatic impact on both the military and the commercial world as far as I can tell. You can't pick up a trade press article anymore without discovering that somebody is doing something with TCP/IP, almost in spite of the fact that there has been this major effort to develop international standards through the international standards organization, the OSI protocol, which eventually will get there. It's just that they are taking a lot of time. 
+
+
+Once again, like the original standards-makers, the organizational efforts follow an idea that is already working in practice. The recent news that Ford and GM are adopting Tesla’s electric vehicle charging standard is a good example. Tesla raced ahead to fill the need, and now even its most ardent competitors are falling in line. Disruptive standards-making falls somewhere on the spectrum between de facto and voluntary consensus—elements of both strategies mixed with heavy doses of entrepreneurial hubris. [p]
+
+
+This brings up the second important question in standards-making: Who’s it for? And what's the minimum viable buy-in needed to get a network of users started?
+
+
+The internet kicked off the next great era of standards-making. The World Wide Web would follow, starting with a small team of outsiders at CERN who got the damn thing working. This method of disruptive standards-making has caught on quickly amongst software developers. In fact, it has evolved into an entirely new idea: open source software (OSS). 
+
+
+By almost every metric imaginable, OSS is thriving. In 2022, GitHub released a report on the staggering influence. More than 90% of companies are relying on OSS in some way. More than 90M developers are on the GitHub platform and they collectively made more than 400M contributions to OSS projects in 2022 alone. And it’s big business, too. Roughly a third of Fortune 100 companies have dedicated open source program offices. 
+
+
+But more than any statistic, just ask any software developer if and how they use OSS. You’ll likely get an effusive endorsement of both the philosophy and a list of favorite projects. 
+
+
+The rise of OSS represents a full-on standards movement. Engineers build reputations through their contributions to the commons in the same way that the early standards-entrepreneurs would gain status for their efforts. It's prestigious work that raises the tide for all boats. [q]
+Standards in the Real World
+
+
+Unfortunately, and despite trying, the standards movement happening in software has hardly moved off the screen. There have been valiant attempts to create an open hardware movement—and we were an active part of that—but it’s remained niche. [r]The thinking went: take what's working about open source software, like version control and transparency, and do the same for electronics and mechanical designs. There was an entire batch of open hardware companies that tried to build businesses through open sharing. Arduino is perhaps the most famous example. They led a revolution in microcontrollers by inviting amateur electrical engineers to prototype every conceivable idea. However, the business side of Arduino was a struggle. Most open hardware companies didn’t succeed. Or when they did, the openness of their hardware played a minimal role. Makerbot, the 3D printing company which grew out of the RepRap open source project, was the most public example of having to hand back their open source bonafides. It turned out that supply chains and non-recurring engineering costs didn't match the ideals or expectations of open source. At any reasonable scale, and with anything beyond hobbyist tools, the math and operational realities couldn't square. 
+
+
+Like with OSS, the best measure of impact is a simple survey of an engineer. Ask any mechanical or electrical engineer how open source hardware has impacted their work and you’re likely to get a blank stare. It simply hasn’t caught on. 
+
+The open hardware practitioners have kept the discussion alive for the past decade, through waves of attention and momentum. Progress has been made, especially in addressing the licensing challenges of open source hardware, but there’s still room for improvement. The opportunity to create a modern standards movement in the realm of atoms — as opposed to just bits — remains ripe for interpretation and invention. And there are good examples of enabling standards in the non-digital realm. However, the projects that succeeded didn't go through any open hardware playbook, but rather by stumbling onto the disruptive standards-making process.
+
+
+The Cubesat design[s] was created by a pair of professors at Cal Poly and Stanford, Jordi Puig-Suari and Bob Twiggs, who were interested in helping their students get their experiments into space. Discouraged by the high price of launch, the two conceived of a simple, standardized satellite design — 10 cm by 10cm by 10cm — that could work with a common mechanism, the P-Pod launcher, to piggyback on commercial launches. The simple design turned out to be transformative. NASA and commercial providers agreed to carry the small payloads. It started, as Puig-Suari and Twiggs hoped, as a wonderful platform for student experimentation, but it wasn't long before entrepreneurial minds realized they could take advantage of the spec. Within a few years, commercial prototypes were flying, and the Cubesat standard had become the foundation of a new generation of companies, like Planet Labs, that were building large constellations of tiny satellites. The design was a critical and underrated component in the current space technology renaissance.
+
+
+The MIDI connector is another example.[t] The emergence of new, digital musical instruments in the 1980s created a need for an interoperability standard. One of the early makers of synthesizers, Dave Smith, the founder of Sequential Circuits, sought to fill the gap. In 1981, at the AES conference, Smith presented a paper titled “Universal Synthesizer Interface” as a proposal to make sure these new instruments could play nice together. After trying and failing to gather consensus amongst all the largest synthesizer makers — Roland, Korg, Yamaha — he found one willing partner: Ikutaru Kakehashi, the founder of the Roland Corporation. 
+
+
+“We sat down, just a small group of us, and we just said: let’s just do it. Forget everybody else, nobody else is interested in it, let’s just do it.”
+
+
+The two worked together over the next year to develop the spec. At the following year’s show, they demoed their new synthesizers: Roland’s JP6 and Sequentials’ Prophet 6000. The rest of the market quickly fell in line. It wasn’t perfect. There were bugs and missing features that drew complaints and demands for fixes. 
+
+
+“Sure, if we had gone through a standards committee and if we had spent 5 years developing MIDI, none of those things would have happened, so we kind of let that sort of thing — all the little details get fixed in the marketplace.”
+
+
+The initial rollout storms eventually passed and MIDI became the standard. More importantly, even though they didn’t know it, Smith and Kakehashi had proven the new model of disruptive standards-making. It doesn’t require everyone’s buy-in up front — just enough people to get something working, even barely. And if it works, it works. 
+
+
+Start with a small group of true believers and gradually work outwards.
+Rethinking Ocean Connectivity
+
+
+When we got a second chance at creating a ocean technology standard, we skipped the open hardware rhetoric and modeled ourselves on the CubeSat and MIDI examples. And, more importantly, this time we had a bigger team. 
+
+
+OpenROV had merged to create Sofar Ocean Technologies and the company was planning for a new, modular technology architecture that would allow us to make flexible additions and changes to our smart buoy and mooring system. Want to add a new dissolved oxygen sensor? No problem. Need temperature sensors at various depths throughout the water column? Easy. The new design would allow us to quickly adapt the configuration to suit customer needs. We had identified the right problem and were on a path to solving it for ourselves. That’s also when we—notably Evan Shapiro (Sofar’s CTO), Tim Janssen (Sofar’s CEO), Eric and me—started thinking bigger. 
+
+Our team began having informal discussions about turning our internal plans outward—moving from an internal connectivity scheme to trying to influence an industry-wide shift. 
+
+It was a lofty goal, and one that made very little sense for a startup like us to pursue. But we all agreed that, like the CubeSat and MIDI teams before us, we had rightly identified the bottleneck that was holding everyone back: connectors. Eric had developed a new type of underwater connector design using a screw mechanism, face-seal o-rings, and separate wire terminals. We had pressure tested the design down to full ocean depth, and it was simple enough that it could be manufactured for just a few dollars. Creating a standard was barely possible. If we were going to attempt it, we needed help. 
+
+
+Also, one small-but-important aspect of our project needed addressing before we were ready to take it out into the world: the name. Eric had been calling the connector design “One Plug” throughout the early development process, but it was painfully inadequate. It was bland and even worse: there were two plugs! The main aspect of the design required all the power and data to happen over two wires and connection points. One Plug had to go. And after a prolonged naming exercise, Evan broke the stalemate by suggesting the common name of the most numerous fish in the world: Bristlemouth. We all laughed and agreed. 
+
+
+The next challenge wouldn’t be as straightforward: we needed partners. 
+How Standardization Efforts Fail
+
+
+Carl F. Cargill made a career as a standards theorist and consultant. He has written multiple books and several journal articles about the art and science of standards-making. Scholarly but not overly academic, Cargill’s perspective was born from direct experience, as he spent his career as a practicing standards strategist at a variety of Silicon Valley companies like Sun, Adobe, and Netscape. 
+
+
+One of his most important contributions to the field was a paper that inverted the basic premise. [u]Instead of asking what factors made a standard succeed, he approached the question from the opposite: Why Standardization Efforts Fail.
+
+
+The paper articulated a harsh reality: the main ways that standards efforts fail are not in the standards-making process itself. The conceptualizing, writing, and implementing is only half—or probably less—of the story. There are two other failure modes that were more likely to contribute to missing standards. The first is on the front end: a failure to launch. Any number of problems can stall a project at this pre-conceptualization stage: a lack of enthusiasm from potential sponsors, the originator lacking charisma and vision, or even a fear of anti-trust and anti-competition accusations from market players. There’s also the real possibility of opposition. In the early stages of the process, someone or some organization might feel that they have something to lose from the creation of a standard, and it becomes their mission to stall or derail the momentum, which is often not hard to do. Standards can be fragile ideas in the earliest stages. 
+
+The second big failure mode is on the back end. Once the standard is complete, it must eventually find healthy adoption and implementation in the market in order to sustain and grow. Startups know they must find a product/market fit in order for their companies to be successful. Standardizers, too, must find market fit in order to survive. There are any number of ways to miss the market: being too late[v], incompatible implementations, or just plain ignorance. Cargill also highlights the perverse outcome of the standard being used to manipulate and manage the market. While broad adoption can construe this outcome as a success, the network effects of standards can sometimes be a sort of rent seeking from predatory organizations.
+
+
+The danger zone for standards is the starting and the sticking. And, if you get those two right, the sustaining becomes the next challenge. [w][x]
+
+
+Viewed through this perspective, the booming OSS movement becomes explainable with basic economic logic. The cost of both starting a project and finding the right initial adopters has fallen dramatically. Thanks to enabling platforms like Github, there is no friction. Starting and sharing OSS projects has become so easy that the discussion has turned almost entirely to the challenge of how to sustain these projects and maintainers. 
+
+As a startup company proposing a new hardware standard, the economic friction—the costs of the added time needed to develop and support the standard, as well as the costs of the actual, physical components—was all too acute. There were two ways of dealing with the cost. The first was spreading it out over a long period of time and being frugal, just as the CubeSat project had done. But there were no guarantees that this would match the timeline of the company—the unique assemblage of talent needed to develop it—or the market need. The alternative path was to seek philanthropic support to help make the economics work.
+
+
+Surveying the options for funding this type of project yielded few results and, thankfully, a rapidly growing effort to change that reality.
+
+
+So far, the best philanthropic model for encouraging new disruptive standards has been an idealistic notion of paying it forward.[y] An example is Willow Garage started by Scott Hassan. Hassan recognized the critical role that open source software played in his business success. By building off the stack of open tools, he was able to quickly get his software company, eGroups, off the ground and serving customers without having to build everything from scratch. He theorized that robotics needed a similar boost — contributions at the core operating system layer that would make building applications easier for everyone.  He decided to apply a portion of his startup winnings to the idea. Willow Garage ended up developing and making core contributions to ROS, the Robot Operating System, which is now installed and running on more than half of the new commercial robots that are sold every year. It’s another software standard, but getting closer to the physical world.
+
+
+Mark Shuttleworth, founder of Canonical which publishes and provides support for the Linux-based Ubuntu software, also recognized the important role that open source software played in his business success, too. He set up the Shuttleworth Foundation to push the next wave of open innovation. The foundation underwrites fellow[z]ships for people and projects that are applying the principles of open source software to new arenas. They've funded people building tools for open biology and open industrial machinery to varying degrees of effectiveness. After twenty years of paying it forward, the Shuttleworth Foundation is now winding down, but it left an interesting mark.
+
+
+Now traditional philanthropy is giving way to a host of radical new ideas and strategies for funding public goods.
+
+
+Over the past decade, blockchains and cryptoeconomics have shaken up the standards-making[aa] world. Since the Bitcoin whitepaper was published in 2008 — introducing a vision for peer-to-peer electronic cash as well as the concept of a blockchain — there has been a surge of protocol development, with many tied to a token that starts and sustains the project. By turning protocols into stores of value, crypto is underwriting an array of useful new technical standards. 
+
+
+If nothing else, crypto has already produced a historical anomaly worth noting: the standardizers got rich and famous! Several have created modest fortunes as standards entrepreneurs, which is almost never the case. The creators usually garner acclaim from technical crowds while follow-on entrepreneurs (or a generation of entrepreneurs) get rich in the newly enabled frontiers. Crypto has those follow-on entrepreneurs, too, but it’s unique in the way it rewards the initiators. 
+
+
+The crypto set has reshaped the discussion about how best to fund public goods through their tools, but also through their philosophy and philanthropy. The Funding the Commons event series, hosted by Protocol Labs, has been a nexus point for these ideas and experiments. New mechanisms like quadratic funding and retroactive public goods funding are being tested in the Web3 world, and there are early efforts to scale and translate these mechanisms to other arenas. 
+
+Amidst the noise of exchange crashes and meme coins, it’s easy to lose sight of the long story of techno-cooperation. The soul of crypto is an idealistic promise: a new and better way to fund and sustain the technological commons, including enabling standards. There are open questions about how far cryptoeconomics can go. Can it move beyond the screen in a way the open source movement hasn’t? Will it rebuild the web or create new network states? We are amidst this grand experiment. [ab][ac]
+
+
+The third question in standards-making might be: what tool will you use to start and sustain the effort? How will you underwrite the work?
+
+
+We decided to try and make our own path. 
+[ad]
+
+
+Our team, led by Tim, hatched a plan to give the Bristlemouth standard the best possible chance of success. We brought together a group of potential partners—ocean philanthropists and senior officials from government research agencies—and pitched them on supporting the development. Like everyone who works in the industry, these groups were keenly aware of the interoperability problem.
+
+
+Our pitch was both technical and economical. We relied heavily on the CubeSat analogy and borrowed loosely from the emerging economic discipline of “market shaping”. We proposed a combination of two mechanisms: a patent buyout and an advance market commitment (AMC). Both ideas were proposed by the Nobel Prize-winning economist Michael Kremer decades ago. AMCs provide a meaningful-sized purchase order predicated on some capability or price performance, with the goal of moving market players into unoccupied territories. They have caught on in public health, and were made famous by the Gates Foundation and GAVI’s $1.5B purchase order for pneumococcal vaccines that have saved an estimated 700,000 lives. The concept of AMCs has gained momentum in philanthropic circles, having been used to accelerate the deployment of COVID-19 vaccines as well as kickstart the nascent market for negative emissions technologies. Patent buyouts are just like they sound: a government or public-spirited entity buys out a patent from a private company in order to spur innovation in the broader sector. The mechanism is less well known and still missing a notable success story. 
+
+
+Our proposal had two phases. First, underwrite the time and development needed to get the technology ready for outsiders: designing for ease of use, field testing, and documentation. It’s not quite what Kremer described in his original patent buyout paper, which he envisioned as a tool to remove monopolistic positions, but it’s close enough to warrant acknowledgement. In our scenario, it simply covers the realistic costs of preparing a product like this for outside consumption—making it easy enough for any engineer to pick up and use. Call it a Patent Buyout Lite. 
+
+
+For the second phase, once we had met acceptable development milestones, we asked our partners to pre-buy a set number of kits—development boards, connectors, and waterproof housings—that could be sent out to students, startups, and researchers who wanted to start building with Bristlemouth. We’re trying to follow the CubeSat path to market adoption by focusing on new entrants. They are the group most in need of the solution and the groups with the least invested in legacy systems. Of course, we’re warmly welcoming established ocean technology companies to use the standard, but we’re spending more time recruiting the upstarts. The goal with the development kits was to remove any barriers to potential adoption from both old and new players. And, again, not exactly the use that Kremer envisioned for his AMC model, but close enough to cite for inspiration.
+
+
+We’re here now. The first Bristlemouth development kits are on their way out the door. And the ultimate destiny of the new standard remains to be built. 
+
+
+One reality is already certain: it will take time. For hardware-related standards, the uptake can take much longer than market-driven products. Potential adopters look for signs of a solid foundation before they’re willing to jump in. Is the spec changing? Do the economics make sense? Does it work?
+
+Jordi Puag-Suari, co-inventor of the CubeSat standard, reflected on the decade-long journey to seeing true adoption: 
+When we went back and looked at launch activity, It took about ten years for things to really take off. There were a few launches before that but it wasn’t instantaneous. People needed to gain some comfort that these standards are going to be around for a while. [ae]They are going to exist when I finish my satellite in a few years and then they started building.
+Standardizers must have patience baked into their model, as normal economic cycles might not match. But the lengthy process shouldn’t hold us back from telling these stories and documenting these projects, even when they’re just making their way into the world. 
+
+An Open Invitation[af]
+
+
+Robin Sloan, writer and media inventor, recently spent time reflecting on the question: “What do you want from the internet, anyway?”
+
+
+His answers sent him down a path of uncovering the early discussions of the Internet Engineering Task Force (IETF) and culminated with him deciding to build out his own idea for a protocol, which he’s calling Spring ’83. It’s a stripped down version of the behemoth we have today. It’s an idea, Sloan hopes, that will inspire other creators and interesting people to follow and learn from each other, without all the nonsense. He made a point to comment on the satisfying nature of the work: 
+
+
+Before I go further, I want to say: I recommend this kind of project, this flavor of puzzle, to anyone who feels tangled up by the present state of the internet. Protocol design is a form of investigation and critique. Even if what I describe below goes absolutely nowhere, I’m very glad to have done this thinking and writing. I found it challenging and energizing.
+
+
+Sloan tapped into the thrill of standardizing. [ag][ah][ai]We touched it, too. There are no promises of riches or even success, but there is a sort of personal power that comes from shaping the tool that shapes the tools. It’s rarefied air — a Highlander-like competition taking place above the realm of startups and FAANGs that quietly determines the direction of technology. [aj][ak][al]
+
+
+Like Sloan, I recommend this challenge[am]. Encouraging awareness and understanding of the importance of standards is a meager first step. More experimentation is needed to spark new disruptive standards or, even better, inspire a full-on standards movement. There are vast new frontiers to be reached through better techno-cooperation. 
+
+
+
+
+
+
+________________
+
+
+On Credit
+[an]
+For the Bristlemouth project, I deserve almost none. I was bit player at every stage, documenting the progress and doing research when needed. I was basically the court stenographer. 
+
+
+For the technical aspects of the project, Evan Shapiro should get most of the credit for vision and leadership. But also Charles Cross and Alvaro Prieto for the architecture contributions. And also Eric Stackpole for the early design and later testing. Or Zack Johnson. Or any number of Sofar engineers who shouldered leadership for the project at various points. From my vantage point, this is truly a team effort. 
+
+
+On the management side, Tim Janssen should get the credit for organizing all the parties and rallying them around a common vision. Tim would be quick to acknowledge the crucial role of Oceankind and ONR and DARPA in making this real. And he’d be right. 
+
+And there’s a section portion of credit that should be withheld and given to the early adopters who come next. Joining and building on a project like this is an underrated form of leadership. 
+
+That’s a funny thing about helping a standard come to life: it requires this exact formula of credit distribution. It’s fully-ddecentralized heroism. Everyone has to believe. 
+
+So despite my peripheral role, I absolutely felt fully invested. If this essay seems overly biographic, blame it on my enthusiasm. But absolutely give any positive credit to everyone else. 
+
+
+________________
+[1] See On Credit section at the end of the essay.
+[2] The best book on the story is Greenwich Time and the Longitude.
+[a]2 total reactions
+Tim Beiko reacted with ➕ at 2023-07-24 19:09 PM
+Timber Schroff reacted with ➕ at 2023-07-24 11:14 AM
+[b]Is there an example you can use that's more standards related instead of atoms vs. bits, given that could also be true in non-open-standards projects
+[c]To avoid the book-review vibe here, perhaps lead this history section with a contemporary example, such as the EU forcing Apple to respect standards on phone chargers, to motivate where that kind of tension came from. Then the book discussion feels like a smooth segue.
+[d]Reminded me of part of Nadia's essay:
+
+
+"Protocological thinking only appeared with the onset of industrialization, or what James Beniger called “The Control Revolution”: a need to regain control after a sudden explosion of information
+Ex. the use of standardized forms, time zones"
+[e]So good
+[f]While this works great as an example in this essay, it feels like an obvious place to try and "backlink" to Timber's piece in a broader SoP publication/output/etc
+[g]Standardization converts uncertainty to risk. Exchanging uncertainty for risk enables better quantification of expected returns to a particular project, which is an input to both insurability (history of steam boiler insurance --> nuclear design is fascinating!), and capitalization at impersonal scale. Better quantification of returns attracts capital due to reducing variance in expected returns, and facilitation of comparison across competing uses of capital. 
+
+
+Standards are intimately bound up in the processes of insuring and financing our large scale collective endeavours, and therefore unsurprisingly insurers and investors foment and influence standards adoption in deep ways.
+[h]More thriving commerce is also in fact a goal I think. It’s what drives more private-sector driven initiatives and certain government moves like the creation of the interstate commerce commission… not exactly a standards move, but a kind of strong protocol move.
+[i]Standards reduce transaction costs which can increase and scope and depth of a given market. If facilitating voluntary transactions is the task a market is supposed to perform, one could shoehorn this functional benefit into "performance"
+[j]/xkcd-standards-meme :-)
+[k]This might be a good place to re-emphasize the bits vs. atoms distinction - adding a web API is much easier than creating a new type of sensor
+[l]runon sentence btw, probably useful to break it up
+[m]I like this a lot.
+[n]Great point, well said. Had a similar thought that I'll probably develop in my own essay: protocols have 2 failure modes, positive (protocol failure creates a new problem) and negative (commons doesn't materialize or desired transactions/coordination just don't happen)
+[o]This work was symptomatic of a larger movement around ideas related to international cooperation and progress. Cf. work of Paul Otlet: https://en.wikipedia.org/wiki/Paul_Otlet
+[p]1 total reaction
+Tim Beiko reacted with ➕ at 2023-07-24 19:18 PM
+[q]I feel like standards and OSS are highly, but not entirely, correlated: "web1" was heavily standards based, even though most of the products weren't OS. OTOH, if you look at things like node or python packages, you _wish_ there was more of an effort towards standardization, even if most of it is OS.
+[r]reminds how different furniture companies are rarely interoperable at all. IKEA, with internal standards, often doesn't use the same stuff you find at a hardware store.
+[s]1 total reaction
+Tim Beiko reacted with ➕ at 2023-07-24 19:21 PM
+[t]Same comment as above, for readers, what is a MIDI probably needs to be defined in laymans terms prior to addressing the casestudy
+[u]Feels like you haven’t established this as the basic premise before this point yet. Perhaps a very brief discussion of what makes your successful examples successful before you dive into the failure frame?
+[v]or being too early :D
+[w]visual here would be cool
+[x]I feel this entire essay is very ripe for added visual components! cc: all-affiliates :-)
+[y]ETH community has been pushing for models of retroactive public goods grants. Might be applicable here
+[z]You’re mentioning a lot of examples in passing, and I think maybe a tabulation of their highlight features might help? What’s the effort, is there a foundation, did they launch, some measure (even if subjective judgment by you) on success/failure…
+[aa]Not sure if crypto has shaken standards **making**. Definitely funding, and OSS software in general, but ETH and BTC's standardizations processes are literally copied from Python :-)
+[ab]This section feels a little awkwardly bolted on, like an afterthought. Perhaps delve into one example issue in the blockchain world, like say block-size debates, and how they’re resolved (hard forks etc) and comment on the unique features of the techno-environment a little? Right now it’s all valuation commentary, no details. I’d shoot for 50-50 or drop the section. More generally, forking seems like a topic to touch on in both the OSS and crypto sections. The ease of forking in software, and the typically lower cost of not having a universal standard, was missing in, for eg rail gauge standards. Some software domains like networking suffer a lot from non-standardization, but in others, promiscuous forking arguably creates a healthier ecosystem if there’s no good reason for strong standardization.
+[ac]+1. I'd say the strongest standards-aligned example would be ENS, which actually did create a useful standard (human readable crypto addresses), which interop with other standards (DNS, Bitcoin, etc.), and where the token can (eventually) claim a share of the economic activity (selling ENS names) + has been used to fund public goods.
+[ad]You’re sort of doing an interleaving of your story and commentary kinda unconsciously. Consider making that structure explicit and clean. I’ve often used the strategy of sections separated by *** or -1– where odd-numbered sections are personal narrative, and even-numbered ones are impersonal commentary/analysis. Works quite nicely when you feel strongly about a subject, but also need to make objective points about it.
+[ae]This could be a whole section in and of itself :-)
+[af]i think i want to see this whole section take up more room in the whole essay? this feels like the call to action to everyone to play with making your own protocols and shaping the standards that are already around you
+[ag]2 total reactions
+Nadia Asparouhova reacted with 👍 at 2023-07-06 09:54 AM
+Tim Beiko reacted with 👍 at 2023-07-24 19:30 PM
+[ah]+1, this paragraph is invigorating!
+[ai]Thank you all for the feedback. It's very interesting. Every reviewer has made this exact suggestion, which has me paying close attention.
+
+
+I will say, though, part of me wants to keep it at the end. Not because I'm attached to any of my writing, but because I think there's something important to the exclamation mark being at the end. 
+
+
+The actual feeling of satisfaction from standardizing is only available after you pass through a very specific portal: oblivious –> aware -> bored ->  intrigued -> engaged -> enthralled. 
+
+
+I want the essay to be engaging but I also like the idea of it being true to the experience.
+[aj]3 total reactions
+Nadia Asparouhova reacted with 👍 at 2023-07-06 09:54 AM
+Aaron Z. Lewis reacted with 👍 at 2023-07-18 12:16 PM
+Tim Beiko reacted with 👍 at 2023-07-24 19:30 PM
+[ak]++ (esp if we go magazine route)
+[al]Yes. If standards are "boring," invoking your story makes it lively and interesting. I'd make it even more front-and-center throughout this piece!
+[am]more than recommend - you _took it on_, which can be a good way to re-frame the piece as per others' comments.
+[an]Just put the text of this section in footnote 1 instead of using footnote 1 to point to it. No issue with long footnotes/endnotes.

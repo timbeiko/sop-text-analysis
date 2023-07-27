@@ -1,0 +1,230 @@
+Dangerous Protocols
+WIP. Still very much in draft mode!
+Introduction
+* Protocols are frequently touted as the “liberated” alternative to walled technology gardens. But by definition, protocols always ask us to relinquish[a] control[b]
+* Sometimes this is good! Giving up control can enable us to spend precious brain cycles on other, more pressing decisions
+* Protocols have the potential to liberate us, and the potential to tyrannically control us. They’re better understood as neither harmful nor liberating, but – as Alexander Galloway once put it – “dangerous”[c][d][e][f][1]
+* We tend to focus on the benefits of protocols b/c they are often weaponized for political reasons (as an alternative to platforms)[g]
+* But protocols control us just as much as platforms do, if not moreso, and are even harder to escape[h][i] b/c they lack central authority[j]
+* We simply don’t notice how much protocols control us, because their control is subtle. Good protocols slip by undetected[k]
+
+
+From strongly to weakly expressed protocols
+* It’s particularly important to understand protocols as dangerous, as we are currently transitioning out of a long history of “strongly expressed” protocols, and into the beginning of what might be another long era of “weakly expressed” protocols
+* Discussion of protocols is typically confined to the technical layer, but technical protocols are only one type of protocol
+* Protocols are innately social in nature. In order to understand how protocols establish and maintain control, we need to zoom out from the technical layer and start with a broader definition of protocols
+Protocols are primarily social, not technological, in nature
+* Protocological thinking only appeared with the onset of industrialization, or what James Beniger called “The Control Revolution”: a need to regain control after a sudden explosion of information
+   * Ex. the use of standardized forms, time zones
+
+
+I define protocols as systems of control that dictate the procedural steps to simplify decision making between autonomous actors.
+
+
+* Protocols are procedural, rather than descriptive or normative: “In order to do X, we follow Y steps”, rather than “Y is the preferred method.”
+* Protocols simplify decision making: Protocols gently dissuade their participants from using reason or first principles thinking. The promised benefit is that decisions can be safely outsourced to the protocol
+* Protocols establish a frame of control: Protocols can only exist within an ecosystem or network, which participants must first join, before they can be controlled by a protocol
+* No one is responsible[l] for the protocol: Protocols may have an original “creator,” or claim to be managed by an organization or committee, but they are more powerful than any one entity. Protocols resist confinement. As their legitimacy grows, they want to become more powerful than their containers. Over time, protocols become difficult to change or influence. (For some reason, this is sometimes touted as a good thing by those who dislike centralized control, but it is precisely this quality that makes protocols dangerous.)
+* Protocols are unopinionated[m][n][o][p][q]:[r][s] Because no one is responsible for the protocol, there is no clear agenda driving its persistence. Protocols persist because they have persisted; the more we use them, the stronger they get. They are a reflection of participants’ existing desires, rather than imposing unwanted, extrinsic desires.[t][u][v]
+
+
+From a historical perspective, protocols clearly predate the internet era. The protocol definition does not specify a form factor; it only refers to an abstract pattern. Protocological behavior[w][x] has tightened its grip over time, manifesting across many different corporeal forms, or material layers:
+
+
+  
+[y][z]
+
+
+Here are several examples of trends or movements where protocological thinking emerged as a way to exert social control. While these examples live on different material layers, the way in which they exert control is consistent.
+
+
+* Personality frameworks:[aa] Derived from early psychoanalysis (Freud/Jung) -> 1910s to screen for “maladaptive” personality traits in soldiers -> 1940s-1950s rise of MBTI, 16PF, MMPI, and later, DISC, Big Five. Goal is to understand people’s psychology in order to “sort” them into buckets, whether for hiring, military, etc
+* Company towns: (late 1800s through the early 1900s) Employers built entire communities for industrial workers to live. These turnkey towns were nicer than living in cities, but they were also a way of “civilizing” workers through their built environment, which made them more reliable employees. Ex. alcohol and gambling were prohibited, church attendance was encouraged, some towns only used “scrip” (like in-game currency) instead of money.
+* Disneyland: Originally conceived of as a more “civilized” alternative to the bawdy carnival style of amusement parks at the time. Designed as a place where differences were minimized or discouraged; anything besides happiness is not an emotion that has a place at Disneyland[ab][ac]
+[ad]
+* Internet protocols derive legitimacy not from their technology, but from the compliance of their participants. They represent the summary of prior consensus, which others can now follow without having to replicate those same debates.
+
+
+Why do we tend to describe protocols as pure technology and ignore their social primacy, or pretend that the social is merely a subset of the technological?
+* Some blockchain governance enthusiasts, for example, like[ae] to point out the ways in which the technical aspects of protocols can simplify social coordination problems
+* Technology makes us[af] feel safe and secure, as if the protocol is merely a tool that we (the fully agentic human) is wielding, but I think it is the other way around. We are never in charge of protocols
+
+
+Rather than influencing human behavior through explicit rules and restrictions, protocols exert social control by firstly creating an ecosystem, or frame of control; then, asking its participants to enter into the social contract; and finally, introducing protocols[ag] that effectively control those participants’ behavior. Compliance becomes a joy that participants willingly opt into.[ah]
+Protocols are evolving once again
+* Since the birth of the social web (“Web 2.0”), protocols have moved on to subsume the cultural layer, raising a new set of ethical questions as they begin to control our values and beliefs
+* As Beniger identified, the onset of industrialization created a massive influx of information that needed to be managed, which gave way to protocols
+* But the social web created yet another, even bigger, tidal wave of information
+* Industrial Revolution -> crisis of control -> anomie -> re-exertion of social control via strongly expressed protocols[ai][aj]
+* Social web[ak] -> crisis of control -> context collapse  -> re-exertion of social control via weakly expressed protocols
+* With the advent of the Social Age came a deluge of opinions. We now have easy, unlimited, infinite access to off-the-shelf takes on everything from reusable shopping bags to geopolitics
+* The prevalence of such information, for most people, cheapens the value of original thinking. Instead of having to reason about ideas on our own, we can simply borrow others’ ideas and replicate them[al]
+* This is perfectly rational behavior: the cost of developing an original idea is now prohibitively expensive, versus having free and reasonably vetted ideas at one’s fingertips. Just as most people don’t own and raise their own cows for meat and dairy, most people cannot be expected to do the hard work of developing and cultivating opinions of their own[am][an][ao]
+* Whereas industrialization caused us to protocolize our social institutions (the “social” material layer), the social web caused us to protocolize our values, thoughts, and opinions (the “cultural” material layer)
+
+
+Strongly vs. weakly expressed protocols
+* Strongly expressed protocols: All participants know what the protocol is and willingly enter into its governance. For example, when a high school student takes a college entrance exam, they understand that this is the protocol to attend an institution of higher education, regardless of their personal feelings about the value of these exams[ap]
+   * With strongly expressed protocols, such as the institutions of Foucault’s “discipline” society – school, family, work, factories – individuals participate in the collective as individuals. The benefit of the traditional family unit, for example, was that it provided a stable structure that enabled men to flourish as individuals and have successful careers. School is a protocol we follow in order to attain the education needed to get a job. The benefits of protocol participation ultimately accrue to the individual
+* Weakly expressed protocols: Many participants are not aware that they are operating by protocol, but allow themselves to be controlled by it nonetheless. For example, when someone piles onto a controversial issue on social media, they think they are acting as well-reasoned individuals – in fact, sharing one’s opinions or beliefs on hot topics of the day is often considered to be a form of self-expression. But they are not actually expressing themselves as individuals; they are acting according to protocol[aq][ar]
+* Weakly expressed protocols are a product of memetic culture that crystallized in the 2010s -> rapid replication protocolized original thought
+   * The willingness to opt in is a hallmark of protocols, which never coerce its participants, but instead make it a delight to comply. We were not forced to give up our agency; we chose[as] to give it up because it was easier and more convenient
+* Protocols are not unlike any other control-seeking organism[at]. “Power tends to corrupt and absolute power corrupts absolutely;” – this is true regardless of whether the entity in question is a sentient human capable of reason, a headless organization, or a protocol. Protocols moved into the cultural layer because they are not satisfied with controlling an aggregation of individuals. Protocols want to consume us on the most cellular level; they desire life itself[au][av][aw][ax]
+* Strongly expressed protocols also became easier to identify, and can be manipulated or taken down for personal gain. Just as antibacterial products can lead to the evolution of super-resistant bacteria, so are protocols learning to avoid our collective immune system, emerging in a more powerful, more resistant form that is harder to discern. If we don’t even know the protocols are there – as is usually the case with weakly expressed protocols – we won’t try to defect
+The growing influence of weakly expressed protocols[ay][az]
+Examples:
+* Cancel culture[ba] and mob mentality crop up on every new social platform or protocol, no matter how new or different it promises to be. We keep producing the same results, regardless of the form factor. The social media platform itself is a strongly expressed protocol; how we punish and sanction others on those platforms is a weakly expressed protocol
+* Doomer industries as another byproduct of the social web: climate change, AI safety, misinformation, and population decline being a few examples of ecosystems that formed around the threat of an apocalyptic event
+   * Accepting the inevitability of the event establishes a frame of control, enabling protocols to arise within each ecosystem (recycle; reduce energy; break up Big Tech; make more babies)[bb]
+   * These protocols are considered “weakly expressed” because they are, again, mistaken as a form of self-expression or personal agency (i.e., working on “one of the most important issues of our day,” doing meaningful work, etc)
+   * These protocols maintain totalizing control over participants via the interminable, unfalsifiable fear of “bad things will happen to the world if you don’t do this”
+* General purpose AI can be thought of as the productization of “solved conversations,” [bc][bd]promising us less work in exchange for giving up our reason. While we can understand general purpose AI as a set of distinct tools, nobody knows exactly what goes into it. It’s the aggregation of millions of ideas, packaged in the form of a recommendation. It’s self-learning, beyond the control of direct human influence. “Nobody is responsible for the protocol.”
+Subverting protocols
+* Subverting protocols is difficult, and even moreso when the protocol is weakly expressed. Because nobody is in charge, there is no singular authority to take down[be][bf][bg][bh]
+* Explicit resistance tends to be unsuccessful; protocols are more powerful than you
+* The first step to subverting a protocol is to recognize that one is being governed by it in the first place
+* We may decide that we like being governed by certain protocols; again, protocols are not good or bad, but merely dangerous. But if we want to subvert a protocol it’s difficult to opt out of a protocol without exiting the network it belongs to. Consider this the “hard fork” option, only when no other solutions exist[bi][bj][bk]
+* Successful example of subverting protocols by exiting the network is climate action
+   * For the last 20+ years, the climate crisis response has been based on an assumption of energy scarcity; that is, reducing our energy usage, or making it more efficient, will bring us to “sustainable” levels. In recent years, some people have asked, “What if we don’t assume energy scarcity, but instead seek energy abundance?” Reframing the climate narrative this way created a new network that enabled a new set of protocols to develop, such as advocating for the revival of the nuclear movement[bl][bm][bn]
+   * However, I think these types of subversions are rare, in part because exiting the network is very expensive: both the social cost of operating under a different narrative from one’s peers, as well as the cost of building a new one
+   * Instead, the art of protocol subversion seems to take a tai chi approach. Subversion requires working with the protocol, not against it
+* Vibe culture[bo] as a response to memetic cancel culture is an example of protocol tai chi[bp][bq]
+   * Exiting the protocol would mean leaving social media entirely, which some have done, but even more have tried and failed to do. For many people, participating in some social platform is a requisite part of life[br]
+   * Instead, the initial calls to “delete Facebook [etc]” and “I quit social media and my life is so much better”, which were popular nearly a decade ago, gave way to quieter forms of protocol subversion[bs]
+   * With protocol tai chi, we participate in the social media ecosystem, but we make ourselves undetectable[bt][bu]. The spiciest conversations have been pushed down a few layers, relegated to DMs and group chats. We saw the birth of the “cozy web.” And, more recently, we’ve seen memetic culture give way to “vibe culture,” as Peter Limberg eloquently expressed in his “Meme to Vibe: A Philosophical Report” (emphasis mine):[bv]
+      * “Memes are cultural information the mind perceives, coupled with an urge to replicate them. Vibes are cultural “exformation” the body receives, coupled with a choice to experience them.”
+   * What is vibe culture? It’s hard to describe. That’s the point[bw][bx]. We know it’s there, and that it governs our behavior, but it escapes the stubborn heavy-handedness of protocological control. It still takes place on social platforms, but it’s difficult to identify or track. In contrast to meme culture’s doomscrolling and pornification (or “the phenomena of everything being commodified and shamelessly put on display”), vibe culture is about “experiencing, not replicating,” a way of “protecting one's mind while online.[by]”
+
+
+The old battle of strongly expressed protocols – which involve very literal interpretations of protocols – is between “social media platforms vs. [technical] social protocols.” The new battle of weakly expressed protocols – whose influence is so subtle that they frequently go undetected – is between “cancel culture vs. vibe culture.”
+
+
+How do we know which protocols are good for us?
+* Protocols are good when they help us streamline behavior, reduce complexity and unnecessary decision making, reduce transaction and coordination costs, codify “common wisdom” (ex. healthcare protocols)[bz], or bring everyone into the same context quickly and easily (ex. emergency or diplomatic protocols). At their best, they liberate us from decisions we don’t need to make, or that we lack the authority to make confidently, capturing the best of collective human wisdom.
+* Protocols become “dangerous” when they are taken too literally. In the industrialized era, they became prescriptive and rigid, and sometimes more harmful than helpful – for example, the use of personality tests in hiring, or the use of standardized testing to evaluate students’ aptitude. In the social era[ca], protocols are dangerous when they become difficult to detect, quietly rewriting our internal values and beliefs, causing us to surrender our agency to control mechanisms that we don’t even realize are there.
+* Protocols are outright bad when they remove individual agency from places that require creativity (ex. knowledge work, reason and debate). While this might occasionally be a desirable tradeoff when it’s made consciously, the rapid takeover of protocols at the cultural layer threatens to slow human progress to a crawl.[cb]
+* There is no stopping the eventual protocolizing of every aspect of our lives[cc]. Protocols are difficult, if not impossible, to break up or escape from once they take over. Subverting protocols, then, starts by recognizing which protocols govern our lives, and which we want to govern our lives. When should we relinquish control to protocols, and when do we need to subvert them?
+
+
+The difference between protocols that help or harm is easy to describe in the abstract. It’s actually applying it to real-life situations that makes it clear how hard it is to evaluate the dangerousness[cd][ce] of protocols against some heuristic or list of criteria. Furthermore, which protocols are dangerous depends on every person’s own calculus as to how much agency they’re willing to give up. We cannot stop the spread of protocols into the most personal layers of our lives, but living peaceably with protocols, especially in this new era, starts by noticing how much they control our lives in the first place.[cf][cg]
+________________
+[1] "...it’s not that protocol is bad but that protocol is dangerous.” https://www.amazon.com/Protocol-Control-Exists-Decentralization-Leonardo/dp/0262572338 
+[a]thought: Is it closer to consensual delegation? Or participatory surrender?
+[b]1 total reaction
+dorian taylor reacted with ➕ at 2023-07-22 17:38 PM
+[c]What’s the full quote/context/idea? I have no idea who he is so appeal to his authority doesn’t help me
+[d]_Marked as resolved_
+[e]_Re-opened_
+[f]oh damn I had a footnote here that got lost, will re-add. (I'd flesh it out more in a final draft, this is still bullet point mode)
+[g]I like this point, that protocols are currently being framed as a cure to a well-known problem, and are therefore benevolent by default.
+[h]Accountability argument is also useful here... protocols are not accountable themselves. They cannot "hold obligations",,, only "be a codified ruleset." They are not answerable and the reward/punishment cannot be enforceable.
+
+
+A Joanna writes in this magazine article (https://zine.zora.co/joanna7459-accountability)
+
+
+“A is accountable to B when A is obliged to inform B about A’s (past or future) actions and decisions, to justify them, and to suffer punishment in the case of eventual misconduct.”
+
+
+Things, as they usually do, become murkier on closer investigation. In this definition, and in Schedler’s frequently cited work on the topic, accountability can be broken down into two dimensions: answerability and enforcement. Answerability is the requirement to both inform and explain your actions to another party. Enforcement is what it sounds like: rewarding good behavior and punishing bad behavior with real, material consequences. Answerability without enforcement is not accountability. As Schedler writes: “If a police officer kills someone in custody without due cause and still walks free, it does not satisfy the principle of accountability if a journalist documents this abuse of authority.”
+[i]Rights to exit document that might be useful: https://cuusgfnwhwlflkfirssf.supabase.co/storage/v1/object/public/mendable_user_content/Folklore/708907634_Rights%20of%20Exit.pdf
+[j]Not quite following the logic of this assertion but presumably you explain it downstream somewhere
+[k]This ties back to Venkat's ribbonfarm article on "deep protocolization" --- protocols "make water" we swim in haha
+[l]See earlier note on accountability definitions, might be useful
+[m]I'm not sure I agree here. Protocols tend to embody the values of their creators -- in some ways, they are extensions of their creator's intentions. But like a wish to a genie, often have deviating secondary order consequences that the creators didn't realize would happen at scale.
+
+
+Might just be semantics tho. Would be curious how this comment jives with Angela's unconscious protocols thread of thought. Do protocols really reflect children's desires when they are adopted through training? Or, could it be that we embody the desires of protocols we learn, until we grow up and test the freedoms we have in breaking protocol?
+[n]Yeah, I think "unopinionated" is the wrong word here. I'll try to find a better one. I don't mean that they don't reflect a creator's values or interests, but more that protocols don't care what you think about them. Participants can complain about protocols all they want, but if they continue to take part in them (vs. exiting), it's still clearly giving you something you want. Your decision to participate in a protocol says more about you and what you want, vs. the protocol actively trying to tell you what to do. (There is something sort of hauntological about this that I find intriguing: trying to argue with a protocol is like screaming into the void.)
+[o]"Selfish" could be a better word here (per Timber's comments further down about "selfish genes"), though it doesn't fully convey the cruel, horror-ish aspect I'm now mentally stuck on haha (love me some Lovecraft)
+[p]1 total reaction
+Nadia Asparouhova reacted with 🌟 at 2023-07-11 12:15 PM
+[q]Maybe another word would be better here? Maybe self-reinforcing? potentiating? 
+
+
+I feel like all protocols are created with some stance or opinion in mind, whether we realize it or not, it's going to shape the world according someone/set of peoples worldview, but like you explained in the previous point, it's hard to attach accountability to them.
+[r]I would argue protocols are strongly opinionated: HTTP isn't stateful, Bitcoin vs. Ethereum clearly have strong values/opinions expressed which lead them in different direction, health protocols, esp. the whole COVID saga, are also strongly opinionated.
+
+
+Also disagree re: "no one is responsible" - I think it feels less like it because it's more diffuse, but again you have organizations which set web standards, Bitcoin Core Devs, the WHO, etc.
+[s]inclined to distinguish between the design of a protocol (opinionated) vs the invocation or enactment of the protocol ("opinion" not really meaningful save for the choice to use the protocol)
+[t]Do you think it's possible that a protocol could be reflective of past desires that have since changed? (ie the zombie protocol remains in place for some reason but the purpose it originally served is no longer wanted - this is a phenomenon I'm looking at in the built environment)
+[u]What about people who consciously and repeatedly "act out" a protocol? Say they're just trying to avoid being reprimanded
+[v]I think I'd ask: why do they want to avoid being reprimanded? Who are they trying to please? Participating in the protocol, even if they don't like it, because they want to avoid being reprimanded suggests that compliance gives them something they want (the approval of someone else). Maybe that logic is a little too circular, though. Have to think about it
+[w]I like this wording
+[x]+1: it helps close the gap between what a protocol vs. norm/standard/ritual/etc. is!
+[y]is there a logic to the order of the layers?
+[z]haha there was when I started, but after thinking about it this past week, I think I need to rewrite it
+[aa]This caught my attention, can't wait to learn more in a later draft 🙌
+[ab]I liked Sarah Perry's take that Disneyland is actually a much more narratively rich correlate to an amusement park and instead provided a shared myth for what America's frontier is (https://www.ribbonfarm.com/2015/08/06/frontierland/).
+[ac]amusement parks, not disneyland, seem to better fit the conclusion you're drawing
+[ad]Not sure if this fits in well, but I believe the Menlo Park FB Campus was designed by the same architect as disneyland (citation needed!) 
+
+
+If it holds, nice link between Company Towns "civilizing" and "anything beside happiness is not an emotion that has a place"
+[ae]This may be overly charitable: there's an incentive to point things out as being "tech only", because it limits accountability or the degree to which you have to respond to outside pressures. I'm sure Angela has strong opinions about the best way to frame this!
+[af]It might be worth unpacking the "us" here: the designers of the protocols get to "never be in charge", and the users get to assume it just works as is.
+[ag]This is a bit confusing to me - perhaps "norms" may be better here?
+[ah]Banger
+[ai]do you clearly define what strongly expressed vs weakly expressed protocols are earlier? it seems central to your piece but I am not fully getting it yet
+[aj]oh oops — you do so later, I see. might be helpful to have it defined sooner
+[ak]I think there's probably something to be said here about recommender systems that automate curation, which is a direct link to the bullet point about not having to develop/cultivate ideas. To put it another way, I think it's not just about the deluge (there were more blog posts than I could read on the web in the mid 2000s), it's also about not really having to use your brain to sift through the deluge (advent of social media)
+[al]god... so true & well articulated. I've been thinking that "critical thinking is the most scarce resource" for a while
+[am]This is a compelling analogy. From physical decoupling... to concept or abstract decoupling.
+[an]what exactly makes it expensive? I sort of get it but I think making it explicit will help
+[ao]I guess it's _comparatively_ expensive: you can either develop an original PoV on 1 thing or get N other PoVs for the same time effort.
+[ap]I think there's a weakly expressed meta protocol dictating that these are the ways to even get into an institute, or that you have to go to the institute in order to accomplish what you're looking to do
+[aq]fire — and what exactly is the protocol?
+[ar]+1 for these examples feels like it would be helpful to explicitly map out the protocol, also makes a cool exercise to the reader in identifying these protocols that are getting harder and harder to detect
+[as]you could distinguish here, choice is probably more true for some protocols than others and some participants have more choice than others. i think you describe in the point above a process of internalization, being unable to tell what is "authentically us" and socially imposed. that point further complicates "free choice"
+[at]Protocols are viral, but ones conditioned on the consent of the carrier are more likely to be symbiotic, whereas those that creep in subversively are more likely to be parasitic.
+[au]1 total reaction
+Nadia Asparouhova reacted with ♥️ at 2023-07-10 13:23 PM
+[av]does this mean protocols are also memes?
+[aw]1 total reaction
+Nadia Asparouhova reacted with 👍 at 2023-07-10 13:23 PM
+[ax]you can say protocols work by eliminating degrees of freedom which creates a structure, but i don't know the extent to which that is inherently self-perpetuating
+[ay]This seems like the buried lede… the theme is protocols and control but this is the lede?
+[az]++
+[ba]I once did a thread on how the opposite of cancel culture is “know your place” culture… wonder what determines which one rules https://twitter.com/vgr/status/1360037779766267906?s=61&t=Z7ogL5oXQlE-zjAQ_mFVBw
+[bb]This is a really interesting point I'd never considered in this way before.
+[bc]this is an awesome take
+[bd]agreed, but stumbling over terminology. i know "commodification" would not really work, but then  is a chatbot essentially a product? tricky :) would "closed debate" work?
+[be]The exit vs voice framing feels relevant here - usually easier to exit/avoid a protocol than change it.
+[bf](I see that you get to this below)
+[bg]This is really interesting. "Dangerous (Weak) Protocols)"
+[bh]would still caveat for "scoped protocols" that definitely have an owner
+[bi]I like the application of this hard technical concept in a social context
+[bj]+1
+[bk]+
+[bl]did these advocates exit a network though? not sure i would see it as a paradigm shift (yet). a lot of climate discourse though is an attempt at subversion of the protocols of capitalist modernity.
+[bm]I think so! One thing I noticed about this group is they explicitly use the term "energy," not "climate," to describe their interests. They don't want to be part of the climate tribe (i.e. exited the network), they made a new tribe
+[bn]That's a neat language/social distinction that may be worth adding to the essay!
+[bo]Reminds me of "Memes" as subverting the back-link SEO optimization protocol. Distribution through vibe instead of technical connections.
+[bp]1 total reaction
+Nadia Asparouhova reacted with ♥️ at 2023-07-10 13:27 PM
+[bq]procedural analogue to standards hacking, lol
+[br]going back to the arguemnt of no "real choice" above
+[bs]it is interesting how more people are realizing that doing this is actually a liability
+[bt]2 total reactions
+Nadia Asparouhova reacted with 🔥 at 2023-07-10 13:29 PM
+Shreeda Segan reacted with 🔥 at 2023-07-14 13:59 PM
+[bu]great list! hadn't quite made this connection, but it's very helpful. thank you
+[bv]I'm referencing this same report in my work haha
+[bw]I know it's hard to describe (and illegibility helps with cozyweb stuff, obviously)... but a bit more description would indeed help. I don't know what "exformation" means. A twitter interaction that encodes vibe culture would be enlightening to look at as an example.
+[bx]1 total reaction
+dorian taylor reacted with 👀 at 2023-07-24 08:39 AM
+[by]This seems quite similar (or at a minimum adjacent) to "extitutional theory", which tries to describe a core of human experience/sentiment/emotion around which people coordinate without the rule-based protocolization that suffuses much human social activity. I did a workshop at Harvard at this and know the two folks most central to the development of the theory (Primavera de Filippi and Jessy Kate Schingler).
+[bz]very charged post-covid example 😅
+[ca]what's that? :)
+[cb]adolf hitler's art theory - boris groys http://www.c-cyte.com/OccuLibrary/Texts-Online/Art_Power_Boris_Groys.pdf
+[cc]This feels a little more nuanced -- as you point out, protocols are evolving once again, so they don't ossify irreversibly (although you do say it's difficult if not impossible to break them up). And it feels like there are aspects to my life that are protocolization-resistant, although I'd have to think more about why I hold this belief... I think humans crave novelty and excitement, and we like distinguishing our tastes from that of others, and would find it difficult to protocolize literally everything. (Maybe you mean something more mix-and-match though, different people subscribe to overlapping protocols for different aspects of their lives?)
+
+
+My working thoughts here, hopefully interesting/helpful: even if it's difficult to actively push against protocols as individuals/as a small % of the participants, on the collective level protocols do react to external pressures -- technological, social, environmental etc changes. They generally have shelf lives, perhaps some combination of individual action / collective action / external factors.
+[cd]1 total reaction
+Nadia Asparouhova reacted with ♥️ at 2023-07-10 13:33 PM
+[ce]1 total reaction
+Shreeda Segan reacted with ➕ at 2023-07-14 14:00 PM
+[cf]You really open up your horizon for most of the essay talking about all kinds of apsects of social life with its protocols having existed and developed through history. So it might be helpful to point out when you talk more about recent, technology-driven aspects specifically. You can still make the argument about dangerousness in both. Pointing again to the term "social fact" that Emile Durkheim coined in 189something to describe what "enables and restrains" action in societies (booktitle: the rules of sociological method). It fits your argument perfectly :) Really appreciate this project!
+[cg]Really like this. Succinctly illustrates just how difficult and subjective the problem is. Feels adjacent to the issue of public safety, which I'd like to hear more from you on... but it's also a big rabbit hole

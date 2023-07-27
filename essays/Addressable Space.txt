@@ -1,0 +1,332 @@
+﻿Addressable Space
+Chenoe Hart
+Version 0.65
+
+
+NOTE: This is an early draft. “[ ]” brackets around writing indicate notes regarding areas of future development.
+
+
+[Alternative title ideas: Invisible Walls]
+[a]
+
+
+1. Introduction
+
+
+
+
+If you look at our world from the right perspective, it may appear that we are starting to live inside a computer. Our buildings and cities are already often organized according to specifically digital sets of information; buildings are identified via  socially-constructed address numbers[b], and their interiors are divided into rooms and floors associated with sometimes arbitrary names and numbers. Those are abstract operations in which analog information about the world – the exact number of floors in a building, the exact dimensions of a room, or the size of a building’s lot – is replaced with its simplified position on an abstract symbolic list of information, which no longer needs to directly correspond with the real-world layouts of the spaces involved. A forty- and fifty-foot-wide house lot located next to each other might be at equal positions on a list of addresses despite taking different amounts of time for a person to walk past, and in Western culture a list of elevator buttons will often portray the literal thirteenth floor of a building as being the fourteenth floor instead. Whenever we perceive our travel through physical space as occurring via such proxied measurements of space, then we are traveling through a tiny conceptual wormhole every time we use those abstractions.[c][d]
+We see those spaces, in short, in slightly the same manner that a computer might. For a computer network they might as well be connected across vast distances by instant communication hyperlinks; on the internet where near-instant communication is possible between servers located in different parts of the world, physical distance does not directly matter. And today, as software eats more and more of our surrounding world (to paraphrase a 2011 prediction of the technology investor Marc Andreessen),[1] it is becoming possible to notice situations in which physical spaces are being arranged in response to the affordances of decentralized computer networks in addition to humans.[e][f] So-called “chaotic storage” organizational systems used in contemporary automated warehouses[2] decouple the physical locations of the objects in their inventory from their organizational categorization; in contrast to more traditional schemes where objects might be organized alongside others of a similar category, under that system they are placed in arbitrary locations in physical space. Their locations are retrieved by the system by searching in a database, and as a result the physical contexts of their location and their adjacencies with other objects no longer carry any inherent meaning. 
+The assignment of such an abstract label for looking up an object also renders its distance from other objects to be irrelevant, since every physical location placed on a shared common informational network will instead become immediately retrievable. (At least in cases where the varying travel distances involved in retrieving items from different physical locations avoid imposing excessive latencies on the system.) As with the conditions of addressability found within a computer system where programs indirectly reference the physical locations of information stored in their memory, physical spaces which are subject to abstraction become randomly accessible. The design of physical spaces involves abstract systems and relationships in addition to physical matter, creating opportunities for protocolized thinking[g][h] [define] to be used to help understand its past and future.[i]
+
+
+
+
+2. Digital Rooms
+[j]
+
+
+Digital methods of organizing physical space prominently emerged in the eighteenth and nineteenth centuries.[k] Around the same general time that the mathematical thinker Ada Lovelace was making her pioneering future prediction that an early computing system could be used to carry out a sequence of algorithmic operations,[3] increasingly bureaucratic governments organized within emerging jversions of the modern city and the modern centralized nation were developing methods of consolidating information about their physical territories. House numbers were developed for purposes of tax collection and military conscription, allowing, in the words of the historian Anton Tantner, for the interior of the house to become “transparent” to the state.[4] The adoption of corridors streamlining passage through the interiors of institutional and government buildings in that same general time period created conduits for faster information transmission within those organizations. The corridor placed doorways to offices alongside each other in a relatively neutral relationship, and the architectural theorist Mark Jarzombek suggested its spatial configuration might even have the capability to exert a potential democratizing influence. [5] Distances between rooms mattered less they had in the past.[l] [m]
+The emergence of those new organizational layout schemes also coincided with the arrival of some basic features of residential interiors which we now take for granted within our homes; the idea of increasingly private rooms accessed via a single doorway rather than multiple openings onto other rooms, and of rooms which had doors on them to begin with in the first place.[6] The architectural theorist Robin Evans identified a progression towards increasingly private rooms occurring within Victorian households, in contrast to a prior Italian Renaissance-inspired paradigm in which rooms were boundlessly interconnected with each other by doorways “wherever there was an adjoining room.” Each individual room in a Renaissance interior would most often have “more than one door – some have two doors, many have three, others four" which opened onto its surroundings. Evans described the 1525 Villa Madama in Rome (commissioned by the Medicis and suspected by the author to have been designed by Raphael), as containing within its interior of interconnected rooms "ten different routes into the villa apartments, none with any particular predominance." Inside the villa it was thus “… necessary to pass from one room to the next, then to the next, to traverse the building.”[7] The connectedness of the villa’s rooms made them effectively function like “an open plan relatively permeable to the numerous members of the household, all of whom - men, women, children, servants and visitors - were obliged to pass through a matrix of connecting rooms where the day-to-day business of life was carried on.”[8]
+        Within later British Victorian spatial paradigms governed by that time period’s notions of privacy, in comparison, rooms became more self-contained, entered via single doorways on one wall to leave the others isolated from their surroundings in a development associated with the emergence of modern concepts of privacy. (Technologies for locking doors meanwhile also improved, with the advent of industrial mass production.) Such a private and enclosed room could be perceived as a discrete entity unto itself, as a place within which one might not necessarily be aware of what spaces existed or what events occurred beyond the boundaries of the room’s walls.[n]
+That set of circumstances helped facilitate the trend in the Victorian household in which rooms were associated with more specific functions than before, and with specific people or groups of people. A Victorian house plan included internal divisions between relatively public rooms where visitors were allowed, and more private ones where they were not. It had newly specific different delineated spaces for women and men, parents and children, and for servants and the household members whom they served.[9] Those rooms would thus all have more implicit associated informational labels than they had before; one room might be specifically known within a household as a library, another as a dedicated dining room. And as those rooms grew more enclosed, a visitor would be able to see less of the overall floor plan of a building while walking through it; seeing any part of the building would require more deliberate personal choices than before, and require more permission from other people. Access to such spaces was governed then, in a sense, by both physical and informational types of walls[o]. You were either allowed into a room or not, and a room either belonged to you or it did not; those were binary spatial conditions, and a binary condition can also be described as one which is digital[p].
+Digital rooms were able to be randomly rather than sequentially accessed. Walking through one room to access another, in comparison with not needing to do so, was like the difference between retrieving information from a stored physical tape where previous information on the tape had to be recalled before a desired informational entry could be played back, and that of directly retrieving information from one specific physical location within a modern memory chip or via a read head swooping in to the right place on a hard drive platter. 
+
+
+3. Elevator Buttons
+
+
+A technology capable of taking advantage of the ability for adequately demarcated and legible physical spaces to be conceptualized as digital arrived with the development of the elevator, which eventually developed into an information-based interface offering literal direct access to physical locations. The technology introduced a new means of isolating and dividing interior spaces, operating at the scale of entire floors of buildings rather than rooms[q]. Stairwells used for circulation prior to the adoption of elevators might be interpreted as a kind of elongated corridor, where both circulation schemes provided independent access to relatively private spaces from a more public space, but the stairwell still presented different destinations throughout its height less neutrally in comparison with each other. Walking up to the fifth floor of a building was a noticeably different experience from walking to the second, differentiating the two vertical destinations more than walking a similar lateral distance to reach a different room along a corridor would. The elevator introduced a more neutral means of accessing any floor, making vertical circulation more like the process of accessing a room off a corridor, but its eventual automatic operation (in which occupants no longer needed to pay attention to its movement through space, or to any operators controlling its movement) also introduced something new into the experience of journeying through physical space: travel became non-linear.
+In contrast to the experience of proceeding along a corridor within a typical public institutional building where you walk past and see the closed doors of other rooms (which might have names or numbers on them) on the way to your planned destination, or of ascending past the exits to other floors found inside a stairwell, within a typical modern elevator car you only see glowing floor numbers pass across a digital information display. As the elevator replaced the stairwell as a primary system of circulation in multi-story buildings, floors previously defined using qualitative terms like the piano nobile (the most desirable floor where the owner of a house resided, located two or three levels above the ground) were replaced by neutral (and thus more egalitarian) numbers,[r] at the same time that the individual doorways for each floor which one would walk past on a stairwell were replaced, inside the elevator, with just a number accessed via passage through the same automatic sliding doorway used to access any floor. That obfuscation in turn made floor numbers themselves vulnerable to potential distortion and manipulation.
+When you look at the array of buttons in a typical elevator, you subconsciously assume that you already know how to use them. You will press a button, which is a solid plastic disc or square offering resistance to your fingers as you push it in. You generally expect as a result of your button-press that the elevator will take you to a destination in the building a certain number of floors above the ground (or in other words a certain number of stair flights which you would otherwise need to walk),[10] which is described with a corresponding floor number label next to the button which you pressed. If you press to access the second floor of a suburban American roadside motel you have just checked into for the night, it is reasonable to predict that when you draw open the curtains of your guest room window you will find yourself looking down from above on an overhead view of a parking lot, perhaps with the roof of your car in sight. Meanwhile if you’re traveling to a high floor in an especially tall building, the pressure in your ears might change during your elevator ride, giving you a concrete visceral indication that your physical body is rapidly traveling upwards. Those categories of physical experience are generally more mild than the sensations of exertion you would experience when ascending many flights of stairs, but they help to remind us that the elevator, despite archetypally being a windowless enclosed box which insulates us from perceiving the sights and sounds of the floors it travels past, may still not be a space entirely sealed off from its surroundings.
+In certain situations, however, those lingering impressions of metaphysical coherence are so subtle they are capable of being bypassed or disrupted. One common example of how that disruption occurs in our everyday lives involves some fleeting moments of old-fashioned superstition. We expect and casually ignore how often the numbering on a Western elevator control panel will jump from indicating a button for the twelfth floor to one for the fourteenth floor, even though no additional physical floor necessarily exists in between them.[11] Buildings across China, Japan and Korea similarly omit the number four from their floor listings, since its linguistic pronunciation in those places resembles the word for “death.” On a larger spatial scale, the association in Chinese culture with “88” being a lucky number meanwhile leads developers to routinely over-count or under-count the entire overall floor counts of skyscrapers. [s]The city of Vancouver had to institute a ban on the practice of developers omitting floor numbers, after fire safety concerns were raised when some of them began to eliminate accurate labels for any floor or apartment unit number ending in “4”. In one case seven entire floors (including the 13th and 54th) were eliminated from the floor listing of the 53-story Burrard Place residential building in the city, allowing the developers to market it as being 60 stories tall instead.[12][t][u]
+        Another significant quantity of floors within a building may be left invisible within its floor listing if they are designated to accommodate mechanical systems rather than people, and accordingly left out of the floor listings in a building’s public elevators. [Add examples of buildings with mechanical floors here, and a discussion of the space they take up.] Between all of those different varieties of floor space, an elevator passenger might be left to wonder what a floor in a building even means to begin with.[v][w]
+
+
+Quantization
+
+
+The elevator makes floors seem more floor-like than they might otherwise appear to be. The full expanse of each successive span of eight or ten or so feet of space within the overall height of a building which becomes known as a “floor” is reduced under the elevator’s labeling scheme into a single number associated with the top surface of its lower supporting slab at which an elevator lands. According to signal processing terminology, that reduction of information would be considered an act of quantization, or in other words a process of converting from analog to digital information by smoothing over its details and irregularities. 
+[WIP: Counter-examples of elevators with more manual control, ie. older analog hand-cranked elevators run by elevator operators. How precisely an elevator docked at its floor added an additional richness of nuanced social information to the journey of the elevator ride.] 
+        Prior to being smoothed over by digitization, the full-range analog reality of a high-rise floor level as experienced by its occupants could be considered more complex. In a more analog world, the elevation level of a stair landing might be easier to interpret as being a slightly different floor than those accessed by the steps above or below it; after all you could similarly access it by walking onto it with your body, and in the case of the American suburban split-level house typology it did form one of several partially-overlapping vertical floor levels within a building. 
+One might attempt to think further past artificial generalization about vertical space by considering the perspective which a curious unsupervised housecat would have of the interior space of an apartment; from that animal’s point of view, [x]the top of a dining table or a bookshelf might form other additional inhabitable floors. Architects used to sometimes design in arguably similar ways; within the history of twentieth-century modern architecture alone one might consider the terrace-like staggering of multiple interior levels within homes designed according to Adolf Loos’s Raumplan concept, Le Corbusier’s floor-connecting ramps and his duplex apartments, and later in the century the adoption of the residential living room “conversation pit” as a trend. All of the different potential level heights produced by the many varieties of inhabitable surfaces found in the interiors of those architectural precedents is reduced, under the logic of the elevator, down to a single number.
+
+
+Montage
+
+
+In 1965 the architect Philip Johnson lamented the introduction of elevators into modern buildings by arguing that they disrupted the “whence and whither” of a deliberately-designed linear processional journey which visitors might otherwise be exposed to when walking through an architectural space. The elevator’s isolated windowless interior was anathema to the varied experiences offered by traversing a “shifting, rising, declining turning path” within a building or a landscape, or the sense of delight which a visitor might feel as a result.[13] In today’s world of ubiquitous elevators however, it is perhaps possible to also notice moments where elevators allow experiential narratives to be constructed in addition to being destroyed.[14] The random-access digitization of the spaces traversed by an elevator might allow it to operate in certain ways like artificially-constructed media experience. A narrative of some kind develops whenever an elevator bypasses inconvenient and unaesthetic mechanical floors within a modern skyscraper, or perhaps even unseen residential floors in a luxury apartment building designated for people of lower incomes and accessed via a separate so-called “poor door.” [Mention that later instead?] The elevator’s ability to eliminate bypassed spaces from the overall processional journey its passengers take through a building as they travel from its entrance lobby to a higher floors causes the remaining rooms and visual observations which they encounter to have different meanings than they otherwise would.[15][y]
+        That situation might be comparable to the cinematic technique of montage, in which a movie cuts immediately between footage of two different locations. If a character in a movie travels from home to an office, viewers don’t see the entire experience of the car ride, the search for a parking space or even the elevator ride which they might have taken part in between those two destinations. In the context of a movie’s production, however, the camera which filmed two scenes in two disparate locations still might hypothetically been transported between them, even if it was turned off while being trucked between takes.
+In the theories of the filmmaker-turned-architect Rem Koolhaas, the elevator within a building can be associated with accordingly cinematic categories of experience. The elevator's ability to grant independent access to any floor level encouraged the interpretation of individual building floors as being discrete enclosed zones, able to be built into distinct interior thematic worlds as a result of their inherent isolation from the continuity of their surroundings.[z] [Quotes describing those spaces here.] The structure of an ideal skyscraper [cite what it was] would “create at each elevator stop a different lifestyle and thus an implied ideology, all supported with complete neutrality by the rack.”[16] The result was a fractured environment resistant to the centralized control of an architect’s overall design intent. 
+Koolhaas referenced a built historical example of that concept in the form of New York City’s 1930 Downtown Athletic Club, where such disparate interior spaces as a boxing gym, a swimming pool and a golf course co-existed on different floors within the same 35-story building,[17] generating distinctive but concealed experiences from each other. [Quote Koolhaas’s specific description of procession from elevator into a gym, and discuss it.] Such a spatial sequence might potentially suggest references to the architect’s own comment where he has said that he perceives “… almost no difference between architecture and film. Both work through montage. For a script, you have to connect episodes in such a way that a certain suspense is created. In architecture, we also connect episodes.”[18]
+[More of a conclusion here. General overall outcome: digital encoding of floors combined with automation leads space to be capable of being rearranged.]
+
+
+4. Time
+
+
+The perceived continuity of the floors accessed by buttons within a 1930 elevator building may have been capable of being radically reshuffled in the case of Koolhaas’s analysis, but today high-tech modern elevators are often controlled by the even more abstract affordance of pixelated screens instead. [Discussion of how current elevators with screens and digital access dispatching are controlled by highly arbitrary forms of spatial access.] They are also controlled by automated computer systems which establish a variety of different hidden rules for the elevator’s movement in different situations.[19] Complex informational routing schemes might direct elevators to only land on odd or even floors within a building,[20] or passengers might be directed to either the upper or lower level of a double-deck elevator before they board for their ride.[21]
+        In all those cases involving modern elevators, technological development makes the elevator a more effective system of conveyance by optimizing the temporal efficiency of how it travels through the building. Those types of efficiency improvements have been touted as offering an alternative substitute approach to the more conventional design strategy of increasing circulation throughput inside a building by including additional physical elevator shafts within its plans.[22] Such elaborate systems are still, however, operating by taking advantage of an older inherent attribute of the elevator: the non-linear temporal nature of its movement between different floors.
+        Consider how time passes during a typical elevator ride. The comparative journeys to access high and low floors on an elevator are only distinguished from each other by relatively minor variations in waiting time. After the constant value of the time which elapses during an elevator's initial acceleration and later slow-down is subtracted, the different amounts of time the elevator spends traveling at full speed between floors have an even lower relative impact on the perceived time of how long a floor takes to reach. And other aspects of the overall elevator journey are often less predictable – different rides to the same floor might take longer depending on how long a passenger has to spend waiting for a car to arrive, or be interrupted if it stops on other floors – making it even less obvious how differences in floor height influence the overall duration of an elevator journey. 
+[Counter-argument: longer elevator rides still might mean it’s more likely the ride will be disrupted in terms of more people stepping in/out of the elevator, but the presence of those people throughout the height of the building may not be evenly distributed.][aa] The difference between taking an elevator to either the fifth or the seventh floor of a building might feel like a less significant difference in travel time compared to the difference between riding the same elevator at lunch time versus 3 P.M. in the afternoon, or to walk up two extra floors on a stairway. Time and distance became interchangeable variables, with small amounts of time capable of being weighted to substitute for much longer expanses of distance.
+[Conclusion: elevator floors ultimately become equivalently accessible entries in an arbitrary numeric index, their differences in access time reminiscent of the occasional slight delay which occurs when retrieving digital information from distant sectors of a mechanical hard drive.] [Rewrite this to avoid overlaps with my other hard drive comparisons?][ab][ac][ad][ae][af][ag][ah][ai]
+
+
+Folding [section in development]
+
+
+[Section introduction: if the passage of time during an elevator ride is non-linear, that means the physical path an elevator takes through a building may be designed to be non-linear as well.]
+The two towers of the original World Trade Center featured a pioneering new type of operational system for their elevators, inspired by a previous similar organizational scheme devised by Frank Lloyd Wright for the nuclear-powered elevators within his unbuilt imagined mile-high skyscraper known as The Illinois.[23] [Description of what a sky lobby is.] In both cases, the scheme allowed buildings to be designed which were taller and of greater density than was previously viable, in either a designer’s fictional imagination or the real world. Those buildings specifically achieved greater height, where the maximum feasible height of a building had been limited before, because they were able to increase the throughput of their internal systems of circulation to enable people to more efficiently travel to their higher floors.[aj]
+[Those towers achieved a dramatic spatial expansion in height [also in size, ie. 9 million square feet across two buildings] by expanding in the dimension of time. Logistics involving abstract digital forms of information allowed them to be built to a greater height in the same way that the advent of steel allowed earlier generations of masonry buildings to be built taller.[ak] (Earlier in the history of skyscrapers the advent of the telephone represented another case where the introduction of a technology involving digital information allowed taller buildings to be feasibly built than was possible before; Koolhaas made note of that cause and effect in his analysis of the skyscraper building type.)[24]]
+[Possible metaphor: elevator buttons fold and re-arrange space into greater degrees of density.]
+[Outcome: elevators, through increased automation, can be navigated in more digital ways than rooms along a corridor were, ie through indirect paths towards a destination. Takes the affordances and effects of corridor navigation an additional step further. That’s something concrete that the digitization of space can actually do.]
+[Future section conclusion: it’s possible to construct new types of skyscrapers, conceptually speaking, which achieve greater densities of occupation terms of time rather than vertical height.]
+
+
+Teleportation [section in development]
+
+
+The sky lobby elevator’s topological folding of a journey through physical space is more inconvenient for human users than it is for automated systems capable of producing many of such rearranged journeys through physical space. From the imagined perspective of an automated system such as a robot[25] which is designed to perform tasks which would be tedious for humans, traveling to a destination one mile away is barely different from traveling one foot away. The fact that the longer trip would consume a greater amount of time is only of relevance to us when it is an event we are actively waiting to see completed, but those events are less relevant when they occur passively in the backgrounds of our schedules, and the passage of that time is irrelevant in some sense to the robot itself.
+        [Further text introducing a transition from discussing elevators to discussing robots. Define my terms for discussing robots – maybe like a small trackless elevator which cannot transport people, and therefore similarly analyzed in terms of their building-scale spatial relationships rather than precise technical details. Labeled and numbered corridors and doors serve as de facto elevator tracks guiding a robot through a building.]
+[Discuss here (?) if robots (and systems like GPS?) have the ability to make rooms accessed in lateral space more randomly-accessible like those on an elevator shaft.]
+[Future content: comparison between a computer running a brute force calculation on a large number and a robot (or just a train?) traveling a long distance in physical space. That condition perhaps ultimately proves Johnson’s claim that the elevator negated the dimension of time in architectural procession.]
+ [Conclusion: conceptually speaking, robots can teleport. (Also discuss how elevators relate to teleportation.)]
+
+
+5. Duplication [sections in development][al]
+
+
+However radically digital information and automation technologies might streamline and simplify the act of traveling between two physical locations in physical space, another property of those systems might also mean that the space from which a journey started and that of the journey’s eventual destination could be identical to begin with. [But not just because of the elevator – the implicit standardization of numbered rooms [?]  - after all, to a robot numbered rooms along a corridor were accessible through a similar conceptual process.]
+A pioneering building in the development of standardized rooms, the Statler Hotel constructed in Buffalo, New York in 1923, incorporated repeated copies of identical guest rooms within its floor plans along with, in a certain sense, a relative degree of automation within the building’s operation.[am] Its arrangement would come to be taken for granted within future hotels with identical rooms or models of rooms across the United States and the world. In the description of the historian Lisa Pfueller Davidson, the hotel’s design overturned prior norms of high-rise construction in which room outlines were distorted to fit between the regularly-spaced columns in a building’s steel frame. Instead within the floorplan of the Statler, columns were moved out of their perfectly-spaced grids in order to enable the hotel rooms to have identical repeating dimensions instead. That change would allow the rooms to accommodate more standardized sequences of movement during their cleaning routines, in accordance with Taylorist methods of standardizing industrial work processes which were fashionable around that period in time. [26] 
+what would have been insignificant irregularities in the building’s overall structural loads.
+
+
+ [A robot of course is better at handling repetitive tasks than people, when and if the technology for them exists, and even though they can adapt to different situations, a standardized room still might reduce the range of situations they could encounter.]
+[Discuss relationship between conceptual “teleportation” and duplication.]
+[Note that the identical duplicate rooms still had individual address numbers.]
+
+
+
+
+Searchable Space [in-development][an]
+
+
+
+
+A space with a large enough amount of potentially retrievable digital information, like that of hotels which had hundreds or even over a thousand total rooms in them early in the twentieth century, may have its spaces comprehended more effectively via a computational process of searching. [Brief description of search algorithms.][ao]
+
+
+[Random access space allows for searching, ie GPS.]
+[Briefly my comparison between identical suburban chain businesses and object-oriented programming. Chain restaurant = instance of a class in computer programming terms.]
+[Example: GPS searching for a chain business you already know the name of, before you know its physical location – more physically-disconnected way of navigating an unfamiliar place compared with having to learn the specific names and locations of local businesses.]
+[Discussion of Starbucks business strategy of placing many locations of a chain story in a nearby area.]
+
+
+[Discussion of fast food and duplication:
+Fast food places – evolved from diners which were based on conversions of mass-produced rail cars
+        Are designed according to standard store prototypes
+]
+
+
+[Need to distinguish this section from earlier brute force programming / robot travel comparison somehow?]
+
+
+[Transitional tech – more about how duplication relates to affordances of computer networks.]
+
+
+Distributed Appendages [in-development]
+
+
+[Discussion of Issac Asimov’s scenario of multiple robots forming a single larger collective “robot” which was “twiddling its thumbs.” How would it perceive and interact with the world, including perceiving physical space? How would that collective entity operate from a spatial perspective if the individual robots were isolated from each other in different rooms?]
+[Additional text]
+[Also different affordances in terms of privacy: physical spaces adapted entirely to the needs of automated systems would no longer need to be designed to house bodies as a single continuous entity like buildings do when they are designed for humans, and that situation would mean that such architectural concepts as the interior wall and the enclosed room could have their necessity questioned in new ways.]
+[Additional text]
+[Comparison between computers and a clonal colony of aspen trees.]
+
+
+Computer Vision [section in development]
+
+
+Across all of the previous examples, it becomes clear that computer networks and automated systems are able to perceive and occupy physical space in significantly different ways from humans. In the terminology of the biologist Jakob Johann von Uexküll, those computer systems with their dramatically different affordances from ours might exist within a different Umwelt from our own, a totally different world framed around their specific sets of sensory affordances which would appear deeply alien to us from our own familiar point of our human perceptual capabilities.[27][ap]
+We cannot directly understand how a computer capable of perceiving multiple different locations in physical space at the same time perceives our world any more than we can comprehend the perspective of a small insect dwelling on a blade of grass, and we cannot see all of the same world that it sees through its affordances[aq]. [Recap of the computer’s specific sensory affordances here as transitional text?]
+ [Counter-argument / challenge: computers and robots cannot exist in a space of perfect physical/digital interconnectivity where they still need to serve the needs of humans.]
+[Counter-argument: what happens when different appendages of a computer network are in different rooms, with a wall separating them and preventing them from acting in a truly interconnected way? Are they limited in some of the same ways as people? But at the same time still an unusual and different way of perceiving space; how can we really understand it? What things could such a system do?]
+[There are boundaries to the edge of their network of perfectly digital connectivity through space.] 
+
+
+Game Spaces [in-development]
+[Proxied examples of what perfectly connected spaces look like might potentially occur within games, and could be analyzed to understand that condition. Are they closer to being the computer’s Umwelt?]
+
+
+[Additional text]
+[Technical discussion of game level construction.]
+[Discussion of town interiors in Final Fantay VI]
+[Interior space is surrounded on all sides by darkness – that’s the architectural drawing convention used to represent an underground space, even though the game’s spaces in that case are not necessarily underground.] But in a sense the game village interior spaces are similarly isolated from their surroundings, because they are connected to the outside world via programmed-in teleportation devices rather than any innate direct relationship. An architectural drawing of an interior floor plan of a building might also eliminate information depicting the outside world beyond a building’s walls, but it would show it in a lighter color from the walls. That means it would indicate where the thickness of the walls ended and the context of the outside world began. Similarly top-down portrayals of floor plans within the game levels do not show the presence of the walls around buildings; instead a dark (and thus architecturally speaking implicitly solid) void extends everywhere beyond an invisible line (or a visible wall place) indicating the inner surface of the exterior walls.]
+[That condition occurs at the same time that conditions of “inside” and “outside” are also more arbitrary circumstances which are subject to greater degrees of re-mapping and of potential isolation from each other.]
+[That makes them a more extreme version of Victorian rooms[ar]. They are also larger on the inside than outside.]
+[Discussion of how the edge of a game level is represented here. They still have boundaries of their own. Brief overview of how the edge of a game level may be abruptly cut off by devices like an enclosing mountain range or an open ocean. Compare the ocean even to the “underground” building interior?]]
+[Are game levels themselves are also self-contained rooms? Investigate the possibility of the enclosed Victorian room itself being a metaphor for being online vs. offline.]
+
+
+7. Virtual Walls [in-development]
+
+
+A virtual world, like a medieval map of the world, has hard edges to it. The edges mark the end of all information which has been constructed or otherwise perceived by the system perceiving it, at least in terms of what information that system is capable of perceiving. [Maybe another way of describing an Umwelt?] There could also by extension be edges found between one computer network and another, or an edge between a digital network and the physical world which it selectively interfaces with on the other side of that network.
+The self-contained world of the inside a computer network cannot totally be ignored to the extent that it interacts with people and phenomena in our own world. [Make sure that’s not repetitive with previous writing.] It’s an abstracted ideal state that doesn’t truly exist, just as some people might imagine the physical world as existing in a former technology-free idealized state.
+
+
+[The computer’s world has edges because of how it interacts with people. Its world can collide with ours, and when it does the edges of it manifested in our world can be used to divide people – just like physical “air gap” barriers can separate computer systems by disrupting their internal world with our own. This chapter discussions situations where virtually-generated walls disrupt people’s lives.]
+ [Possible term: byte gap = the inverse of an air gap. A digital space a person cannot pass through because of digital information rather than physical barriers. Like floors you can’t get to on an elevator ride, even if a door was constructed at the right location to access them, because they are unlisted[as].]
+[Discussion of relationships between both physical and informational barriers in space, with examples.]
+[Continuum where labeling and enumeration of rooms can either be a social equalizer – with corridors and the early replacement of floor names with floor numbers in response to the introduction of the elevator – but also create social divisions. In Victorian homes room labeling divided social classes, and elevators in buildings partially accessed via “poor doors” skip floors of people associated with lower classes.]
+[Additional text]
+[In a hypothetical scenario, the skipped floors traveled passed by an elevator heading straight for a sky lobby could have doors in that elevator shaft which didn’t open, and which the elevator didn’t stop for. If so, the elevator would be capable of functioning in exactly the same way.]
+[Additional text]
+[Discuss the topic of privacy in relation to spatial enclosure somewhere in this discussion as well.]
+[Discussion of potential social implications, ie revisiting the social problem of the “poor door” and other systems of segregation like it in the context of information gained from my analysis so far.]
+[Potential reference point: Kafka’s story “Before the Law” - a space which is inaccessible because of informational rather than physical barriers. What is its social context? That was also a protocolized space. Maybe mention earlier or more throughout!]
+[Discuss how virtual walls occur in relation to elevator floors, montage. Elevator floors not shown = infill demarcating the boundaries of traversable space just like those of a wall you can’t walk through.]
+[Does quantization just equal smooth/striated in Deleuzian terms?]
+ [Maybe define specifically that I’m looking at digital as something readable by computers – how does a computer read analog info better than digital info?]
+
+
+Certain real estate listing practices, variously described as “ghost,” “whisper,” or “pocket” listings, involve properties which are less officially placed up for sale outside of the industry’s standard digital listing databases. Those practices occur in part due to []
+ [Organize research on algorithmic apartment pricing.]
+
+
+
+
+[Cloud kitchen - Pasqually’s Pizza example. Illegibility. Hides a something behind a wall which consumers would otherwise rather see]
+[Example of servant call bells – a digital gate temporarily changing the privacy and thus the function of a Victorian room?]
+
+
+Air Gaps
+
+
+If a clonal colony consists of a single organism, then it has circulation path connections spanning throughout its network. If one were to hypothetically evaluate an artificially simplified model of a clonal colony from which any biological nuances which would prevent it from acting as a full metaphor for a computer network were removed, it would be able to move a water droplet between two trees at its very eastern and western edges which might be a thousand miles away. Beyond the edge of those tree roots and branches, though, it could move the droplet no further. Phenomena like elevators riding on tracks and electrical circuits inside wires and traces work in a similar way. Indeed, one of the safest (but most extreme) practices for protecting computer systems in information security is to use the concept of an “air gap” in their external connectivity to prevent them from interacting with a wider network at all.
+[Further writing]
+An example of a similar concept operating within a built environment embedded with significant numbers of ubiquitous sensors and information-collecting affordances might be found in George Orwell’s 1984, where the protagonist’s awareness of unofficial labels and informational boundaries in his physical environment enabled him to temporarily protect himself against a specifically malicious version of a widespread electronic network. An alcove in his room exists outside the view of the two-way television screen monitoring his activity; within which he can privately write in a diary without his normal fear of having his actions monitored. [Too culturally charged of an example to include?] [at][Include footnote with quote from academic describing the novel as not necessarily anti-tech.] 
+[Further analysis/discussion]
+[Conclusion idea: another parallel built environment exists in terms of informationally-constructed walls. We might see those walls as a kind of protocol, which you can learn to see through protocolized thinking.]
+
+
+
+
+
+
+
+
+Flat Elevators
+[Developments leading up to conclusion. Something about the inherent challenges of seeing “digital walls”?]
+[How spaces pass through / intersect with each other when hidden digital forms of segregation are unseen. Recap about role of the dimension of time in modulation those unseen barriers and passages in space, if that transition works.] Where computer systems exist in a different relationship with the three physical dimensions of our built environment from our own because of how they utilize the dimension of time in different ways from how we do, then Edwin Abbott’s classic 1884 story Flatland might be a potential precedent for further understanding them. [Especially since the book was also originally developed as a work of Victorian social commentary.] 
+[Comparison between a computer network’s ability to simultaneously perceive and inhabit different physical spaces, which is something we can’t fully perceive, and the example of the 3D sphere passing through the 2D world of Flatland. The protagonist could not directly see it, but could somewhat understand it in an indirect way by tracking the changing forms of its 2D sections as it passed through his world. We can track the presence of physical and digital walls in our world in a similar way.]
+
+
+Opportunities for new protocols
+
+
+[NOTE: List is incomplete. Currently considering rewriting this to focus more specifically around strategies people can use to notice the presence or absence of “digital walls,” and tools for maintaining or destroying them in socially beneficial ways.]
+
+
+1. Protocols for using automation to further increase spatial density (such as of housing). This could be achieved by
+* Using automated systems to enable frictionless methods for multiple tenants or owners to privately inhabit the same space at different points in time. 
+   * Example: two apartments share the same kitchen at different times.
+2. Protocols for enhanced and modernized digital labeling of physical spaces
+* Opportunities for new types of ownership and renting based on increased granularities of addresses in physical space. 
+   * Examples: addresses for rooms instead of just apartments, opportunities to rent physical space in shorter increments of time than before, evolving apartment floor plans which encompass different combinations of nearby rooms at different points in time, less centralized networks of mailboxes. 
+* Labeling to better distinguish similar physical spaces from each other.
+* “Reverse labeling” to physically differentiate spaces with similar digital labels [???]
+3. Protocols for privacy and security in relation to automated systems[au]
+* Opportunities for automated systems and computers to share physical spaces with humans in situations where multiple humans sharing the same space would be unfeasible.
+* Systems of virtual doors and locks used to provide a robot with access to a private space, including maintaining appropriate practices of digital privacy when it is in that space.
+4. Representational methods for depicting and analyzing physical/digital space
+* Strategies for visually representing spatial/informational networks - potentially a set of symbols inspired by the precedent of those found on electrical diagrams?
+* Strategies for detecting and identifying unethical implementations of spatial/informational networks. 
+   * Example: strategies for detecting informationally-constructed barriers in physical space which are used to impose various forms of segregation[av].
+* A design for an interface (such as an app) for identifying duplicate physical spaces and objects, and informing users about that duplication at points in time where that information is relevant and beneficial.
+________________
+[1] Andreessen, Marc. “Why Software Is Eating the World.” Andreessen Horowitz, August 20, 2011. https://a16z.com/2011/08/20/why-software-is-eating-the-world/.[aw][ax]
+[2] [To do: include a note here, with citations, about how “chaotic storage” isn’t always perfectly implemented; automated warehouses may involve areas incorporating more and less categorization, or varying layers of categorization.]
+[3] Füegi, John, and Jo Francis. “Lovelace & Babbage and the Creation of the 1843 ‘Notes.’” ACM Inroads 6, no. 3 (October 1, 2003): 78–86. https://doi.org/10.1145/2810201. [To do: replace with more direct source.]
+[4]Tantner, Anton. House Numbers: Pictures of a Forgotten History. Translated by Anthony Mathews. Reaktion Books, 2015. https://press.uchicago.edu/ucp/books/book/distributed/H/bo22282433.html.
+[5]Jarzombek, Mark. “Corridor Spaces.” Critical Inquiry 36, no. 4 (2010): 728–70. https://doi.org/10.1086/655210. p. 748-761.
+[6] [Find misplaced source on the adoption of doors in Georgian home interiors.]
+[7]
+[8] Evans, Robin. Translations from Drawing to Building. MIT Press, 1997. 63-65.
+[9] Flanders, Judith. Inside the Victorian Home. (New York: W. W. Norton & Company, 2005), 9. 
+[10]The past historical reception of the push-button as a sometimes controversial cultural influence has also been discussed in the context of elevators. See Bernard, Andreas. Lifted: A Cultural History of the Elevator. (New York: NYU Press, 2014.) 163-172.
+
+
+[11] In some buildings the thirteenth floor may be a hidden mechanical floor, rather than being eliminated entirely. [Source or example here]
+[12] Lee, Jaehong. “No More Skipping 4, 13, 14, 24 in Vancouver Floor Numbers.” Vancouver Sun, November 4, 2015. https://vancouversun.com/news/local-news/no-more-skipping-4-13-14-24-in-vancouver-floor-numbers.
+[13] [168]
+[14] [Is this capable of being connected to Deleuze’s “lines of flight” concept?
+[15] [Note here it the corridor has a similar function. The elevator makes it more explicit though, ie moving a “camera” around while the viewer physically stands still?]
+[16] []
+[17] Koolhaas, Rem. Delirious New York: A Retroactive Manifesto for Manhattan. New York: The Monacelli Press, 1997. p. 155.
+[18] Stungo, Naomi. “Koolhaas and the Gang.” The Observer, July 17, 1999. https://www.theguardian.com/theobserver/1999/jul/18/featuresreview.review1.
+[19] [Reference for elevator automation.]
+[20] [future citation to add]
+[21] [future citation to add]
+[22] [future citation to add]
+[23] Glanz, James, and Eric Lipton. City in the Sky: The Rise and Fall of the World Trade Center. 1st edition. New York: Times Books, 2003. 112-113.
+[24] []
+[25] 
+[26] Davidson, Lisa Pfueller. “Early Twentieth-Century Hotel Architects and the Origins of Standardization.” The Journal of Decorative and Propaganda Arts 25 (2005): 72–103. p. 86
+[27] Uexküll, Jakob Von. “A Stroll through the Worlds of Animals and Men: A Picture Book of Invisible Worlds” 89, no. 4 (January 1, 1992): 319–91. https://doi.org/10.1515/semi.1992.89.4.319. p. 5-8
+
+
+[a]Comment test.
+[b]domain name of ip address can be a counter part of this
+[c]⭐️
+[d]1 total reaction
+Chenoe Hart reacted with 👍 at 2023-07-19 16:39 PM
+[e]!! feels like it is the core argument of this essay
+[f]I agree - this is a strong statement of the main idea
+[g]I think it might be helpful for the readers to see some real-life situations here they can feel that humans are accustomed to this digital based design of physical spaces - as a kind of storytelling!
+[h]maybe we can do some parallel storytelling of a person's journey to find something in physical space / digital one. e.g. a hybrid worker's WFH day which is only about digital data retrieval and their next day in a physical office. About how they request data from a server located in miles away and how they actually commute to a space within this addressable space frame!
+[i]Might be distracting to introduce the "protocol" concept before you're ready to fully explain what it means (I'm trying to figure that out as well in my essay). Maybe you're planning for that here...
+[j]This section of the paper is fascinating! You tell a really interesting story and now I can't wait to see what you do next. You've already made me see the world differently.
+[k]wow started very early!
+[l]Very eye-opening commentary on relationship between architectural configurations, information flows, social relations
+[m]getting smaller and smaller and now even divided by time(e.g. coworking space / airbnb)
+[n]⭐️
+[o]interesting to think about the informational types of walls - in digital space, we sometimes even cannot realize there is a wall if there's no interface for the blocker provided.
+[p]I struggled to understand what you meant by "digital" until here. Do you mean binary? Does it mean broken into parts? Might be helpful to define it very early on in this section.
+[q]!
+[r]One way we retained this in elevators is with the PH button :-)
+[s]This is really interesting because it shows how irrationality can persist within a system that is becoming more rationalized - that could almost be its own essay.
+[t]A bit random, but as someone with 0 architecture background, I did not know these "floor tricks" were used at the "professional" level like this: I thought they were just a way to "fool retail users", and that, for example, a 15 floor building which is labelled up to 16 in the elevator (and skips 13) would still be advertised as a 15 story building for real estate purposes. Seems wild that's not true - and potentially worth expanding on, as it might shock more readers about the extent to which the digital design we give things affects their real world perception.
+[u]That's a useful perspective to hear, since I've been in the process of re-evaluating how much attention I give to that issue.
+[v]there's a link here back to your "light physical sensations" part earlier: you can feel your ears buzz going from floors 1-20, but you don't notice whether you've gone up 19/20/21 floors, whereas if you take the stairs, you do!
+[w]I took out a reference to that when I was trying to trim my count; this comment makes me think about putting it back in.
+[x]I always wonder what my dog thinks when we take an elevator - to him it's probably a "magic wormhole" to different places you can't reach without going through the magic door again...!
+[y]Also a characteristic of so many modern transportation modes, culminating with the freeway where the ability to bypass undesirable space was often an explicit goal (I know you've written about transportation and may also get into this below, just noting it here).
+[z]⭐️
+[aa]counter-counter-arguments: buildings where this is the case typically segment elevators in chunks (floors 1-10, 11-20, etc) so it's not perceptible
+[ab]better example here might be a server - same "best case" response time, but when it gets overloaded, users' experience degrades
+[ac]I like the idea of referencing an overloaded server, since I've been meaning to include more computer references throughout the document. I'd need to make sure I establish that the elevator situation is unique to an overloaded server vs. some other kind of overloaded non-digital system, but I think I could do that by referencing how the numerical floor requests are digital.
+[ad]thinking about time complexity of algorithm from CS field, the tape recorder and elevator will be the case of 'linear time complexity O(n)' which means that the algorithms take proportionally longer to complete as the input grows
+[ae]some related docs: https://en.wikipedia.org/wiki/Time_complexity
+[af]https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/#what-is-time-complexity
+[ag]so it is not recommended to use such data types requiring these types(>= linear time complexity) of algo to iterate what's inside(e.g. list type in Elixir) from the beginning, but for the elevator's case, interestingly, it is unavoidable
+[ah]meaning humans&elevator are traversing the building floors to get to the desired floor(data)
+[ai]Interesting perspective; I'm working on a section about how that complexity is managed with developments like sky lobbies and destination dispatch systems, but this reference gives me another way of thinking about it.
+[aj]I would expand this even more, to an almost ELI5 level
+[ak]⭐️
+[al]I wonder if making this section about houses/condos/apartments could make it resonate more with people? I suspect a similar phenomenon happened, and it feels more drastic, in a way, for people's main living space to be re-shaped than for "temporary spaces" like hotels. 
+
+
+Also, if you are going down the hotel path, I wonder if it's worth ending with sleeping pods (which currently aren't elevator-enabled and still height-limited by ladders!)
+[am]Back to the freeway example - series of highway rest stops within a given section/state are often fully identical, down to the layout of the offramps/parking lots/etc. For a long distance driver it creates a paradoxical sense of stasis as they traverse hundreds of miles.
+[an]I think this might be a great section to include the Amazon warehouse example you mentioned in the past, which was really interesting!
+[ao]I've thought about this searchability quality a lot with respect to media (music, TV/film, books) and how analog structures of transmission made the search/discovery process more intuitive, whereas Spotify/Netflix force you to submit to a more streamlined interface.
+[ap]⭐️
+[aq]Venkat wrote an interesting essay about AI and how computers' lack of embodiment affects their possible worldview https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism
+[ar]⭐️
+[as]⭐️
+[at]I think so, yes. I feel like a less charged example can make the same point (but can't come up with an example off the top of my head...!)
+[au]IoT devices were used as a massive botnet during the Dyn attacks (took down half the internet down in 2016). could be interesting to look at here
+[av]How to discover an "unlabeled poor door"
+[aw]the footnote here feels sufficient - attributing this to him in the main paragraph is more distracting than "value add" to a really interesting context-setting section!
+[ax]Agreed
